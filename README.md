@@ -47,6 +47,7 @@ unprofessional behavior.
 * Bria Parker
 * Kaitlin Newson
 * Mike Rylander
+* Sarah Stang
 * Scott Carlson
 
 *Additional signatures are welcome. To sign, please open a pull request
