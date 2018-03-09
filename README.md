@@ -73,6 +73,7 @@ unprofessional behavior.
 * Christie Peterson
 * Michael Berkowski
 * Dave Mayo
+* Lisa Janicke Hinchliffe 
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
