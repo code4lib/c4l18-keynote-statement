@@ -68,6 +68,7 @@ unprofessional behavior.
 * Ashley Blewer
 * Ryan Wick
 * Andreas "Dre" Orphanides
+* Aaron Collier
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
