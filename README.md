@@ -63,6 +63,7 @@ unprofessional behavior.
 * Alyssa Loera
 * Benjamin Armintor
 * Vicky Steeves
+* Ashley Blewer
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
