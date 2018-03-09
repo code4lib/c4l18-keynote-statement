@@ -36,6 +36,7 @@ unprofessional behavior.
 * Mark A. Matienzo
 * Karl-Rainer Blumenthal
 * Shira Peltzman
+* David Moles
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
