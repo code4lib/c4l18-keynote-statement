@@ -43,6 +43,8 @@ unprofessional behavior.
 * Violeta Ilik
 * Esmé Cowles
 * Mary Jinglewski
+* Kevin Hawkins
+* Bria Parker
 * Kaitlin Newson
 
 *Additional signatures are welcome. To sign, please open a pull request
