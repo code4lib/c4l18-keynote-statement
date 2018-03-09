@@ -70,6 +70,7 @@ unprofessional behavior.
 * Andreas "Dre" Orphanides
 * Aaron Collier
 * Andrew Weaver
+* Christie Peterson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
