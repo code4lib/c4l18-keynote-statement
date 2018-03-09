@@ -30,6 +30,7 @@ unprofessional behavior.
 * Digital Library Federation (DLF)
 * Andromeda Yelton
 * Ranti Junus
+* Michael Della Bitta
 * Michael J. Giarlo
 
 *Additional signatures are welcome. To sign, please open a pull request
