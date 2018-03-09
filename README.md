@@ -43,6 +43,7 @@ unprofessional behavior.
 * Violeta Ilik
 * Esmé Cowles
 * Mary Jinglewski
+* Mike Rylander
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
