@@ -67,6 +67,7 @@ unprofessional behavior.
 * Tom Johnson
 * Ashley Blewer
 * Ryan Wick
+* Andreas "Dre" Orphanides
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
