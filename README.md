@@ -69,6 +69,7 @@ unprofessional behavior.
 * Ryan Wick
 * Andreas "Dre" Orphanides
 * Aaron Collier
+* Andrew Weaver
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
