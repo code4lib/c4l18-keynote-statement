@@ -55,8 +55,10 @@ unprofessional behavior.
 * Nick Ruest
 * Shaun Ellis
 * Katherine Kim
+* Peter Binkley
 * Tisha Mentnech
 * Jenn Colt
+* Tim Donohue
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
