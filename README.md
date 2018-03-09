@@ -48,6 +48,8 @@ unprofessional behavior.
 * Kaitlin Newson
 * Mike Rylander
 * Sarah Stang
+* Scott Carlson
+* Francis Kayiwa
 * Nick Ruest
 
 *Additional signatures are welcome. To sign, please open a pull request
