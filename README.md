@@ -19,6 +19,7 @@ unprofessional behavior.
 * Galen Charlton
 * Ben Florin
 * Peggy Griesinger
+* Bohyun Kim
 * Jaime Mears
 * Bethany Nowviskie
 * Eric Phetteplace
@@ -64,6 +65,7 @@ unprofessional behavior.
 * Benjamin Armintor
 * Vicky Steeves
 * Ashley Blewer
+* Ryan Wick
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
