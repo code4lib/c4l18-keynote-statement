@@ -37,6 +37,7 @@ unprofessional behavior.
 * Karl-Rainer Blumenthal
 * Shira Peltzman
 * Nick Andrews
+* Esmé Cowles
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
