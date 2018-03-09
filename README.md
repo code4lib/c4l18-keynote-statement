@@ -34,6 +34,7 @@ unprofessional behavior.
 * Michael J. Giarlo
 * Jessamyn West
 * Mark A. Matienzo
+* Shira Peltzman
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
