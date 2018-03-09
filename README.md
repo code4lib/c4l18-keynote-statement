@@ -32,6 +32,7 @@ unprofessional behavior.
 * Ranti Junus
 * Michael Della Bitta
 * Michael J. Giarlo
+* Jessamyn West
 * Mark A. Matienzo
 
 *Additional signatures are welcome. To sign, please open a pull request
