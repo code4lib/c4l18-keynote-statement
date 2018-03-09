@@ -40,6 +40,7 @@ unprofessional behavior.
 * Nick Andrews
 * Anne Slaughter
 * Violeta Ilik
+* Esmé Cowles
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
