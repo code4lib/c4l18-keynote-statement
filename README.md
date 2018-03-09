@@ -57,6 +57,7 @@ unprofessional behavior.
 * Katherine Kim
 * Peter Binkley
 * Tisha Mentnech
+* Mike Simpson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
