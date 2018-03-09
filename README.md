@@ -36,7 +36,10 @@ unprofessional behavior.
 * Mark A. Matienzo
 * Karl-Rainer Blumenthal
 * Shira Peltzman
+* David Moles
 * Nick Andrews
+* Anne Slaughter
+* Violeta Ilik
 * Esmé Cowles
 
 *Additional signatures are welcome. To sign, please open a pull request
