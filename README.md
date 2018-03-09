@@ -62,6 +62,7 @@ unprofessional behavior.
 * Tim Donohue
 * Alyssa Loera
 * Benjamin Armintor
+* Vicky Steeves
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
