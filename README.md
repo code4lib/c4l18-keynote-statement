@@ -42,6 +42,7 @@ unprofessional behavior.
 * Anne Slaughter
 * Violeta Ilik
 * Esmé Cowles
+* Mary Jinglewski
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
