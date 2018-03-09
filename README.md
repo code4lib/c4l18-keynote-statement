@@ -74,6 +74,7 @@ unprofessional behavior.
 * Michael Berkowski
 * Dave Mayo
 * Lisa Janicke Hinchliffe 
+* Dorothea Salo
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
