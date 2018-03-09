@@ -49,6 +49,7 @@ unprofessional behavior.
 * Mike Rylander
 * Sarah Stang
 * Scott Carlson
+* Francis Kayiwa
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
