@@ -72,6 +72,7 @@ unprofessional behavior.
 * Andrew Weaver
 * Christie Peterson
 * Michael Berkowski
+* Dave Mayo
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
