@@ -23,6 +23,7 @@ unprofessional behavior.
 * Bethany Nowviskie
 * Eric Phetteplace
 * Amy Wickner
+* Becky Yoose
 
 ## Additional Signatories (Individuals and Organizations Welcome)
 
