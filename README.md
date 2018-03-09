@@ -64,6 +64,7 @@ unprofessional behavior.
 * Alyssa Loera
 * Benjamin Armintor
 * Vicky Steeves
+* Tom Johnson
 * Ashley Blewer
 * Ryan Wick
 
