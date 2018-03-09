@@ -46,6 +46,9 @@ unprofessional behavior.
 * Kevin S. Hawkins
 * Bria Parker
 * Kaitlin Newson
+* Mike Rylander
+* Sarah Stang
+* Scott Carlson
 * Francis Kayiwa
 
 *Additional signatures are welcome. To sign, please open a pull request
