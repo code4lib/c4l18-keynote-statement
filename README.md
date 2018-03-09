@@ -23,6 +23,7 @@ unprofessional behavior.
 * Bethany Nowviskie
 * Eric Phetteplace
 * Amy Wickner
+* Becky Yoose
 
 ## Additional Signatories (Individuals and Organizations Welcome)
 
@@ -55,6 +56,7 @@ unprofessional behavior.
 * Shaun Ellis
 * Katherine Kim
 * Peter Binkley
+* Tisha Mentnech
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
