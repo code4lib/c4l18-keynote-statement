@@ -19,6 +19,7 @@ unprofessional behavior.
 * Galen Charlton
 * Ben Florin
 * Peggy Griesinger
+* Bohyun Kim
 * Jaime Mears
 * Bethany Nowviskie
 * Eric Phetteplace
