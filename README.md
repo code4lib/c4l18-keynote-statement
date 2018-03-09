@@ -50,6 +50,7 @@ unprofessional behavior.
 * Sarah Stang
 * Scott Carlson
 * Francis Kayiwa
+* Nick Ruest
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
