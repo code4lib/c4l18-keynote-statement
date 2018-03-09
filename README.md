@@ -19,10 +19,12 @@ unprofessional behavior.
 * Galen Charlton
 * Ben Florin
 * Peggy Griesinger
+* Bohyun Kim
 * Jaime Mears
 * Bethany Nowviskie
 * Eric Phetteplace
 * Amy Wickner
+* Becky Yoose
 
 ## Additional Signatories (Individuals and Organizations Welcome)
 
@@ -48,6 +50,30 @@ unprofessional behavior.
 * Kaitlin Newson
 * Mike Rylander
 * Sarah Stang
+* Scott Carlson
+* Francis Kayiwa
+* Bill Erickson
+* Nick Ruest
+* Shaun Ellis
+* Katherine Kim
+* Peter Binkley
+* Tisha Mentnech
+* Mike Simpson
+* Jenn Colt
+* Tim Donohue
+* Alyssa Loera
+* Benjamin Armintor
+* Vicky Steeves
+* Tom Johnson
+* Ashley Blewer
+* Ryan Wick
+* Andreas "Dre" Orphanides
+* Aaron Collier
+* Andrew Weaver
+* Christie Peterson
+* Michael Berkowski
+* Dave Mayo
+* Lisa Janicke Hinchliffe 
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
