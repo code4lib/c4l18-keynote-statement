@@ -33,6 +33,7 @@ unprofessional behavior.
 * Michael Della Bitta
 * Michael J. Giarlo
 * Jessamyn West
+* Peter E. Murray
 * Mark A. Matienzo
 * Karl-Rainer Blumenthal
 * Shira Peltzman
@@ -40,6 +41,7 @@ unprofessional behavior.
 * Nick Andrews
 * Anne Slaughter
 * Violeta Ilik
+* Esmé Cowles
 * Mary Jinglewski
 
 *Additional signatures are welcome. To sign, please open a pull request
