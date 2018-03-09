@@ -53,6 +53,7 @@ unprofessional behavior.
 * Bill Erickson
 * Nick Ruest
 * Shaun Ellis
+* Katherine Kim
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
