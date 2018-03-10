@@ -135,6 +135,7 @@ unprofessional behavior.
 * Declan Fleming
 * Brian E. C. Schottlaender
 * Carol Bean
+* Ryan P. Randall
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
