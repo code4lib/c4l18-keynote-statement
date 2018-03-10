@@ -51,6 +51,7 @@ unprofessional behavior.
 * Scott Carlson
 * Francis Kayiwa
 * Nick Ruest
+* Samuel Hansen
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
