@@ -94,6 +94,7 @@ unprofessional behavior.
 * Ian Knabe
 * Rebekah Kati
 * Kelly Bolding
+* Tim Wentz
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
