@@ -274,6 +274,7 @@ unprofessional behavior.
 * Kathleen Reed
 * M. Taormina
 * Deborah Babb
+* Jer Thorp
 * Emily Gore
 * Jeffrey Spies
 * Rachel Frick
