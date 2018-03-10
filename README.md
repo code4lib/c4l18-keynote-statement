@@ -229,6 +229,7 @@ unprofessional behavior.
 * Steven R. Harris
 * Faith Charlton
 * Cynthia Ng
+* Nancy E. Adams
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
