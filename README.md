@@ -225,6 +225,7 @@ unprofessional behavior.
 * Christopher Cronin
 * Linda Ballinger
 * Natalie DeJonghe
+* Dominic Bordelon
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
