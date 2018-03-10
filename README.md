@@ -88,6 +88,10 @@ unprofessional behavior.
 * Jaime Taylor
 * Brandon Dudley
 * Shannon Hunt
+* Melissa Wisner
+* Kevin Cloud
+* Valerie Hawkins
+* Ian Knabe
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
