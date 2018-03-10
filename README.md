@@ -110,6 +110,7 @@ unprofessional behavior.
 * Galadriel Chilton
 * Eve Ross
 * Dave S. Ghamandi
+* Jacob Berg
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
