@@ -131,6 +131,7 @@ unprofessional behavior.
 * Greg Wiedeman
 * Chad Nelson
 * R. David Lankes
+* Terry Reese
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
