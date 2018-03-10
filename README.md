@@ -265,6 +265,7 @@ unprofessional behavior.
 * Dot Porter
 * Austin Booth
 * Hector Correa
+* Andrew Darby
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
