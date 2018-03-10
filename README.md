@@ -154,6 +154,7 @@ unprofessional behavior.
 * Cathy Aster
 * Kyle R. Rimkus
 * Dolly Knight
+* Kelcy Shepherd
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
