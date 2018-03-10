@@ -82,6 +82,7 @@ unprofessional behavior.
 * Charles Ed Hill
 * Kim Pham
 * Netanel Ganin
+* Cecily Walker
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
