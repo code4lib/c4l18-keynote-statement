@@ -92,6 +92,7 @@ unprofessional behavior.
 * Kevin Cloud
 * Valerie Hawkins
 * Ian Knabe
+* Rebekah Kati
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
