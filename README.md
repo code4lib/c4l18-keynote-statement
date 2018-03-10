@@ -99,9 +99,11 @@ unprofessional behavior.
 * Kevin Butterfield
 * Deb DeGeorge
 * Kyle Shockey
+* Jesse Martinez
 * Patricia Hswe
 * Violet Fox
 * Hardy Joseph Pottinger IV
+* Paige Morgan
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
