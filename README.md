@@ -55,6 +55,7 @@ unprofessional behavior.
 * Francis Kayiwa
 * Bill Erickson
 * Nick Ruest
+* Samuel Hansen
 * Shaun Ellis
 * Katherine Kim
 * Peter Binkley
@@ -117,6 +118,7 @@ unprofessional behavior.
 * Trevor Owens
 * Wendy Robertson
 * Mairéad Martin
+* Whitni Watkins
 * Brian Rosenblum
 * Ryan Claringbole
 * Ellen Keith
@@ -146,6 +148,7 @@ unprofessional behavior.
 * Michael B. Klein
 * John Jung
 * Kevin Reiss
+* Rachel Mattson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
