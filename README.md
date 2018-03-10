@@ -25,6 +25,7 @@ unprofessional behavior.
 * Eric Phetteplace
 * Amy Wickner
 * Becky Yoose
+* Amanda Watson
 
 ## Additional Signatories (Individuals and Organizations Welcome)
 
@@ -213,12 +214,15 @@ unprofessional behavior.
 * Helen Szigeti
 * Shannon K. Supple
 * Sarah Glassmeyer
+* Jason Rhody
 * Justin Schell
 * Athena Jackson
 * John Mark Ockerbloom
 * Teresa Schultz
 * Anna St.Onge
-
+* Timothy A. Thompson
+* Damon Jaggars
+* Christopher Cronin
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
