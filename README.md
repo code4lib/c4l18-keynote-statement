@@ -112,6 +112,7 @@ unprofessional behavior.
 * Dave S. Ghamandi
 * Jacob Berg
 * Tom Scheinfeldt
+* Hillel Arnold
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
