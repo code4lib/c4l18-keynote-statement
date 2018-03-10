@@ -116,6 +116,7 @@ unprofessional behavior.
 * Trevor Owens
 * Wendy Robertson
 * Mairéad Martin
+* Brian Rosenblum
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
