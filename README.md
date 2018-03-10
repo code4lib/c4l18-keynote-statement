@@ -108,6 +108,8 @@ unprofessional behavior.
 * Keith Gilbertson
 * Wally Grotophorst
 * Galadriel Chilton
+* Eve Ross
+* Dave S. Ghamandi
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
