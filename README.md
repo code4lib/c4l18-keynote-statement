@@ -118,6 +118,7 @@ unprofessional behavior.
 * Mairéad Martin
 * Brian Rosenblum
 * Ryan Claringbole
+* Ellen Keith
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
