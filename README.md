@@ -257,6 +257,10 @@ unprofessional behavior.
 * Julien A. Raemy
 * Christy Hyman
 * Jill Cirasella
+* Elizabeth England
+* Jere Odell
+* Chris Diaz
+* Greer Martin
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
