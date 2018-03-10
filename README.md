@@ -80,6 +80,7 @@ unprofessional behavior.
 * Sara Allain
 * Corey A Harper
 * Charles Ed Hill
+* Kim Pham
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
