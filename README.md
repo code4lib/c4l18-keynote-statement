@@ -208,6 +208,7 @@ unprofessional behavior.
 * Samantha Abrams
 * Helen Szigeti
 * Shannon K. Supple
+* Sarah Glassmeyer
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
