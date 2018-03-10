@@ -223,6 +223,7 @@ unprofessional behavior.
 * Timothy A. Thompson
 * Damon Jaggars
 * Christopher Cronin
+* Linda Ballinger
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
