@@ -201,6 +201,7 @@ unprofessional behavior.
 * Derek Zoladz
 * Desmond Wong
 * Claire Stewart
+* D.R. Tyler Magill
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
