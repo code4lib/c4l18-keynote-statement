@@ -160,6 +160,7 @@ unprofessional behavior.
 * John Quentin Heywood
 * Amy Buckland
 * Kristina Spurgin
+* Jenn Riley
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
