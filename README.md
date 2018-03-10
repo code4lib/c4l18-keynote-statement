@@ -159,6 +159,7 @@ unprofessional behavior.
 * Megan A. Brooks
 * John Quentin Heywood
 * Amy Buckland
+* Kristina Spurgin
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
