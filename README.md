@@ -237,6 +237,10 @@ unprofessional behavior.
 * Alison Blaine
 * Becca Quon
 * Mark Baggett
+* Lisa Marie Rhody
+* Nicky Agate
+* Erica Hayes
+* Ethan Fenichel 
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
