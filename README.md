@@ -278,6 +278,7 @@ unprofessional behavior.
 * Emily Gore
 * Jeffrey Spies
 * Rachel Frick
+* William Denton
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
