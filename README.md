@@ -25,7 +25,6 @@ unprofessional behavior.
 * Eric Phetteplace
 * Amy Wickner
 * Becky Yoose
-* Amanda Watson
 
 ## Additional Signatories (Individuals and Organizations Welcome)
 
@@ -238,6 +237,7 @@ unprofessional behavior.
 * Becca Quon
 * Mark Baggett
 * Robert Cartolano
+* Amanda Watson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
