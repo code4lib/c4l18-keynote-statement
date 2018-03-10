@@ -126,6 +126,7 @@ unprofessional behavior.
 * Patrick Galligan
 * Jeanine Finn
 * Heather Joseph
+* Carmen Mitchell
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
