@@ -30,6 +30,7 @@ unprofessional behavior.
 
 * Roy Tennant
 * Digital Library Federation (DLF)
+* Library and Information Technology Association (LITA)
 * Andromeda Yelton
 * Ranti Junus
 * Michael Della Bitta
@@ -40,7 +41,7 @@ unprofessional behavior.
 * Karl-Rainer Blumenthal
 * Shira Peltzman
 * David Moles
-* Nick Andrews
+* Nicky Andrews
 * Anne Slaughter
 * Violeta Ilik
 * Esmé Cowles
@@ -54,6 +55,7 @@ unprofessional behavior.
 * Francis Kayiwa
 * Bill Erickson
 * Nick Ruest
+* Samuel Hansen
 * Shaun Ellis
 * Katherine Kim
 * Peter Binkley
@@ -116,12 +118,14 @@ unprofessional behavior.
 * Trevor Owens
 * Wendy Robertson
 * Mairéad Martin
+* Whitni Watkins
 * Brian Rosenblum
 * Ryan Claringbole
 * Ellen Keith
 * Mike Furlough
 * A.S. Galvan
 * Stacie Traill
+* Adrienne Lai
 * Kimberly M. Hoffman
 * Patrick Galligan
 * Jeanine Finn
@@ -129,6 +133,92 @@ unprofessional behavior.
 * Carmen Mitchell
 * Greg Wiedeman
 * Chad Nelson
+* R. David Lankes
+* Terry Reese
+* Declan Fleming
+* Brian E. C. Schottlaender
+* Carol Bean
+* Ryan P. Randall
+* Sarah Simpkin
+* Lauren Klein
+* Kevin Clair
+* Hugh Cayless
+* Sherry Lake
+* Mark Phillips
+* Michael B. Klein
+* John Jung
+* Kevin Reiss
+* Rachel Mattson
+* Lora J. Woodford
+* Helene Williams
+* Cathy Aster
+* Kyle R. Rimkus
+* Nicholas Taylor
+* Dolly Knight
+* Kelcy Shepherd
+* Megan A. Brooks
+* John Quentin Heywood
+* Amy Buckland
+* Kristina Spurgin
+* Jenn Riley
+* Abigail Goben
+* Jason Heppler
+* Corey Davis
+* Miriam Posner
+* Hannah Frost
+* Misty De Meo
+* Rob Sanderson
+* Scott W. H. Young
+* Jonathan Rochkind
+* Kurt Nordstrom
+* Graham Hukill
+* Mattie Schraeder
+* Gail Steinhart
+* Kristin Lee
+* Anna Creech
+* Mary Molinaro
+* Sharon E. Farb
+* Pat Tully
+* Chad Haefele
+* Valerie Forrestal
+* Naomi House
+* Fobazi M Ettarh
+* Jim DelRosso
+* Erik Radio
+* Lauren E. Fox
+* Gary Thompson
+* Michelle Bass
+* Dominique Luster
+* Amelia Gibson
+* Jason Casden
+* Julie Hardesty
+* Jason Ronallo
+* Justin Coyne
+* Scott Ziegler
+* Matt Zumwalt
+* Rebecca Cremona 
+* Kim Martin
+* Derek Zoladz
+* Desmond Wong
+* Claire Stewart
+* D.R. Tyler Magill
+* Vika Zafrin
+* Erin Stalberg
+* Alex Gil
+* Sarah Shreeves
+* Ann Thornton
+* Erin O'Meara
+* Carolyn Ciesla
+* Samantha Abrams
+* Helen Szigeti
+* Shannon K. Supple
+* Sarah Glassmeyer
+* Jason Rhody
+* Justin Schell
+* Athena Jackson
+* John Mark Ockerbloom
+* Teresa Schultz
+* Damon Jaggars
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
