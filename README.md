@@ -55,6 +55,7 @@ unprofessional behavior.
 * Francis Kayiwa
 * Bill Erickson
 * Nick Ruest
+* Samuel Hansen
 * Shaun Ellis
 * Katherine Kim
 * Peter Binkley
