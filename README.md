@@ -209,6 +209,7 @@ unprofessional behavior.
 * Helen Szigeti
 * Shannon K. Supple
 * Sarah Glassmeyer
+* Jason Rhody
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
