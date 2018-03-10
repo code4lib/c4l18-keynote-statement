@@ -118,6 +118,7 @@ unprofessional behavior.
 * Trevor Owens
 * Wendy Robertson
 * Mairéad Martin
+* Whitni Watkins
 * Brian Rosenblum
 * Ryan Claringbole
 * Ellen Keith
