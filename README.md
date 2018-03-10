@@ -95,6 +95,8 @@ unprofessional behavior.
 * Rebekah Kati
 * Kelly Bolding
 * Brendan Quinn
+* Kevin Butterfield
+* Deb DeGeorge
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
