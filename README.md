@@ -25,7 +25,7 @@ unprofessional behavior.
 * Eric Phetteplace
 * Amy Wickner
 * Becky Yoose
-* Amanda Watson
+
 
 ## Additional Signatories (Individuals and Organizations Welcome)
 
@@ -238,11 +238,22 @@ unprofessional behavior.
 * Becca Quon
 * Mark Baggett
 * Robert Cartolano
+* Amanda Watson
 * Lisa Marie Rhody
 * Nicky Agate
 * Erica Hayes
 * Ethan Fenichel
 * Walt Gurley
+* Eric Hanson (Code4Lib Journal Editorial Committee)
+* Mark A. Puente
+* Kathleen Fitzpatrick
+* Erin Templeton
+* Julie Sweetkind-Singer
+* Jen Waller
+* Laura Smart
+* Cody Hanson
+* Dan Cohen 
+* Ed Summers
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
