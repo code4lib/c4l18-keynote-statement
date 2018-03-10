@@ -207,6 +207,7 @@ unprofessional behavior.
 * Carolyn Ciesla
 * Samantha Abrams
 * Helen Szigeti
+* Shannon K. Supple
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
