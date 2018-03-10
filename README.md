@@ -122,6 +122,7 @@ unprofessional behavior.
 * Mike Furlough
 * A.S. Galvan
 * Stacie Traill
+* Adrienne Lai
 * Kimberly M. Hoffman
 * Patrick Galligan
 * Jeanine Finn
@@ -129,6 +130,10 @@ unprofessional behavior.
 * Carmen Mitchell
 * Greg Wiedeman
 * Chad Nelson
+* R. David Lankes
+* Terry Reese
+* Declan Fleming
+* Brian E. C. Schottlaender
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
