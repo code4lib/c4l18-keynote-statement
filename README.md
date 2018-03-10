@@ -130,6 +130,7 @@ unprofessional behavior.
 * Carmen Mitchell
 * Greg Wiedeman
 * Chad Nelson
+* R. David Lankes
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
