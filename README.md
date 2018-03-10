@@ -238,7 +238,13 @@ unprofessional behavior.
 * Becca Quon
 * Mark Baggett
 * Robert Cartolano
+* Lisa Marie Rhody
+* Nicky Agate
+* Erica Hayes
+* Ethan Fenichel
+* Walt Gurley
 * Eric Hanson (Code4Lib Journal Editorial Committee)
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
