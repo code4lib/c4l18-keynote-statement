@@ -137,6 +137,7 @@ unprofessional behavior.
 * Carol Bean
 * Ryan P. Randall
 * Kevin Clair
+* Hugh Cayless
 * Sherry Lake
 
 *Additional signatures are welcome. To sign, please open a pull request
