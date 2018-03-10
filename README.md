@@ -265,6 +265,7 @@ unprofessional behavior.
 * Dot Porter
 * Austin Booth
 * Hector Correa
+* Cynthia Mari Orozco
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
