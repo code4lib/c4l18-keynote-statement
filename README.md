@@ -84,6 +84,7 @@ unprofessional behavior.
 * Netanel Ganin
 * Cecily Walker
 * Kelly Kietur
+* K. G. Schneider, Ph.D.
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
