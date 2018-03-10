@@ -212,6 +212,7 @@ unprofessional behavior.
 * Justin Schell
 * Athena Jackson
 * John Mark Ockerbloom
+* Teresa Schultz
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
