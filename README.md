@@ -115,6 +115,7 @@ unprofessional behavior.
 * Hillel Arnold
 * Trevor Owens
 * Wendy Robertson
+* Mairéad Martin
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
