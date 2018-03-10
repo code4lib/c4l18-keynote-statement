@@ -173,6 +173,7 @@ unprofessional behavior.
 * Kurt Nordstrom
 * Graham Hukill
 * Mattie Schraeder
+* Gail Steinhart
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
