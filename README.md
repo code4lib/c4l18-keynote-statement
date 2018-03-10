@@ -275,6 +275,9 @@ unprofessional behavior.
 * M. Taormina
 * Deborah Babb
 * Jer Thorp
+* Emily Gore
+* Jeffrey Spies
+* Rachel Frick
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
