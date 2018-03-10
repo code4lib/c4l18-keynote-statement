@@ -162,6 +162,7 @@ unprofessional behavior.
 * Kristina Spurgin
 * Jenn Riley
 * Abigail Goben
+* Kurt Nordstrom
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
