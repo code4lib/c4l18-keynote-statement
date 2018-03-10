@@ -194,6 +194,10 @@ unprofessional behavior.
 * Julie Hardesty
 * Jason Ronallo
 * Justin Coyne
+* Scott Ziegler
+* Matt Zumwalt
+* Rebecca Cremona 
+* Kim Martin
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
