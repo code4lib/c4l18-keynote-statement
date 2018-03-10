@@ -104,6 +104,7 @@ unprofessional behavior.
 * Violet Fox
 * Hardy Joseph Pottinger IV
 * Paige Morgan
+* Keith Gilbertson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
