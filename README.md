@@ -276,6 +276,7 @@ unprofessional behavior.
 * Deborah Babb
 * Emily Gore
 * Rachel Frick
+* Amanda Visconti
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
