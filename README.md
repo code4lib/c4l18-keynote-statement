@@ -166,6 +166,7 @@ unprofessional behavior.
 * Corey Davis
 * Miriam Posner
 * Hannah Frost
+* Misty De Meo
 * Scott W. H. Young
 
 
