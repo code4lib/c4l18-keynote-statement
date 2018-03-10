@@ -169,6 +169,7 @@ unprofessional behavior.
 * Misty De Meo
 * Rob Sanderson
 * Scott W. H. Young
+* Jonathan Rochkind
 
 
 *Additional signatures are welcome. To sign, please open a pull request
