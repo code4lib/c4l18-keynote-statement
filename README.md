@@ -200,6 +200,7 @@ unprofessional behavior.
 * Kim Martin
 * Derek Zoladz
 * Desmond Wong
+* Claire Stewart
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
