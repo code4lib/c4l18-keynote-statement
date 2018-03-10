@@ -199,7 +199,7 @@ unprofessional behavior.
 * Rebecca Cremona 
 * Kim Martin
 * Derek Zoladz
-
+* Desmond Wong
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
