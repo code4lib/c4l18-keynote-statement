@@ -224,6 +224,7 @@ unprofessional behavior.
 * Damon Jaggars
 * Christopher Cronin
 * Linda Ballinger
+* Natalie DeJonghe
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
