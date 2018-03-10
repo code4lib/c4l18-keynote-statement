@@ -19,15 +19,18 @@ unprofessional behavior.
 * Galen Charlton
 * Ben Florin
 * Peggy Griesinger
+* Bohyun Kim
 * Jaime Mears
 * Bethany Nowviskie
 * Eric Phetteplace
 * Amy Wickner
+* Becky Yoose
 
 ## Additional Signatories (Individuals and Organizations Welcome)
 
 * Roy Tennant
 * Digital Library Federation (DLF)
+* Library and Information Technology Association (LITA)
 * Andromeda Yelton
 * Ranti Junus
 * Michael Della Bitta
@@ -50,8 +53,100 @@ unprofessional behavior.
 * Sarah Stang
 * Scott Carlson
 * Francis Kayiwa
+* Bill Erickson
 * Nick Ruest
 * Samuel Hansen
+* Shaun Ellis
+* Katherine Kim
+* Peter Binkley
+* Tisha Mentnech
+* Mike Simpson
+* Jenn Colt
+* Tim Donohue
+* Alyssa Loera
+* Benjamin Armintor
+* Vicky Steeves
+* Tom Johnson
+* Ashley Blewer
+* Ryan Wick
+* Andreas "Dre" Orphanides
+* Aaron Collier
+* Andrew Weaver
+* Christie Peterson
+* Michael Berkowski
+* Dave Mayo
+* Lisa Janicke Hinchliffe 
+* Dorothea Salo
+* Christina Harlow
+* Ruth Kitchin Tillman (Code4Lib Journal Editorial Committee)
+* Sara Allain
+* Corey A Harper
+* Charles Ed Hill
+* Kim Pham
+* Netanel Ganin
+* Cecily Walker
+* Kelly Kietur
+* K. G. Schneider, Ph.D.
+* Jaime Taylor
+* Brandon Dudley
+* Shannon Hunt
+* Melissa Wisner
+* Kevin Cloud
+* Valerie Hawkins
+* Ian Knabe
+* Rebekah Kati
+* Kelly Bolding
+* Tim Wentz
+* Brendan Quinn
+* Kevin Butterfield
+* Deb DeGeorge
+* Kyle Shockey
+* Jesse Martinez
+* Patricia Hswe
+* Violet Fox
+* Hardy Joseph Pottinger IV
+* Paige Morgan
+* Joanne Paterson
+* Keith Gilbertson
+* Wally Grotophorst
+* Galadriel Chilton
+* Eve Ross
+* Dave S. Ghamandi
+* Jacob Berg
+* Tom Scheinfeldt
+* Hillel Arnold
+* Trevor Owens
+* Wendy Robertson
+* Mairéad Martin
+* Brian Rosenblum
+* Ryan Claringbole
+* Ellen Keith
+* Mike Furlough
+* A.S. Galvan
+* Stacie Traill
+* Adrienne Lai
+* Kimberly M. Hoffman
+* Patrick Galligan
+* Jeanine Finn
+* Heather Joseph
+* Carmen Mitchell
+* Greg Wiedeman
+* Chad Nelson
+* R. David Lankes
+* Terry Reese
+* Declan Fleming
+* Brian E. C. Schottlaender
+* Carol Bean
+* Ryan P. Randall
+* Sarah Simpkin
+* Lauren Klein
+* Kevin Clair
+* Hugh Cayless
+* Sherry Lake
+* Mark Phillips
+* Michael B. Klein
+* John Jung
+* Rachel Mattson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
