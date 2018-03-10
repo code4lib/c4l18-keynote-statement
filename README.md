@@ -153,6 +153,7 @@ unprofessional behavior.
 * Helene Williams
 * Cathy Aster
 * Kyle R. Rimkus
+* Nicholas Taylor
 * Dolly Knight
 * Kelcy Shepherd
 
