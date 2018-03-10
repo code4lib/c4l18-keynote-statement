@@ -266,6 +266,8 @@ unprofessional behavior.
 * Austin Booth
 * Hector Correa
 * Cynthia Mari Orozco
+* David Pcolar
+* Andrew Darby
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
