@@ -100,6 +100,7 @@ unprofessional behavior.
 * Deb DeGeorge
 * Kyle Shockey
 * Patricia Hswe
+* Violet Fox
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
