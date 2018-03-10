@@ -248,7 +248,7 @@ unprofessional behavior.
 * Walt Gurley
 * Eric Hanson (Code4Lib Journal Editorial Committee)
 * Mark A. Puente
-
+* Jen Waller
 
 
 *Additional signatures are welcome. To sign, please open a pull request
