@@ -136,6 +136,7 @@ unprofessional behavior.
 * Brian E. C. Schottlaender
 * Carol Bean
 * Ryan P. Randall
+* Lauren Klein
 * Kevin Clair
 * Hugh Cayless
 * Sherry Lake
