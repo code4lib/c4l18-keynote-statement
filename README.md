@@ -94,11 +94,14 @@ unprofessional behavior.
 * Ian Knabe
 * Rebekah Kati
 * Kelly Bolding
+* Tim Wentz
 * Brendan Quinn
 * Kevin Butterfield
 * Deb DeGeorge
 * Kyle Shockey
 * Jesse Martinez
+* Patricia Hswe
+* Violet Fox
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
