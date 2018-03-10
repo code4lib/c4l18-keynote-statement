@@ -93,6 +93,7 @@ unprofessional behavior.
 * Valerie Hawkins
 * Ian Knabe
 * Rebekah Kati
+* Kelly Bolding
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
