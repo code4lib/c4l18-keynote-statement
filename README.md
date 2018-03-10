@@ -170,6 +170,7 @@ unprofessional behavior.
 * Rob Sanderson
 * Scott W. H. Young
 * Jonathan Rochkind
+* Kurt Nordstrom
 
 
 *Additional signatures are welcome. To sign, please open a pull request
