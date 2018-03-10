@@ -232,6 +232,7 @@ unprofessional behavior.
 * Nancy E. Adams
 * Kate Flynn
 * Laura Miller
+* Joe Montibello
 * Pam Ryan
 
 *Additional signatures are welcome. To sign, please open a pull request
