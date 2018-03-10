@@ -235,6 +235,7 @@ unprofessional behavior.
 * Joe Montibello
 * Pam Ryan
 * Alison Blaine
+* Becca Quon
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
