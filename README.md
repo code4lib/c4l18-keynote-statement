@@ -162,7 +162,14 @@ unprofessional behavior.
 * Kristina Spurgin
 * Jenn Riley
 * Abigail Goben
+* Jason Heppler
+* Corey Davis
+* Miriam Posner
+* Hannah Frost
+* Misty De Meo
 * Rob Sanderson
+* Scott W. H. Young
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
