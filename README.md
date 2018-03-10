@@ -134,6 +134,7 @@ unprofessional behavior.
 * Terry Reese
 * Declan Fleming
 * Brian E. C. Schottlaender
+* Carol Bean
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
