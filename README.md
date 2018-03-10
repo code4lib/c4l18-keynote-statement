@@ -268,6 +268,7 @@ unprofessional behavior.
 * Cynthia Mari Orozco
 * David Pcolar
 * Andrew Darby
+* Bruce Hulse
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
