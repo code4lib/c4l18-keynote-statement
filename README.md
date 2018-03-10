@@ -246,7 +246,7 @@ unprofessional behavior.
 * Ethan Fenichel
 * Walt Gurley
 * Eric Hanson (Code4Lib Journal Editorial Committee)
-* Marc A. Puente
+* Mark A. Puente
 
 
 *Additional signatures are welcome. To sign, please open a pull request
