@@ -189,6 +189,7 @@ unprofessional behavior.
 * Gary Thompson
 * Michelle Bass
 * Dominique Luster
+* Amelia Gibson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
