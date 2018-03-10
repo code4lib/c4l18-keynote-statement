@@ -122,6 +122,7 @@ unprofessional behavior.
 * Mike Furlough
 * A.S. Galvan
 * Stacie Traill
+* Adrienne Lai
 * Kimberly M. Hoffman
 * Patrick Galligan
 * Jeanine Finn
