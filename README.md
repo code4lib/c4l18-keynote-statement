@@ -202,6 +202,10 @@ unprofessional behavior.
 * Desmond Wong
 * Claire Stewart
 * D.R. Tyler Magill
+* Vika Zafrin
+* Erin Stalberg
+* Alex Gil
+* Sarah Shreeves
 * Ann Thornton
 * Erin O'Meara
 * Carolyn Ciesla
@@ -213,6 +217,7 @@ unprofessional behavior.
 * Athena Jackson
 * John Mark Ockerbloom
 * Teresa Schultz
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
