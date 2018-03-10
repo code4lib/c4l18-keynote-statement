@@ -41,7 +41,7 @@ unprofessional behavior.
 * Karl-Rainer Blumenthal
 * Shira Peltzman
 * David Moles
-* Nick Andrews
+* Nicky Andrews
 * Anne Slaughter
 * Violeta Ilik
 * Esmé Cowles
@@ -203,6 +203,10 @@ unprofessional behavior.
 * Claire Stewart
 * D.R. Tyler Magill
 * Ann Thornton
+* Erin O'Meara
+* Carolyn Ciesla
+* Samantha Abrams
+* Helen Szigeti
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
