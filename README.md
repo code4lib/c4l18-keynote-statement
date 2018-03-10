@@ -226,6 +226,7 @@ unprofessional behavior.
 * Linda Ballinger
 * Natalie DeJonghe
 * Dominic Bordelon
+* Steven R. Harris
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
