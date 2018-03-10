@@ -26,6 +26,8 @@ unprofessional behavior.
 * Amy Wickner
 * Becky Yoose
 * Amanda Watson
+* Kathleen Fitzpatrick
+* Erin Templeton
 
 ## Additional Signatories (Individuals and Organizations Welcome)
 
