@@ -101,6 +101,7 @@ unprofessional behavior.
 * Kyle Shockey
 * Patricia Hswe
 * Violet Fox
+* Hardy Joseph Pottinger IV
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
