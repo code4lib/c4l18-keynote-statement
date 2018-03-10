@@ -253,6 +253,7 @@ unprofessional behavior.
 * Laura Smart
 * Cody Hanson
 * Dan Cohen 
+* Julien A. Raemy
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
