@@ -76,6 +76,7 @@ unprofessional behavior.
 * Lisa Janicke Hinchliffe 
 * Dorothea Salo
 * Christina Harlow
+* Ruth Kitchin Tillman (Code4Lib Journal Editorial Committee)
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
