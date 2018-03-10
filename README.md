@@ -113,6 +113,12 @@ unprofessional behavior.
 * Jacob Berg
 * Tom Scheinfeldt
 * Hillel Arnold
+* Trevor Owens
+* Wendy Robertson
+* Mairéad Martin
+* Brian Rosenblum
+* Ryan Claringbole
+* Ellen Keith
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
