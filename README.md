@@ -171,6 +171,7 @@ unprofessional behavior.
 * Scott W. H. Young
 * Jonathan Rochkind
 * Kurt Nordstrom
+* Mattie Schraeder
 
 
 *Additional signatures are welcome. To sign, please open a pull request
