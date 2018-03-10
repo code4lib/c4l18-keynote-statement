@@ -164,6 +164,10 @@ unprofessional behavior.
 * Abigail Goben
 * Jason Heppler
 * Corey Davis
+* Miriam Posner
+* Hannah Frost
+* Scott W. H. Young
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
