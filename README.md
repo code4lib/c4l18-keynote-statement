@@ -153,6 +153,7 @@ unprofessional behavior.
 * Helene Williams
 * Cathy Aster
 * Kyle R. Rimkus
+* Dolly Knight
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
