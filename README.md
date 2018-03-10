@@ -95,6 +95,11 @@ unprofessional behavior.
 * Rebekah Kati
 * Kelly Bolding
 * Tim Wentz
+* Brendan Quinn
+* Kevin Butterfield
+* Deb DeGeorge
+* Kyle Shockey
+* Patricia Hswe
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
