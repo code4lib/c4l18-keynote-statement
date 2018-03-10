@@ -97,6 +97,7 @@ unprofessional behavior.
 * Brendan Quinn
 * Kevin Butterfield
 * Deb DeGeorge
+* Kyle Shockey
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
