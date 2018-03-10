@@ -105,6 +105,7 @@ unprofessional behavior.
 * Hardy Joseph Pottinger IV
 * Paige Morgan
 * Joanne Paterson
+* Keith Gilbertson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
