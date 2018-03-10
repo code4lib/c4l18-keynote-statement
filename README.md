@@ -162,6 +162,7 @@ unprofessional behavior.
 * Kristina Spurgin
 * Jenn Riley
 * Abigail Goben
+* Jason Heppler
 * Corey Davis
 
 *Additional signatures are welcome. To sign, please open a pull request
