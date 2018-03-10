@@ -102,6 +102,7 @@ unprofessional behavior.
 * Jesse Martinez
 * Patricia Hswe
 * Violet Fox
+* Hardy Joseph Pottinger IV
 * Paige Morgan
 
 *Additional signatures are welcome. To sign, please open a pull request
