@@ -143,6 +143,7 @@ unprofessional behavior.
 * Hugh Cayless
 * Sherry Lake
 * Mark Phillips
+* Michael B. Klein
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
