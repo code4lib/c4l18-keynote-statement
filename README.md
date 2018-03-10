@@ -94,6 +94,7 @@ unprofessional behavior.
 * Ian Knabe
 * Rebekah Kati
 * Kelly Bolding
+* Tim Wentz
 * Brendan Quinn
 * Kevin Butterfield
 * Deb DeGeorge
