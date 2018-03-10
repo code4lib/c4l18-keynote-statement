@@ -174,6 +174,20 @@ unprofessional behavior.
 * Graham Hukill
 * Mattie Schraeder
 * Gail Steinhart
+* Kristin Lee
+* Anna Creech
+* Mary Molinaro
+* Sharon E. Farb
+* Pat Tully
+* Chad Haefele
+* Valerie Forrestal
+* Naomi House
+* Fobazi M Ettarh
+* Jim DelRosso
+* Erik Radio
+* Lauren E. Fox
+* Gary Thompson
+* Michelle Bass
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
