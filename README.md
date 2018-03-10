@@ -132,6 +132,7 @@ unprofessional behavior.
 * Chad Nelson
 * R. David Lankes
 * Terry Reese
+* Declan Fleming
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
