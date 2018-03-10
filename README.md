@@ -156,6 +156,7 @@ unprofessional behavior.
 * Nicholas Taylor
 * Dolly Knight
 * Kelcy Shepherd
+* Megan A. Brooks
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
