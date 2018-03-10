@@ -238,6 +238,7 @@ unprofessional behavior.
 * Becca Quon
 * Mark Baggett
 * Robert Cartolano
+* Eric Hanson (Code4Lib Journal Editorial Committee)
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
