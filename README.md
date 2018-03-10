@@ -217,6 +217,7 @@ unprofessional behavior.
 * Athena Jackson
 * John Mark Ockerbloom
 * Teresa Schultz
+* Anna St.Onge
 
 
 *Additional signatures are welcome. To sign, please open a pull request
