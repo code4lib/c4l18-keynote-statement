@@ -218,6 +218,7 @@ unprofessional behavior.
 * Athena Jackson
 * John Mark Ockerbloom
 * Teresa Schultz
+* Timothy A. Thompson
 * Damon Jaggars
 * Christopher Cronin
 
