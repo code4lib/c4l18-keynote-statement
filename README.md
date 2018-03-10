@@ -123,6 +123,12 @@ unprofessional behavior.
 * A.S. Galvan
 * Stacie Traill
 * Adrienne Lai
+* Kimberly M. Hoffman
+* Patrick Galligan
+* Jeanine Finn
+* Heather Joseph
+* Carmen Mitchell
+* Greg Wiedeman
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
