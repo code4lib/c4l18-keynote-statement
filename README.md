@@ -191,6 +191,7 @@ unprofessional behavior.
 * Dominique Luster
 * Amelia Gibson
 * Jason Casden
+* Julie Hardesty
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
