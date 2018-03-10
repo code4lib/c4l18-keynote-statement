@@ -241,6 +241,7 @@ unprofessional behavior.
 * Nicky Agate
 * Erica Hayes
 * Ethan Fenichel 
+* Walt Gurley 
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
