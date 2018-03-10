@@ -228,6 +228,7 @@ unprofessional behavior.
 * Dominic Bordelon
 * Steven R. Harris
 * Faith Charlton
+* Cynthia Ng
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
