@@ -188,6 +188,7 @@ unprofessional behavior.
 * Lauren E. Fox
 * Gary Thompson
 * Michelle Bass
+* Dominique Luster
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
