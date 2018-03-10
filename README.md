@@ -114,6 +114,7 @@ unprofessional behavior.
 * Tom Scheinfeldt
 * Hillel Arnold
 * Trevor Owens
+* Wendy Robertson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
