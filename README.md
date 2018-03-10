@@ -79,6 +79,7 @@ unprofessional behavior.
 * Ruth Kitchin Tillman (Code4Lib Journal Editorial Committee)
 * Sara Allain
 * Corey A Harper
+* Charles Ed Hill
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
