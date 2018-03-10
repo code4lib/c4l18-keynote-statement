@@ -172,6 +172,7 @@ unprofessional behavior.
 * Jonathan Rochkind
 * Kurt Nordstrom
 * Graham Hukill
+* Gail Steinhart
 
 
 *Additional signatures are welcome. To sign, please open a pull request
