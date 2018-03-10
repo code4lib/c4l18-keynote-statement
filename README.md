@@ -83,6 +83,7 @@ unprofessional behavior.
 * Kim Pham
 * Netanel Ganin
 * Cecily Walker
+* Kelly Kietur
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
