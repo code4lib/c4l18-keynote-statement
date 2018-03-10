@@ -87,6 +87,7 @@ unprofessional behavior.
 * K. G. Schneider, Ph.D.
 * Jaime Taylor
 * Brandon Dudley
+* Shannon Hunt
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
