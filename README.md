@@ -152,6 +152,7 @@ unprofessional behavior.
 * Lora J. Woodford
 * Helene Williams
 * Cathy Aster
+* Kyle R. Rimkus
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
