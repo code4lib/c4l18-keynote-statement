@@ -253,6 +253,7 @@ unprofessional behavior.
 * Laura Smart
 * Cody Hanson
 * Dan Cohen 
+* Ed Summers
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
