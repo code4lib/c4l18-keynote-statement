@@ -261,6 +261,9 @@ unprofessional behavior.
 * Jere Odell
 * Chris Diaz
 * Greer Martin
+* Heather Soyka
+* Dot Porter
+* Austin Booth
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
