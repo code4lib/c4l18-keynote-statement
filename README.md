@@ -122,6 +122,7 @@ unprofessional behavior.
 * Mike Furlough
 * A.S. Galvan
 * Stacie Traill
+* Kimberly M. Hoffman
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
