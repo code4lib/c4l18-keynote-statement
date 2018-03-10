@@ -202,6 +202,7 @@ unprofessional behavior.
 * Desmond Wong
 * Claire Stewart
 * D.R. Tyler Magill
+* Ann Thornton
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
