@@ -250,6 +250,7 @@ unprofessional behavior.
 * Erin Templeton
 * Julie Sweetkind-Singer
 * Jen Waller
+* Laura Smart
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
