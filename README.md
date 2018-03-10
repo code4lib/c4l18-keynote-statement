@@ -129,6 +129,7 @@ unprofessional behavior.
 * Heather Joseph
 * Carmen Mitchell
 * Greg Wiedeman
+* Chad Nelson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
