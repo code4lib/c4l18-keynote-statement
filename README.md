@@ -209,6 +209,7 @@ unprofessional behavior.
 * Helen Szigeti
 * Shannon K. Supple
 * Sarah Glassmeyer
+* Justin Schell
 * Athena Jackson
 
 *Additional signatures are welcome. To sign, please open a pull request
