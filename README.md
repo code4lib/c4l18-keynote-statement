@@ -158,6 +158,7 @@ unprofessional behavior.
 * Kelcy Shepherd
 * Megan A. Brooks
 * John Quentin Heywood
+* Amy Buckland
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
