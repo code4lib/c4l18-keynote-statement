@@ -198,6 +198,8 @@ unprofessional behavior.
 * Matt Zumwalt
 * Rebecca Cremona 
 * Kim Martin
+* Derek Zoladz
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
