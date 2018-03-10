@@ -251,6 +251,7 @@ unprofessional behavior.
 * Julie Sweetkind-Singer
 * Jen Waller
 * Laura Smart
+* Cody Hanson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
