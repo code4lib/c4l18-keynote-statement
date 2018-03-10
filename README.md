@@ -123,6 +123,7 @@ unprofessional behavior.
 * A.S. Galvan
 * Stacie Traill
 * Kimberly M. Hoffman
+* Patrick Galligan
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
