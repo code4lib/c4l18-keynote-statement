@@ -117,6 +117,7 @@ unprofessional behavior.
 * Wendy Robertson
 * Mairéad Martin
 * Brian Rosenblum
+* Ryan Claringbole
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
