@@ -149,6 +149,7 @@ unprofessional behavior.
 * John Jung
 * Kevin Reiss
 * Rachel Mattson
+* Helene Williams
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
