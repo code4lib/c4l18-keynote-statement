@@ -219,6 +219,7 @@ unprofessional behavior.
 * John Mark Ockerbloom
 * Teresa Schultz
 * Damon Jaggars
+* Christopher Cronin
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
