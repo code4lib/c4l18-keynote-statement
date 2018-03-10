@@ -190,6 +190,7 @@ unprofessional behavior.
 * Michelle Bass
 * Dominique Luster
 * Amelia Gibson
+* Jason Casden
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
