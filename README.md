@@ -136,6 +136,7 @@ unprofessional behavior.
 * Brian E. C. Schottlaender
 * Carol Bean
 * Ryan P. Randall
+* Kevin Clair
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
