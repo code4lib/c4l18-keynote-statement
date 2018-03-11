@@ -298,7 +298,11 @@ unprofessional behavior.
 * Jamie Folsom
 * Jason Griffey
 * James C. Davis
+* Beth Daniel Lindsay
+* Heather Yager
+* Kate Simpson
 * Jerry Waller
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
