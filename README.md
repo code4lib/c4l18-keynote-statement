@@ -283,6 +283,7 @@ unprofessional behavior.
 * Jon Stroop
 * Dorothy Kim
 * Chris Stanton
+* Judy Ruttenberg
 * Deborah Caldwell
 * Tim McGeary
 
