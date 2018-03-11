@@ -223,6 +223,7 @@ unprofessional behavior.
 * Anna St.Onge
 * Timothy A. Thompson
 * Damon Jaggars
+* Katherine Deibel  
 * Christopher Cronin
 * Linda Ballinger
 * Natalie DeJonghe
