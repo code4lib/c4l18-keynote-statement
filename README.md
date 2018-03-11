@@ -326,6 +326,7 @@ unprofessional behavior.
 * Ian Milligan
 * Shirley Zhao
 * Michèle Spieler
+* jean amaral
 
 
 *Additional signatures are welcome. To sign, please open a pull request
