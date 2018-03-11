@@ -1,4 +1,4 @@
--# Code4Lib Community Statement in Support of Chris Bourg
+# Code4Lib Community Statement in Support of Chris Bourg
 
 Last month, MIT Library Director Chris Bourg was chosen by community vote
 to deliver a keynote lecture at the [Code4Lib](http://2018.code4lib.org/)
