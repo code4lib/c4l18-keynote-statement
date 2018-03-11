@@ -295,6 +295,7 @@ unprofessional behavior.
 * Dan Scott
 * Tom Bruno
 * Roopika Risam
+* James C. Davis
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
