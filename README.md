@@ -332,6 +332,7 @@ unprofessional behavior.
 * Anna Filippova
 * Kate Dohe 
 * Nicholas Schiller
+* Donna M. Lanclos
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
