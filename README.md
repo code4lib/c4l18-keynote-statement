@@ -76,7 +76,7 @@ unprofessional behavior.
 * Christie Peterson
 * Michael Berkowski
 * Dave Mayo
-* Lisa Janicke Hinchliffe 
+* Lisa Janicke Hinchliffe
 * Dorothea Salo
 * Christina Harlow
 * Ruth Kitchin Tillman (Code4Lib Journal Editorial Committee)
@@ -197,7 +197,7 @@ unprofessional behavior.
 * Justin Coyne
 * Scott Ziegler
 * Matt Zumwalt
-* Rebecca Cremona 
+* Rebecca Cremona
 * Kim Martin
 * Derek Zoladz
 * Desmond Wong
@@ -295,6 +295,7 @@ unprofessional behavior.
 * Dan Scott
 * Tom Bruno
 * Roopika Risam
+* Jamie Folsom
 * Jason Griffey
 
 *Additional signatures are welcome. To sign, please open a pull request
