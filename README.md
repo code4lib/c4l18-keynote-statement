@@ -299,6 +299,9 @@ unprofessional behavior.
 * Jason Griffey
 * James C. Davis
 * Beth Daniel Lindsay
+* Heather Yager
+* Kate Simpson
+* Jerry Waller
 * Rogan Hamby
 
 *Additional signatures are welcome. To sign, please open a pull request
