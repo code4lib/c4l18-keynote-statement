@@ -333,6 +333,7 @@ unprofessional behavior.
 * Kate Dohe 
 * Nicholas Schiller
 * Donna M. Lanclos
+* Colin Nickels
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
