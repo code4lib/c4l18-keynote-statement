@@ -305,6 +305,9 @@ unprofessional behavior.
 * Rogan Hamby
 * Esther M. Jackson
 * Matthew Noe
+* Maura Smale
+* Steve Casburn
+* Rebecca Larocque
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
