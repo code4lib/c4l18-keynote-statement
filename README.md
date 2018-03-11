@@ -286,6 +286,7 @@ unprofessional behavior.
 * Judy Ruttenberg
 * Deborah Caldwell
 * Tim McGeary
+* Katina Rogers
 * Eric Johnson
 
 *Additional signatures are welcome. To sign, please open a pull request
