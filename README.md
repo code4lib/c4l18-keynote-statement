@@ -320,6 +320,8 @@ unprofessional behavior.
 * Sam Popowich
 * John Fink
 * Nicole Radziwill
+* Jack Reed
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
