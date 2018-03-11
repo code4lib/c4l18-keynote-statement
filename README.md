@@ -298,6 +298,7 @@ unprofessional behavior.
 * Jamie Folsom
 * Jason Griffey
 * James C. Davis
+* Beth Daniel Lindsay
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
