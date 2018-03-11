@@ -323,6 +323,7 @@ unprofessional behavior.
 * Nicole Radziwill
 * Jack Reed
 * Ryan Cordell
+* Ian Milligan
 
 
 *Additional signatures are welcome. To sign, please open a pull request
