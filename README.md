@@ -315,6 +315,7 @@ unprofessional behavior.
 * Alexandra Dolan-Mescal
 * Sarah Melton
 * Laura Koltutsky
+* Ian Hardy
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
