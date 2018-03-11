@@ -287,6 +287,8 @@ unprofessional behavior.
 * Deborah Caldwell
 * Tim McGeary
 * Craig Boman
+* Katina Rogers
+* Eric Johnson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
