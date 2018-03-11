@@ -299,6 +299,7 @@ unprofessional behavior.
 * Jason Griffey
 * James C. Davis
 * Beth Daniel Lindsay
+* Rogan Hamby
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
