@@ -283,6 +283,7 @@ unprofessional behavior.
 * Jon Stroop
 * Dorothy Kim
 * Chris Stanton
+* Tim McGeary
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
