@@ -310,6 +310,7 @@ unprofessional behavior.
 * Rebecca Larocque
 * University of Virginia Scholars' Lab
 * Martin Paul Eve
+* Philip N. Cohen
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
