@@ -313,6 +313,7 @@ unprofessional behavior.
 * Philip N. Cohen
 * Dale Askey
 * Alexandra Dolan-Mescal
+* Sarah Melton
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
