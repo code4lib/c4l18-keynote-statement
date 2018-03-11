@@ -318,6 +318,7 @@ unprofessional behavior.
 * Ian Hardy
 * Sam Popowich
 * John Fink
+* Jack Reed
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
