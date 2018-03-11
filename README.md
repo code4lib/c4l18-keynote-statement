@@ -293,6 +293,7 @@ unprofessional behavior.
 * Laura Wrubel
 * Matt Bernhardt
 * Dan Scott
+* Tom Bruno
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
