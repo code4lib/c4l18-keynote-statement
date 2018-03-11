@@ -252,7 +252,7 @@ unprofessional behavior.
 * Jen Waller
 * Laura Smart
 * Cody Hanson
-* Dan Cohen
+* Dan Cohen 
 * Ed Summers
 * Julien A. Raemy
 * Christy Hyman
