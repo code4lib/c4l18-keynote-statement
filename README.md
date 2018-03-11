@@ -284,6 +284,7 @@ unprofessional behavior.
 * Dorothy Kim
 * Chris Stanton
 * Deborah Caldwell
+* Tim McGeary
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
