@@ -326,8 +326,8 @@ unprofessional behavior.
 * Ian Milligan
 * Shirley Zhao
 * Michèle Spieler
+* Juan Pablo Alperin on behalf of the Public Knowledge Project (PKP)
 * jean amaral
-
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
