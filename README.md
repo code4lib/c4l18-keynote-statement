@@ -32,6 +32,7 @@ unprofessional behavior.
 * Roy Tennant
 * Digital Library Federation (DLF)
 * Library and Information Technology Association (LITA)
+* Association for Computers in the Humanities (ACH)
 * Andromeda Yelton
 * Ranti Junus
 * Michael Della Bitta
