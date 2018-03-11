@@ -330,6 +330,7 @@ unprofessional behavior.
 * jean amaral
 * debra hanken kurtz
 * Anna Filippova
+* Kate Dohe 
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
