@@ -322,6 +322,7 @@ unprofessional behavior.
 * John Fink
 * Nicole Radziwill
 * Jack Reed
+* Ryan Cordell
 
 
 *Additional signatures are welcome. To sign, please open a pull request
