@@ -290,6 +290,7 @@ unprofessional behavior.
 * Katina Rogers
 * Eric Johnson
 * Siobhan Senier
+* Laura Wrubel
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
