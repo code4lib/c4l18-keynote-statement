@@ -334,6 +334,7 @@ unprofessional behavior.
 * Nicholas Schiller
 * Donna M. Lanclos
 * Christy Tomecek
+* Colin Nickels
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
