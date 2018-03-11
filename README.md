@@ -289,6 +289,7 @@ unprofessional behavior.
 * Craig Boman
 * Katina Rogers
 * Eric Johnson
+* Siobhan Senier
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
