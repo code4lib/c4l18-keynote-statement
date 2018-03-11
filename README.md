@@ -292,6 +292,7 @@ unprofessional behavior.
 * Siobhan Senier
 * Laura Wrubel
 * Matt Bernhardt
+* Dan Scott
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
