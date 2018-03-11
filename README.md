@@ -309,6 +309,7 @@ unprofessional behavior.
 * Steve Casburn
 * Rebecca Larocque
 * University of Virginia Scholars' Lab
+* Philip N. Cohen
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
