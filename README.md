@@ -337,6 +337,7 @@ unprofessional behavior.
 * Colin Nickels
 * Moira Downey
 * Rebecca Kennison
+* Dan Coughlin
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
