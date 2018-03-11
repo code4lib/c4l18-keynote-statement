@@ -291,6 +291,7 @@ unprofessional behavior.
 * Eric Johnson
 * Siobhan Senier
 * Laura Wrubel
+* Matt Bernhardt
 * Dan Scott
 
 *Additional signatures are welcome. To sign, please open a pull request
