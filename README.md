@@ -286,6 +286,7 @@ unprofessional behavior.
 * Judy Ruttenberg
 * Deborah Caldwell
 * Tim McGeary
+* Craig Boman
 * Katina Rogers
 * Eric Johnson
 
