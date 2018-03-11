@@ -324,6 +324,7 @@ unprofessional behavior.
 * Jack Reed
 * Ryan Cordell
 * Ian Milligan
+* Shirley Zhao
 
 
 *Additional signatures are welcome. To sign, please open a pull request
