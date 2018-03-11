@@ -329,6 +329,7 @@ unprofessional behavior.
 * Juan Pablo Alperin on behalf of the Public Knowledge Project (PKP)
 * jean amaral
 * debra hanken kurtz
+* Anna Filippova
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
