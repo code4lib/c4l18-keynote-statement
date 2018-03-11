@@ -335,6 +335,7 @@ unprofessional behavior.
 * Donna M. Lanclos
 * Christy Tomecek
 * Colin Nickels
+* Moira Downey
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
