@@ -303,6 +303,7 @@ unprofessional behavior.
 * Kate Simpson
 * Jerry Waller
 * Rogan Hamby
+* Esther M. Jackson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
