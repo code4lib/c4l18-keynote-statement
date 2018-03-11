@@ -304,6 +304,7 @@ unprofessional behavior.
 * Jerry Waller
 * Rogan Hamby
 * Esther M. Jackson
+* Matthew Noe
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
