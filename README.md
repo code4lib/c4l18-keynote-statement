@@ -25,7 +25,7 @@ unprofessional behavior.
 * Eric Phetteplace
 * Amy Wickner
 * Becky Yoose
-
+*
 
 ## Additional Signatories (Individuals and Organizations Welcome)
 
@@ -461,7 +461,7 @@ unprofessional behavior.
 * Gary Price
 * Geoff Harder
 * Lisa Schiff
-
+* Elliott Shore
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
 [GitHub repository](https://github.com/code4lib/c4l18-keynote-statement)
