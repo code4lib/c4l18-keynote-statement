@@ -443,6 +443,7 @@ unprofessional behavior.
 * John Huck
 * Gerald R. Beasley 
 * Randy Stern
+* Derek Merleaux
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
