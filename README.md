@@ -389,6 +389,7 @@ unprofessional behavior.
 * Trip Kirkpatrick
 * Sarah Park
 * Sue Baughman
+* Charlotte Rock
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
