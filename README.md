@@ -223,7 +223,7 @@ unprofessional behavior.
 * Anna St.Onge
 * Timothy A. Thompson
 * Damon Jaggars
-* Katherine Deibel  
+* Katherine Deibel
 * Christopher Cronin
 * Linda Ballinger
 * Natalie DeJonghe
@@ -254,7 +254,7 @@ unprofessional behavior.
 * Jen Waller
 * Laura Smart
 * Cody Hanson
-* Dan Cohen 
+* Dan Cohen
 * Ed Summers
 * Julien A. Raemy
 * Christy Hyman
@@ -330,7 +330,7 @@ unprofessional behavior.
 * jean amaral
 * debra hanken kurtz
 * Anna Filippova
-* Kate Dohe 
+* Kate Dohe
 * Nicholas Schiller
 * Donna M. Lanclos
 * Christy Tomecek
@@ -363,13 +363,14 @@ unprofessional behavior.
 * Rebecca Hirsch (Code4Lib Journal Editorial Committee)
 * Jay Luker
 * Sandra Sawchuk
-* Thomas Padilla 
+* Thomas Padilla
 * Jonathan Zittrain
 * Ian Clark
 * Jessica Moran
 * Jeremy Nelson
 * Alexis Logsdon
 * Courtney C. Mumma
+* Data Curation Experts (DCE), LLC
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
