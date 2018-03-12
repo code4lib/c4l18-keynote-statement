@@ -373,6 +373,10 @@ unprofessional behavior.
 * Norda Bell
 * Genny Jon
 * F. Tim Knight
+* Logan Cox
+* Association of Research Libraries 
+* Monica McCormick
+* Prudence S. Adler 
 * Kaylyn Groves 
 
 *Additional signatures are welcome. To sign, please open a pull request
