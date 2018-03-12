@@ -406,6 +406,7 @@ unprofessional behavior.
 * John T. Butler
 * Ursula Pieper
 * Paul Wester
+* Joe Lucia
 
 
 *Additional signatures are welcome. To sign, please open a pull request
