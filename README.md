@@ -453,6 +453,7 @@ unprofessional behavior.
 * Emily Knox
 * Katherine Skinner
 * Bruce Orcutt
+* Shari Laster
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
