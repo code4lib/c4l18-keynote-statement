@@ -372,16 +372,23 @@ unprofessional behavior.
 * Courtney C. Mumma
 * Data Curation Experts (DCE), LLC
 * Bess Sadler
+* Mark Bussey
 * Norda Bell
 * Genny Jon
 * F. Tim Knight
 * Logan Cox
-* Association of Research Libraries 
+* Association of Research Libraries
 * Monica McCormick
-* Prudence S. Adler 
+* Prudence S. Adler
 * Kaylyn Groves
 * Susan Ivey
 * Anne R. Kenney 
+* Amanda Whitmire
+* Jeff Sabol
+* Jennifer B. Young
+* Trip Kirkpatrick
+* Sarah Park
+* Sue Baughman
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
