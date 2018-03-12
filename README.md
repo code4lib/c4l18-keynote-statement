@@ -439,6 +439,7 @@ unprofessional behavior.
 * Ginny Steel
 * Janet Carleton
 * Araceli Hintermeister
+* Gerald R. Beasley 
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
