@@ -442,6 +442,7 @@ unprofessional behavior.
 * John Huck
 * Gerald R. Beasley 
 * Randy Stern
+* Shawn P. Calhoun
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
