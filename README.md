@@ -369,6 +369,7 @@ unprofessional behavior.
 * Jessica Moran
 * Jeremy Nelson
 * Alexis Logsdon
+* Courtney C. Mumma
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
