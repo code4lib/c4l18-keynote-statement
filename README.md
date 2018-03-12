@@ -343,7 +343,9 @@ unprofessional behavior.
 * Heather Coates
 * Josh Hall
 * Laura C. Wood
-* Adam Ziegler
+* Kevin Sanders
+* Andrew Preater
+* Laurie Taylor
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
