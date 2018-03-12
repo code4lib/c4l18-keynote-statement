@@ -35,6 +35,7 @@ unprofessional behavior.
 * American Library Association (ALA)
 * Association for Computers in the Humanities (ACH)
 * Council on Library and Information Resources (CLIR)
+* Penn State University Libraries
 * Andromeda Yelton
 * Ranti Junus
 * Michael Della Bitta
@@ -463,7 +464,7 @@ unprofessional behavior.
 * Lisa Schiff
 * Elliott Shore
 * J. Matthew Huculak
-* Penn State University Libraries
+* Mike Osterman
 * Barbara Dewey
 * Joseph Salem
 * Karen Estlund
