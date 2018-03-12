@@ -427,6 +427,7 @@ unprofessional behavior.
 * Ben Rearick
 * Caitlin Pollock
 * Shawn P. Calhoun
+* Barbara Laufersweiler
 
 
 *Additional signatures are welcome. To sign, please open a pull request
