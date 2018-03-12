@@ -370,6 +370,9 @@ unprofessional behavior.
 * Jeremy Nelson
 * Alexis Logsdon
 * Courtney C. Mumma
+* Norda Bell
+* Genny Jon
+* F. Tim Knight
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
