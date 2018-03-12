@@ -34,6 +34,7 @@ unprofessional behavior.
 * Library and Information Technology Association (LITA)
 * American Library Association (ALA)
 * Association for Computers in the Humanities (ACH)
+* Council on Library and Information Resources (CLIR)
 * Andromeda Yelton
 * Ranti Junus
 * Michael Della Bitta
@@ -450,6 +451,7 @@ unprofessional behavior.
 * Grace Barth
 * Cecily Marcus
 * Emily Knox
+* Katherine Skinner
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
