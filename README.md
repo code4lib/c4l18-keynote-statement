@@ -363,8 +363,9 @@ unprofessional behavior.
 * Rebecca Hirsch (Code4Lib Journal Editorial Committee)
 * Jay Luker
 * Sandra Sawchuk
-* Thomas Padilla
+* Thomas Padilla 
 * Jonathan Zittrain
+* Ian Clark
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
