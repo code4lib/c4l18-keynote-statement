@@ -397,7 +397,9 @@ unprofessional behavior.
 * Kevin S. Clarke
 * Will Skora
 * Steve Van Tuyl
+* Frances Botsford
 * Vivian Lewis
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
