@@ -376,9 +376,9 @@ unprofessional behavior.
 * Genny Jon
 * F. Tim Knight
 * Logan Cox
-* Association of Research Libraries 
+* Association of Research Libraries
 * Monica McCormick
-* Prudence S. Adler 
+* Prudence S. Adler
 * Kaylyn Groves
 * Susan Ivey
 * Jennifer B. Young
