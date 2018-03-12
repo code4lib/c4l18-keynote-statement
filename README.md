@@ -373,6 +373,7 @@ unprofessional behavior.
 * Norda Bell
 * Genny Jon
 * F. Tim Knight
+* Monica McCormick
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
