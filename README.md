@@ -411,6 +411,7 @@ unprofessional behavior.
 * Robert H. McDonald
 * Samuel R. Putnam
 * Emily Morton-Owens
+* Matthew Barnett
 
 
 *Additional signatures are welcome. To sign, please open a pull request
