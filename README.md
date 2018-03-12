@@ -371,6 +371,7 @@ unprofessional behavior.
 * Alexis Logsdon
 * Courtney C. Mumma
 * Data Curation Experts (DCE), LLC
+* Bess Sadler
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
