@@ -379,7 +379,8 @@ unprofessional behavior.
 * Association of Research Libraries 
 * Monica McCormick
 * Prudence S. Adler 
-* Kaylyn Groves 
+* Kaylyn Groves
+* Susan Ivey
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
