@@ -355,6 +355,7 @@ unprofessional behavior.
 * Suzanne Wones
 * Emma C Moore
 * Amy Gay
+* Alex Golub-Sass
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
