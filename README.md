@@ -411,6 +411,8 @@ unprofessional behavior.
 * Robert H. McDonald
 * Samuel R. Putnam
 * Emily Morton-Owens
+* Sean Luyk
+* Leah Vanderjagt
 * Matthew Barnett
 
 
