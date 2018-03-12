@@ -350,6 +350,7 @@ unprofessional behavior.
 * Laurie Taylor
 * Bobbi Fox
 * Justin Littman
+* Christina K. Pikas, PhD
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
