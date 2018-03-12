@@ -340,6 +340,7 @@ unprofessional behavior.
 * Dan Coughlin
 * Kristen Ratan
 * John Daniel
+* Josh Hall
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
