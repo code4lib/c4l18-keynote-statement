@@ -354,6 +354,7 @@ unprofessional behavior.
 * Julie C. Swierczek
 * Suzanne Wones
 * Emma C Moore
+* Amy Gay
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
