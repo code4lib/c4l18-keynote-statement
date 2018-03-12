@@ -366,7 +366,7 @@ unprofessional behavior.
 * Thomas Padilla 
 * Jonathan Zittrain
 * Ian Clark
-* Jess Moran
+* Jessica Moran
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
