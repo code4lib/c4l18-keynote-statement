@@ -404,6 +404,8 @@ unprofessional behavior.
 * Carrie Wade
 * Jennifer Vinopal
 * John T. Butler
+* Ursula Pieper
+* Paul Wester
 
 
 *Additional signatures are welcome. To sign, please open a pull request
