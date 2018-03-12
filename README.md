@@ -383,6 +383,7 @@ unprofessional behavior.
 * Kaylyn Groves
 * Susan Ivey
 * Jennifer B. Young
+* Trip Kirkpatrick
 * Sarah Park
 * Sue Baughman
 
