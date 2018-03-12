@@ -469,7 +469,7 @@ unprofessional behavior.
 * Joseph Salem
 * Karen Estlund
 * Elena Colón-Marrero
-
+* Tom Brittnacher
 
 
 Additional signatures are welcome. To sign, please open a pull request
