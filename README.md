@@ -425,6 +425,8 @@ unprofessional behavior.
 * Amanda Curnow
 * Ayla Stein
 * Ben Rearick
+* Caitlin Pollock
+
 
 
 *Additional signatures are welcome. To sign, please open a pull request
