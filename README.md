@@ -32,6 +32,8 @@ unprofessional behavior.
 * Roy Tennant
 * Digital Library Federation (DLF)
 * Library and Information Technology Association (LITA)
+* Association of College and Research Libraries (ACRL)
+* American Library Association (ALA)
 * Association for Computers in the Humanities (ACH)
 * Andromeda Yelton
 * Ranti Junus
@@ -397,7 +399,38 @@ unprofessional behavior.
 * Kevin S. Clarke
 * Will Skora
 * Steve Van Tuyl
+* Frances Botsford
+* Vivian Lewis
+* Sarah Romkey
+* Graeme Slaght
+* Carrie Wade
+* Jennifer Vinopal
+* John T. Butler
+* Ursula Pieper
+* Paul Wester
+* Joe Lucia
+* Amy Riegelman
+* Robert H. McDonald
+* Samuel R. Putnam
+* Emily Morton-Owens
+* Sean Luyk
+* Leah Vanderjagt
+* Matthew Barnett
+* Adriene Lim 
+* Erin Nettifee
+* Brandon Butler
+* Melissa Cardenas-Dow
+* Liz C. Phillips, Manuscript Archivist, UC Davis
+* Angela Boyd
+* Amanda Curnow
+* Ayla Stein
+* Ben Rearick
+* Caitlin Pollock
+* Shawn P. Calhoun
+* Barbara Laufersweiler
 * Maggie Dickson
+
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
