@@ -401,6 +401,7 @@ unprofessional behavior.
 * Vivian Lewis
 * Sarah Romkey
 * Graeme Slaght
+* Carrie Wade
 
 
 *Additional signatures are welcome. To sign, please open a pull request
