@@ -444,6 +444,11 @@ unprofessional behavior.
 * Gerald R. Beasley 
 * Randy Stern
 * Derek Merleaux
+* Tammy Dearie
+* Peter Herdrich
+* Grace Barth
+* Cecily Marcus
+* Emily Knox
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
