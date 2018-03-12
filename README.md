@@ -393,6 +393,7 @@ unprofessional behavior.
 * Charlotte Rock
 * Scott Prater
 * Steve Meyer
+* Julie Goldman
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
