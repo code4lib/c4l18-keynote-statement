@@ -142,6 +142,7 @@ unprofessional behavior.
 * Eric Johnson
 * Erica Hayes
 * Erik Radio
+* Erin Nettifee
 * Erin O'Meara
 * Erin Stalberg
 * Erin Templeton
