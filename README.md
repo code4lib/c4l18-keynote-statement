@@ -426,7 +426,7 @@ unprofessional behavior.
 * Ayla Stein
 * Ben Rearick
 * Caitlin Pollock
-
+* Shawn P. Calhoun
 
 
 *Additional signatures are welcome. To sign, please open a pull request
