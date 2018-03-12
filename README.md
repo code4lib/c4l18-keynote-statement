@@ -456,7 +456,11 @@ unprofessional behavior.
 * Shari Laster
 * Tierney Steelberg
 * James Neal
-
+* Saskia Scheltjens
+* Sarah Thomas
+* Gary Price
+* Geoff Harder
+* Lisa Schiff
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
