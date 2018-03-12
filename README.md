@@ -414,6 +414,14 @@ unprofessional behavior.
 * Sean Luyk
 * Leah Vanderjagt
 * Matthew Barnett
+* Adriene Lim 
+* Erin Nettifee
+* Brandon Butler
+* Melissa Cardenas-Dow
+* Liz C. Phillips, Manuscript Archivist, UC Davis
+* Angela Boyd
+* Amanda Curnow
+* Ayla Stein
 
 
 *Additional signatures are welcome. To sign, please open a pull request
