@@ -352,6 +352,7 @@ unprofessional behavior.
 * Justin Littman
 * Christina K. Pikas, PhD
 * Julie C. Swierczek
+* Suzanne Wones
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
