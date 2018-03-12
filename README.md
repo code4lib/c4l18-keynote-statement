@@ -32,7 +32,6 @@ unprofessional behavior.
 * Roy Tennant
 * Digital Library Federation (DLF)
 * Library and Information Technology Association (LITA)
-* Association of College and Research Libraries (ACRL)
 * American Library Association (ALA)
 * Association for Computers in the Humanities (ACH)
 * Andromeda Yelton
