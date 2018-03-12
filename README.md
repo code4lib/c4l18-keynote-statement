@@ -406,8 +406,7 @@ unprofessional behavior.
 * John T. Butler
 * Ursula Pieper
 * Paul Wester
-* Joe Lucia
-
+* Emily Morton-Owens
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
