@@ -408,6 +408,7 @@ unprofessional behavior.
 * Paul Wester
 * Joe Lucia
 * Amy Riegelman
+* Robert H. McDonald
 
 
 *Additional signatures are welcome. To sign, please open a pull request
