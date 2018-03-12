@@ -390,6 +390,7 @@ unprofessional behavior.
 * Sarah Park
 * Sue Baughman
 * Mary Case
+* Charlotte Rock
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
