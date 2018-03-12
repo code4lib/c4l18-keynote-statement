@@ -402,6 +402,8 @@ unprofessional behavior.
 * Sarah Romkey
 * Graeme Slaght
 * Carrie Wade
+* Jennifer Vinopal
+* John T. Butler
 
 
 *Additional signatures are welcome. To sign, please open a pull request
