@@ -422,6 +422,7 @@ unprofessional behavior.
 * Angela Boyd
 * Amanda Curnow
 * Ayla Stein
+* Shawn P. Calhoun
 
 
 *Additional signatures are welcome. To sign, please open a pull request
