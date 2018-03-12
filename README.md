@@ -356,6 +356,9 @@ unprofessional behavior.
 * Emma C Moore
 * Amy Gay
 * Alex Golub-Sass
+* Scott Martin
+* Yasmeen Shorish
+* Daniel Sanford
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
