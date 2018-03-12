@@ -373,6 +373,7 @@ unprofessional behavior.
 * Norda Bell
 * Genny Jon
 * F. Tim Knight
+* Logan Cox
 * Association of Research Libraries 
 * Monica McCormick
 
