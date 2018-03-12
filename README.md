@@ -339,6 +339,7 @@ unprofessional behavior.
 * Rebecca Kennison
 * Dan Coughlin
 * Kristen Ratan
+* John Daniel
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
