@@ -440,6 +440,8 @@ unprofessional behavior.
 * Janet Carleton
 * Araceli Hintermeister
 * John Huck
+* Gerald R. Beasley 
+* Randy Stern
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
