@@ -351,6 +351,7 @@ unprofessional behavior.
 * Bobbi Fox
 * Justin Littman
 * Christina K. Pikas, PhD
+* Julie C. Swierczek
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
