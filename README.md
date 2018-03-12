@@ -345,6 +345,9 @@ unprofessional behavior.
 * Laura C. Wood
 * Adam Ziegler
 * Amanda Rinehart
+* Kevin Sanders
+* Andrew Preater
+* Laurie Taylor
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
