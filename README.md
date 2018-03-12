@@ -344,6 +344,7 @@ unprofessional behavior.
 * Josh Hall
 * Laura C. Wood
 * Adam Ziegler
+* Amanda Rinehart
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
