@@ -395,6 +395,7 @@ unprofessional behavior.
 * Steve Meyer
 * Julie Goldman
 * Kevin S. Clarke
+* Will Skora
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
