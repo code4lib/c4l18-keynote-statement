@@ -368,6 +368,7 @@ unprofessional behavior.
 * Ian Clark
 * Jessica Moran
 * Jeremy Nelson
+* Alexis Logsdon
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
