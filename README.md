@@ -439,10 +439,17 @@ unprofessional behavior.
 * Ginny Steel
 * Janet Carleton
 * Araceli Hintermeister
+* Elvia Arroyo-Ramirez
 * John Huck
 * Gerald R. Beasley 
 * Randy Stern
 * Shawn P. Calhoun
+* Derek Merleaux
+* Tammy Dearie
+* Peter Herdrich
+* Grace Barth
+* Cecily Marcus
+* Emily Knox
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
