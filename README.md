@@ -373,6 +373,7 @@ unprofessional behavior.
 * Norda Bell
 * Genny Jon
 * F. Tim Knight
+* Association of Research Libraries 
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
