@@ -382,6 +382,7 @@ unprofessional behavior.
 * Kaylyn Groves
 * Susan Ivey
 * Jennifer B. Young
+* Sarah Park
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
