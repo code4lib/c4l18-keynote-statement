@@ -413,6 +413,7 @@ unprofessional behavior.
 * Emily Morton-Owens
 * Sean Luyk
 * Leah Vanderjagt
+* Matthew Barnett
 
 
 *Additional signatures are welcome. To sign, please open a pull request
