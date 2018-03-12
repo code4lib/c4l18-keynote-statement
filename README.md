@@ -416,7 +416,6 @@ unprofessional behavior.
 * Sean Luyk
 * Leah Vanderjagt
 * Matthew Barnett
-* Adriene Lim 
 * Erin Nettifee
 * Brandon Butler
 * Melissa Cardenas-Dow
@@ -429,6 +428,8 @@ unprofessional behavior.
 * Shawn P. Calhoun
 * Barbara Laufersweiler
 * Adriene Lim
+* Maggie Dickson
+
 
 
 *Additional signatures are welcome. To sign, please open a pull request
