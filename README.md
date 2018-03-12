@@ -428,6 +428,7 @@ unprofessional behavior.
 * Caitlin Pollock
 * Shawn P. Calhoun
 * Barbara Laufersweiler
+* Adriene Lim
 
 
 *Additional signatures are welcome. To sign, please open a pull request
