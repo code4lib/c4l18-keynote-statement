@@ -32,7 +32,6 @@ unprofessional behavior.
 * Roy Tennant
 * Digital Library Federation (DLF)
 * Library and Information Technology Association (LITA)
-* Association of College and Research Libraries (ACRL)
 * American Library Association (ALA)
 * Association for Computers in the Humanities (ACH)
 * Andromeda Yelton
@@ -435,7 +434,7 @@ unprofessional behavior.
 * Jessica Hilt
 * Thomas Keays
 * Barbara Hui
-
+* Victoria Pilato
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
