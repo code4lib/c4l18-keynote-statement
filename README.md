@@ -455,6 +455,7 @@ unprofessional behavior.
 * Bruce Orcutt
 * Shari Laster
 * Tierney Steelberg
+* James Neal
 
 
 *Additional signatures are welcome. To sign, please open a pull request
