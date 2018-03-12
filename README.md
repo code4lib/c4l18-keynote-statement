@@ -361,6 +361,7 @@ unprofessional behavior.
 * Daniel Sanford
 * Tyler Dzuba
 * Rebecca Hirsch (Code4Lib Journal Editorial Committee)
+* Jay Luker
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
