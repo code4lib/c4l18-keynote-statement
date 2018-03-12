@@ -353,6 +353,7 @@ unprofessional behavior.
 * Christina K. Pikas, PhD
 * Julie C. Swierczek
 * Suzanne Wones
+* Emma C Moore
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
