@@ -412,6 +412,8 @@ unprofessional behavior.
 * Samuel R. Putnam
 * Emily Morton-Owens
 * Sean Luyk
+* Leah Vanderjagt
+* Matthew Barnett
 * Adriene Lim 
 * Erin Nettifee
 * Brandon Butler
@@ -420,6 +422,7 @@ unprofessional behavior.
 * Angela Boyd
 * Amanda Curnow
 * Ayla Stein
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
