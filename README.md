@@ -452,6 +452,7 @@ unprofessional behavior.
 * Cecily Marcus
 * Emily Knox
 * Katherine Skinner
+* Bruce Orcutt
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
