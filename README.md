@@ -463,6 +463,10 @@ unprofessional behavior.
 * Lisa Schiff
 * Elliott Shore
 * J. Matthew Huculak
+* Penn State University Libraries
+* Barbara Dewey
+* Joseph Salem
+* Karen Estlund
 
 
 Additional signatures are welcome. To sign, please open a pull request
