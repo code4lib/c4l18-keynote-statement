@@ -342,6 +342,7 @@ unprofessional behavior.
 * John Daniel
 * Heather Coates
 * Josh Hall
+* Laura C. Wood
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
