@@ -340,6 +340,7 @@ unprofessional behavior.
 * Dan Coughlin
 * Kristen Ratan
 * John Daniel
+* Heather Coates
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
