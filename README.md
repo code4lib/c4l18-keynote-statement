@@ -397,6 +397,8 @@ unprofessional behavior.
 * Kevin S. Clarke
 * Will Skora
 * Steve Van Tuyl
+* Ursula Pieper
+* Paul Wester
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
