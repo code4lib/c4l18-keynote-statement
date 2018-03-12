@@ -381,6 +381,7 @@ unprofessional behavior.
 * Prudence S. Adler 
 * Kaylyn Groves
 * Susan Ivey
+* Jennifer B. Young
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
