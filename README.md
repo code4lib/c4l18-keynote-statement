@@ -391,6 +391,8 @@ unprofessional behavior.
 * Sue Baughman
 * Mary Case
 * Charlotte Rock
+* Scott Prater
+* Steve Meyer
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
