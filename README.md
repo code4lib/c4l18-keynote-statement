@@ -412,6 +412,7 @@ unprofessional behavior.
 * Samuel R. Putnam
 * Emily Morton-Owens
 * Sean Luyk
+* Leah Vanderjagt
 
 
 *Additional signatures are welcome. To sign, please open a pull request
