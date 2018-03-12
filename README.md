@@ -429,7 +429,11 @@ unprofessional behavior.
 * Barbara Laufersweiler
 * Adriene Lim
 * Maggie Dickson
-
+* Ann Frenkel 
+* Scout Calvert, PhD. Data Librarian, Michigan State University
+* Edward Bilodeau
+* Jessica Hilt
+* Thomas Keays
 
 
 *Additional signatures are welcome. To sign, please open a pull request
