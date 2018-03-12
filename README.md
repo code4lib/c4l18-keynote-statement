@@ -443,6 +443,7 @@ unprofessional behavior.
 * John Huck
 * Gerald R. Beasley 
 * Randy Stern
+* Shawn P. Calhoun
 * Derek Merleaux
 * Tammy Dearie
 * Peter Herdrich
