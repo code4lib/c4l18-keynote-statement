@@ -382,6 +382,7 @@ unprofessional behavior.
 * Prudence S. Adler
 * Kaylyn Groves
 * Susan Ivey
+* Amanda Whitmire
 * Jeff Sabol
 * Jennifer B. Young
 * Trip Kirkpatrick
