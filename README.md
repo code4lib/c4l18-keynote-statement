@@ -412,7 +412,14 @@ unprofessional behavior.
 * Samuel R. Putnam
 * Emily Morton-Owens
 * Sean Luyk
-
+* Adriene Lim 
+* Erin Nettifee
+* Brandon Butler
+* Melissa Cardenas-Dow
+* Liz C. Phillips, Manuscript Archivist, UC Davis
+* Angela Boyd
+* Amanda Curnow
+* Ayla Stein
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
