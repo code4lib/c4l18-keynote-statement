@@ -541,6 +541,7 @@ unprofessional behavior.
 * Ashley Brewer
 * Elizabeth Wickes
 * Elisa Landaverde
+* David Kinzer
 
 
 *Additional signatures are welcome. To sign, please open a pull request
