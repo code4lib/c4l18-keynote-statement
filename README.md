@@ -563,8 +563,6 @@ unprofessional behavior.
 * Kristen Mapes
 * Alan Harnum
 * Ryan Merkley, CEO, Creative Commons
-* SJ Klein
-* Sarah Schwettmann
 * Ron Peterson (Code4Lib Journal Editorial Committee)
 * Jill Sodt
 * Chrissy Rissmeyer
@@ -575,6 +573,7 @@ unprofessional behavior.
 * Jill Sodt
 * Greg Smith
 * Keith Glavash, Associate Director for Administration, MIT Libraries
+* Teri M. Vogel
 * Greg Eow, Associate Director for Collections, MIT Libraries
 * Lea Iadarola
 * Alex R. Hodges
