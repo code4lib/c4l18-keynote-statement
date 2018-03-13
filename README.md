@@ -512,7 +512,7 @@ unprofessional behavior.
 * Aaron Collie
 * Mara Sedlins
 * Kari Smith
-* Alexandra Chassanoff, Ph.D.
+* Alexandra Chassanoff
 * Chana Kraus-Friedberg
 * Lane Wilkinson
 * Dee Magnoni
@@ -596,6 +596,7 @@ unprofessional behavior.
 * Sarav Shah
 * Johnathan Martin
 * Naomi Dushay
+* Nancy Y. McGovern
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
