@@ -497,6 +497,7 @@ unprofessional behavior.
 * Eric Celeste
 * Jolie O. Graybill
 * David Wilcox
+* Joseph Koivisto
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
