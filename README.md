@@ -625,6 +625,7 @@ unprofessional behavior.
 * Wesley Teal
 * Black Caucus of the American Library Association (BCALA)
 * Ryan Clement
+* Matt Upson
 * Keith Engwall
 * Chelcie Juliet Rowell
 
