@@ -480,6 +480,8 @@ unprofessional behavior.
 * Richard Higgins
 * Kimberly Chapman
 * Sharon Farnel
+* Ken Burhanna
+* Eleanor I. Cook
 
 Additional signatures are welcome. To sign, please open a pull request
 or issue at the
