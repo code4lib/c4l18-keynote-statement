@@ -515,6 +515,7 @@ unprofessional behavior.
 * Lane Wilkinson
 * Dee Magnoni
 * Yoo Young Lee
+* Megan Kudzia
 * Stephanie Willen Brown
 * Maggie Schreiner
 * Jenifer Smith Holman
