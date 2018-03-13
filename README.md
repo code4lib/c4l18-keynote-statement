@@ -472,6 +472,7 @@ unprofessional behavior.
 * Tom Brittnacher
 * Artemis Kirk
 * Nicole Johnson
+* Tyler Walters
 
 Additional signatures are welcome. To sign, please open a pull request
 or issue at the
