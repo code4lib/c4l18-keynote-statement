@@ -562,6 +562,7 @@ unprofessional behavior.
 * Alan Harnum
 * Ryan Merkley, CEO, Creative Commons
 * Ron Peterson (Code4Lib Journal Editorial Committee)
+* Chrissy Rissmeyer
 * Benjamin Webb
 * Angela Zoss
 * Patricia Flanagan, Associate Director for Academic and Community Engagement, MIT Libraries
