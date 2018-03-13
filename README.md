@@ -632,8 +632,11 @@ unprofessional behavior.
 * Claudia Hill
 * Heidy Berthoud
 * Sofía Becerra-Licha
+* Wendy Mann
 * M. G. Maloney, MLIS
 * Brett Williams
+
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
