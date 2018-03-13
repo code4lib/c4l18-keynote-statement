@@ -626,6 +626,7 @@ unprofessional behavior.
 * Black Caucus of the American Library Association (BCALA)
 * Ryan Clement
 * Keith Engwall
+* Chelcie Juliet Rowell
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
