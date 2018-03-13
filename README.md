@@ -584,6 +584,7 @@ unprofessional behavior.
 * Lea Iadarola
 * Barbara Williams
 * Trevor A. Dawes
+* Dorothy Meaney
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
