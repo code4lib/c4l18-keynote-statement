@@ -537,6 +537,9 @@ unprofessional behavior.
 * Molly Keener
 * Georgiana McReynolds
 * Jennifer Bowen
+* Kathleen M. Haley
+
+
 
 
 *Additional signatures are welcome. To sign, please open a pull request
