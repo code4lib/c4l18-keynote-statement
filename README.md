@@ -498,6 +498,10 @@ unprofessional behavior.
 * Jolie O. Graybill
 * Najko Jahn
 * David Wilcox
+* Scholarly Publishing and Academic Resources Coalition (SPARC)
+* Heather Joseph
+* Raym Crow
+* Lorraine J. Haricombe, ARL Board Member
 * Joseph Koivisto
 
 *Additional signatures are welcome. To sign, please open a pull request
