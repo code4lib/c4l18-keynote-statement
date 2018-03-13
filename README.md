@@ -523,7 +523,7 @@ unprofessional behavior.
 * Nick Shockey
 * Joseph McArthur
 * Jenifer Smith Holman
-
+* Jamie Little
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
 [GitHub repository](https://github.com/code4lib/c4l18-keynote-statement)
