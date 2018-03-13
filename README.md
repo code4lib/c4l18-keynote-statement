@@ -591,8 +591,7 @@ unprofessional behavior.
 * Trevor A. Dawes
 * Eric Olson
 * Rachelle Nelson
-
-
+* Wendy Hagenmaier
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
