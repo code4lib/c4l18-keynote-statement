@@ -562,6 +562,7 @@ unprofessional behavior.
 * Alan Harnum
 * Ryan Merkley, CEO, Creative Commons
 * Ron Peterson (Code4Lib Journal Editorial Committee)
+* Matthew Reidsma
 * Jill Sodt
 * Greg Smith
 * Keith Glavash, Associate Director for Administration, MIT Libraries
