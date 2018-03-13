@@ -602,6 +602,8 @@ unprofessional behavior.
 * Emily Clasper
 * Chealsye Bowley
 * Nancy Y. McGovern
+* Benjamin Albritton
+* Andy Ashton
 * Stacey Erdman
 
 *Additional signatures are welcome. To sign, please open a pull request
