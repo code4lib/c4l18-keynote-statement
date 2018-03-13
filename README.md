@@ -479,6 +479,7 @@ unprofessional behavior.
 * Michael Toler
 * Richard Higgins
 * Kimberly Chapman
+* Sharon Farnel
 
 Additional signatures are welcome. To sign, please open a pull request
 or issue at the
