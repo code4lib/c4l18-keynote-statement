@@ -489,6 +489,7 @@ unprofessional behavior.
 * Amy McLay Paterson
 * Jen Green
 * Will Sexton
+* Susan Brown
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
