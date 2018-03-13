@@ -25,6 +25,8 @@ unprofessional behavior.
 * Eric Phetteplace
 * Amy Wickner
 * Becky Yoose
+* Claudia Hill
+
 
 
 ## Additional Signatories (Individuals and Organizations Welcome)
