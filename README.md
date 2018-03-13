@@ -503,6 +503,7 @@ unprofessional behavior.
 * Raym Crow
 * Lorraine J. Haricombe, ARL Board Member
 * Joseph Koivisto
+* Krista L. Cox
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
