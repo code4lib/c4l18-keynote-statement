@@ -518,6 +518,8 @@ unprofessional behavior.
 * Megan Kudzia
 * Stephanie Willen Brown
 * Maggie Schreiner
+* Nick Shockey
+* Joseph McArthur
 * Jenifer Smith Holman
 
 *Additional signatures are welcome. To sign, please open a pull request
