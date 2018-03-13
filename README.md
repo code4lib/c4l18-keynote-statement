@@ -560,6 +560,7 @@ unprofessional behavior.
 * Tracy Gabridge, Deputy Director, MIT Libraries
 * Kristen Mapes
 * Alan Harnum
+* Ryan Merkley, CEO, Creative Commons
 
 
 *Additional signatures are welcome. To sign, please open a pull request
