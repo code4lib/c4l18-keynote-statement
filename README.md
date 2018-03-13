@@ -565,7 +565,6 @@ unprofessional behavior.
 * SJ Klein
 * Sarah Schwettmann
 * Ron Peterson (Code4Lib Journal Editorial Committee)
-* Adam Wead
 * Chrissy Rissmeyer
 * Benjamin Webb
 * Angela Zoss
@@ -574,6 +573,7 @@ unprofessional behavior.
 * Jill Sodt
 * Greg Smith
 * Keith Glavash, Associate Director for Administration, MIT Libraries
+* Greg Eow, Associate Director for Collections, MIT Libraries
 * Lea Iadarola
 * Alex R. Hodges
 * Geneva Henry
