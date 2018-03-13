@@ -578,6 +578,10 @@ unprofessional behavior.
 * Lea Iadarola
 * Alex R. Hodges
 * Geneva Henry
+* SJ Klein
+* Sarah Schwettmann
+* Adam Wead
+* Lea Iadarola
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
