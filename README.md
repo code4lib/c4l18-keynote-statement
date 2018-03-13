@@ -630,6 +630,7 @@ unprofessional behavior.
 * Chelcie Juliet Rowell
 * Jennifer Hendzlik
 * Claudia Hill
+* Heidy Berthoud
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
