@@ -624,6 +624,7 @@ unprofessional behavior.
 * Susan Skomal
 * Wesley Teal
 * Black Caucus of the American Library Association (BCALA)
+* Ryan Clement
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
