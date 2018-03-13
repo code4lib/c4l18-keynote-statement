@@ -35,6 +35,7 @@ unprofessional behavior.
 * American Library Association (ALA)
 * Association for Computers in the Humanities (ACH)
 * Council on Library and Information Resources (CLIR)
+* Association of College & Research Libraries (ACRL)
 * Penn State University Libraries
 * DuraSpace
 * George Washington University Libraries and Academic Innovation
@@ -565,6 +566,7 @@ unprofessional behavior.
 * SJ Klein
 * Sarah Schwettmann
 * Ron Peterson (Code4Lib Journal Editorial Committee)
+* Jill Sodt
 * Chrissy Rissmeyer
 * Benjamin Webb
 * Angela Zoss
