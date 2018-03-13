@@ -39,7 +39,6 @@ unprofessional behavior.
 * Penn State University Libraries
 * DuraSpace
 * George Washington University Libraries and Academic Innovation
-* University of Delaware Library
 * Andromeda Yelton
 * Ranti Junus
 * Michael Della Bitta
@@ -592,9 +591,7 @@ unprofessional behavior.
 * Diane Goldenberg-Hart
 * Eben English
 * Tanya Zanish-Belcher
-* Trevor A. Dawes
-* Eric Olson
-* Rachelle Nelson
+* Wendy Hagenmaier
 
 
 
