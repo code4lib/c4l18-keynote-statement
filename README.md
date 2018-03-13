@@ -523,6 +523,7 @@ unprofessional behavior.
 * Nick Shockey
 * Joseph McArthur
 * Jenifer Smith Holman
+* John Dupuis
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
