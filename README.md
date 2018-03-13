@@ -497,6 +497,10 @@ unprofessional behavior.
 * Eric Celeste
 * Jolie O. Graybill
 * David Wilcox
+* Scholarly Publishing and Academic Resources Coalition (SPARC)
+* Heather Joseph
+* Raym Crow
+* Lorraine J. Haricombe, ARL Board Member
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
