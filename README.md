@@ -633,6 +633,11 @@ unprofessional behavior.
 * Heidy Berthoud
 * Sofía Becerra-Licha
 * Wendy Mann
+* M. G. Maloney, MLIS
+* Brett Williams
+
+
+
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
 [GitHub repository](https://github.com/code4lib/c4l18-keynote-statement)
