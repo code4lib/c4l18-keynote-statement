@@ -513,6 +513,7 @@ unprofessional behavior.
 * Alexandra Chassanoff, Ph.D.
 * Chana Kraus-Friedberg
 * Lane Wilkinson
+* Dee Magnoni
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
