@@ -596,6 +596,9 @@ unprofessional behavior.
 * Sarav Shah
 * Johnathan Martin
 * Naomi Dushay
+* Jennie Rose Halperin
+* Jessica R. Olin
+* Emily Clasper
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
