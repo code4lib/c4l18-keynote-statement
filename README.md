@@ -536,6 +536,7 @@ unprofessional behavior.
 * Mary Beth Lock
 * Molly Keener
 * Georgiana McReynolds
+* Jennifer Bowen
 
 
 *Additional signatures are welcome. To sign, please open a pull request
