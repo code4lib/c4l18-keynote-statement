@@ -620,6 +620,8 @@ unprofessional behavior.
 * May Yan
 * Lisa Martincik
 * Deborah A. Torres
+* Susan Wells Parham
+* Susan Skomal
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
