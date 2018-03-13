@@ -473,6 +473,10 @@ unprofessional behavior.
 * Artemis Kirk
 * Nicole Johnson
 * Tyler Walters
+* Julia Lanigan
+* Grace Kindeke
+* Eugenia Beh
+* Michael Toler
 
 Additional signatures are welcome. To sign, please open a pull request
 or issue at the
