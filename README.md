@@ -479,6 +479,7 @@ unprofessional behavior.
 * Michael Toler
 * Richard Higgins
 * Kimberly Chapman
+* Sharon Farnel
 * Ken Burhanna
 * Eleanor I. Cook
 
