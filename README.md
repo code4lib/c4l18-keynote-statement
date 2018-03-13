@@ -484,6 +484,7 @@ unprofessional behavior.
 * Eleanor I. Cook
 * Denise O'Shea
 * Fletcher Durant
+* Roxanne Shirazi
 
 Additional signatures are welcome. To sign, please open a pull request
 or issue at the
