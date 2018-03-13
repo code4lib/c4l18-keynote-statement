@@ -36,6 +36,7 @@ unprofessional behavior.
 * Association for Computers in the Humanities (ACH)
 * Council on Library and Information Resources (CLIR)
 * Penn State University Libraries
+* DuraSpace
 * Andromeda Yelton
 * Ranti Junus
 * Michael Della Bitta
