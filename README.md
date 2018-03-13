@@ -485,6 +485,7 @@ unprofessional behavior.
 * Denise O'Shea
 * Fletcher Durant
 * Roxanne Shirazi
+* Spencer D. C. Keralis on behalf of Digital Frontiers
 
 Additional signatures are welcome. To sign, please open a pull request
 or issue at the
