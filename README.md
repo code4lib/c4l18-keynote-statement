@@ -515,9 +515,38 @@ unprofessional behavior.
 * Lane Wilkinson
 * Dee Magnoni
 * Yoo Young Lee
+* Megan Kudzia
 * Stephanie Willen Brown
 * Maggie Schreiner
+* Greg Murray
+* Erin White
+* Nick Shockey
+* Joseph McArthur
+* Jenifer Smith Holman
+* John Dupuis
+* Melanie Schlosser
+* Amy Filiatreau, Library Director at Lynn University
+* Ted Polley
+* Allison Langham
+* Kat Hagedorn, Head, Digital Content & Collections, University of Michigan Library
+* Autumn Faulkner
+* Lauren B. Collister
+* Joshua Neds-Fox
+* Jamie Little
+* Mary Beth Lock
+* Molly Keener
+* Georgiana McReynolds
+* Jennifer Bowen
+* Kathleen M. Haley
+* Ashley Brewer
+* Elizabeth Wickes
+* Elisa Landaverde
+* Laura Carscaddon
+* Catherine Pellegrino
+* David Kinzer
+* Brian Rogers
 * Heather Greer Klein
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
