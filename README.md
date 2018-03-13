@@ -565,6 +565,7 @@ unprofessional behavior.
 * Ryan Merkley, CEO, Creative Commons
 * Ron Peterson (Code4Lib Journal Editorial Committee)
 * Jill Sodt
+* Wilhelmina Randtke
 * Chrissy Rissmeyer
 * Benjamin Webb
 * Angela Zoss
