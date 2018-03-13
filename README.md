@@ -546,7 +546,7 @@ unprofessional behavior.
 * David Kinzer
 * Brian Rogers
 * Heather Greer Klein
-
+* Jordan Hale
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
