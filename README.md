@@ -524,6 +524,15 @@ unprofessional behavior.
 * Joseph McArthur
 * Jenifer Smith Holman
 * John Dupuis
+* Melanie Schlosser
+* Amy Filiatreau, Library Director at Lynn University
+* Ted Polley
+* Allison Langham
+* Kat Hagedorn, Head, Digital Content & Collections, University of Michigan Library
+* Autumn Faulkner
+* Lauren B. Collister
+* Joshua Neds-Fox
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
