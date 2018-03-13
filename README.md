@@ -552,8 +552,7 @@ unprofessional behavior.
 * Krista Godfrey
 * Bobby Glushko, Western University
 * John Little
-* Tracy Gabridge, Deputy Director, MIT Libraries
-* Kristen Mapes
+* Ryan Regier
 
 
 *Additional signatures are welcome. To sign, please open a pull request
