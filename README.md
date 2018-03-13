@@ -516,6 +516,9 @@ unprofessional behavior.
 * Dee Magnoni
 * Yoo Young Lee
 * Megan Kudzia
+* Stephanie Willen Brown
+* Maggie Schreiner
+* Jenifer Smith Holman
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
