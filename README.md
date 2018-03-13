@@ -25,8 +25,6 @@ unprofessional behavior.
 * Eric Phetteplace
 * Amy Wickner
 * Becky Yoose
-* Claudia Hill
-
 
 
 ## Additional Signatories (Individuals and Organizations Welcome)
@@ -631,6 +629,7 @@ unprofessional behavior.
 * Keith Engwall
 * Chelcie Juliet Rowell
 * Jennifer Hendzlik
+* Claudia Hill
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
