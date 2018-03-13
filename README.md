@@ -573,6 +573,7 @@ unprofessional behavior.
 * Jill Sodt
 * Greg Smith
 * Keith Glavash, Associate Director for Administration, MIT Libraries
+* Lea Iadarola
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
