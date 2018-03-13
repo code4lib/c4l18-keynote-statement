@@ -515,6 +515,8 @@ unprofessional behavior.
 * Lane Wilkinson
 * Dee Magnoni
 * Yoo Young Lee
+* Stephanie Willen Brown
+* Maggie Schreiner
 * Greg Murray
 
 *Additional signatures are welcome. To sign, please open a pull request
