@@ -508,6 +508,8 @@ unprofessional behavior.
 * Krista L. Cox
 * Suchi Mohanty
 * Aaron Collie
+* Kari Smith
+* Alexandra Chassanoff, Ph.D.
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
