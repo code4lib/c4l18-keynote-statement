@@ -606,6 +606,9 @@ unprofessional behavior.
 * Andy Ashton
 * Stacey Erdman
 * Gabrielle V. Michalek
+* Gayle Schechter
+* Joshua Ethan Sanchez
+
 
 
 *Additional signatures are welcome. To sign, please open a pull request
