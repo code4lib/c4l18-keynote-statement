@@ -470,8 +470,8 @@ unprofessional behavior.
 * Karen Estlund
 * Elena Colón-Marrero
 * Tom Brittnacher
+* Artemis Kirk
 * Nicole Johnson
-
 
 Additional signatures are welcome. To sign, please open a pull request
 or issue at the
