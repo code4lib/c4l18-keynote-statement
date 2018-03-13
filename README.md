@@ -494,6 +494,8 @@ unprofessional behavior.
 * Mark A. Matney, Jr.
 * Jacob Zaborowski
 * Sarah Lester
+* Eric Celeste
+* Jolie O. Graybill
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
