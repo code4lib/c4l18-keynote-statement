@@ -574,6 +574,7 @@ unprofessional behavior.
 * Greg Smith
 * Keith Glavash, Associate Director for Administration, MIT Libraries
 * Lea Iadarola
+* Alex R. Hodges
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
