@@ -532,6 +532,7 @@ unprofessional behavior.
 * Autumn Faulkner
 * Lauren B. Collister
 * Joshua Neds-Fox
+* Ashley Brewer
 
 
 *Additional signatures are welcome. To sign, please open a pull request
