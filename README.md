@@ -430,7 +430,6 @@ unprofessional behavior.
 * Ayla Stein
 * Ben Rearick
 * Caitlin Pollock
-* Shawn P. Calhoun
 * Barbara Laufersweiler
 * Adriene Lim
 * Maggie Dickson
@@ -572,7 +571,6 @@ unprofessional behavior.
 * Angela Zoss
 * Patricia Flanagan, Associate Director for Academic and Community Engagement, MIT Libraries
 * Matthew Reidsma
-* Jill Sodt
 * Greg Smith
 * Keith Glavash, Associate Director for Administration, MIT Libraries
 * Teri M. Vogel
@@ -583,9 +581,7 @@ unprofessional behavior.
 * SJ Klein
 * Sarah Schwettmann
 * Adam Wead
-* Lea Iadarola
 * Barbara Williams
-* Trevor A. Dawes
 * Dorothy Meaney
 * Joachim Neubert
 * Joan K. Lippincott
