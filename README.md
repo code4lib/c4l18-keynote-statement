@@ -596,6 +596,7 @@ unprofessional behavior.
 * Sarav Shah
 * Johnathan Martin
 * Naomi Dushay
+* Chealsye Bowley
 * Nancy Y. McGovern
 
 *Additional signatures are welcome. To sign, please open a pull request
