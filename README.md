@@ -558,6 +558,7 @@ unprofessional behavior.
 * Michael Sholinbeck
 * Tracy Gabridge, Deputy Director, MIT Libraries
 * Kristen Mapes
+* Alan Harnum
 
 
 *Additional signatures are welcome. To sign, please open a pull request
