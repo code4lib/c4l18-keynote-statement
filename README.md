@@ -552,6 +552,7 @@ unprofessional behavior.
 * Krista Godfrey
 * Bobby Glushko, Western University
 * John Little
+* Kristen Mapes
 
 
 *Additional signatures are welcome. To sign, please open a pull request
