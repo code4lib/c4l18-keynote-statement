@@ -508,6 +508,7 @@ unprofessional behavior.
 * Krista L. Cox
 * Suchi Mohanty
 * Aaron Collie
+* Mara Sedlins
 * Kari Smith
 * Alexandra Chassanoff, Ph.D.
 * Chana Kraus-Friedberg
