@@ -616,6 +616,7 @@ unprofessional behavior.
 * William Conlin
 * Matthew Sheehy
 * Brad Houston 
+* Eric Hellman
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
