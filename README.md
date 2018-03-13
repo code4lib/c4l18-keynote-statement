@@ -533,6 +533,7 @@ unprofessional behavior.
 * Lauren B. Collister
 * Joshua Neds-Fox
 * Jamie Little
+* Mary Beth Lock
 
 
 *Additional signatures are welcome. To sign, please open a pull request
