@@ -609,6 +609,7 @@ unprofessional behavior.
 * Gayle Schechter
 * Joshua Ethan Sanchez
 * Jessica Schomberg
+* Amy Neeser
 
 
 *Additional signatures are welcome. To sign, please open a pull request
