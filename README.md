@@ -552,6 +552,7 @@ unprofessional behavior.
 * Krista Godfrey
 * Bobby Glushko, Western University
 * John Little
+* Ryan Regier
 * Judith Gallagher, MIT Libraries
 * Toby Greenwalt
 * Kendra K. Levine
