@@ -535,7 +535,7 @@ unprofessional behavior.
 * Jamie Little
 * Mary Beth Lock
 * Molly Keener
-
+* Georgiana McReynolds
 
 
 *Additional signatures are welcome. To sign, please open a pull request
