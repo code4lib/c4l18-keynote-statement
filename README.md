@@ -562,6 +562,7 @@ unprofessional behavior.
 * Alan Harnum
 * Ryan Merkley, CEO, Creative Commons
 * Ron Peterson (Code4Lib Journal Editorial Committee)
+* Adam Wead
 * Chrissy Rissmeyer
 * Benjamin Webb
 * Angela Zoss
