@@ -507,6 +507,7 @@ unprofessional behavior.
 * Elizabeth Lorang
 * Krista L. Cox
 * Suchi Mohanty
+* Aaron Collie
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
