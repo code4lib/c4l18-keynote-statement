@@ -547,6 +547,9 @@ unprofessional behavior.
 * Brian Rogers
 * Heather Greer Klein
 * Jordan Hale
+* Kimberly Silk
+* Krista Godfrey
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
