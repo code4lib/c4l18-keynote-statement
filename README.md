@@ -561,6 +561,8 @@ unprofessional behavior.
 * Kristen Mapes
 * Alan Harnum
 * Ryan Merkley, CEO, Creative Commons
+* SJ Klein
+* Sarah Schwettmann
 
 
 *Additional signatures are welcome. To sign, please open a pull request
