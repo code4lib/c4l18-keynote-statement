@@ -631,6 +631,7 @@ unprofessional behavior.
 * Jennifer Hendzlik
 * Claudia Hill
 * Heidy Berthoud
+* Sofía Becerra-Licha
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
