@@ -561,6 +561,7 @@ unprofessional behavior.
 * Kristen Mapes
 * Alan Harnum
 * Ryan Merkley, CEO, Creative Commons
+* Ron Peterson (Code4Lib Journal Editorial Committee)
 
 
 *Additional signatures are welcome. To sign, please open a pull request
