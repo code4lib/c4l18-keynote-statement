@@ -592,6 +592,9 @@ unprofessional behavior.
 * Eric Olson
 * Rachelle Nelson
 * Wendy Hagenmaier
+* Sarav Shah
+* Johnathan Martin
+* Naomi Dushay
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
