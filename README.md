@@ -32,9 +32,10 @@ unprofessional behavior.
 * Roy Tennant
 * Digital Library Federation (DLF)
 * Library and Information Technology Association (LITA)
-* Association of College and Research Libraries (ACRL)
 * American Library Association (ALA)
 * Association for Computers in the Humanities (ACH)
+* Council on Library and Information Resources (CLIR)
+* Penn State University Libraries
 * Andromeda Yelton
 * Ranti Junus
 * Michael Della Bitta
@@ -434,9 +435,58 @@ unprofessional behavior.
 * Edward Bilodeau
 * Jessica Hilt
 * Thomas Keays
+* Barbara Hui
+* Victoria Pilato
+* Tom Habing
+* Ginny Steel
+* Janet Carleton
+* Araceli Hintermeister
+* Elvia Arroyo-Ramirez
+* John Huck
+* Gerald R. Beasley 
+* Randy Stern
+* Shawn P. Calhoun
+* Derek Merleaux
+* Tammy Dearie
+* Peter Herdrich
+* Grace Barth
+* Cecily Marcus
+* Emily Knox
+* Katherine Skinner
+* Bruce Orcutt
+* Shari Laster
+* Tierney Steelberg
+* James Neal
+* Saskia Scheltjens
+* Sarah Thomas
+* Gary Price
+* Geoff Harder
+* Lisa Schiff
+* Elliott Shore
+* J. Matthew Huculak
+* Mike Osterman
+* Barbara Dewey
+* Joseph Salem
+* Karen Estlund
+* Elena Colón-Marrero
+* Tom Brittnacher
+* Artemis Kirk
+* Nicole Johnson
+* Tyler Walters
+* Julia Lanigan
+* Grace Kindeke
+* Eugenia Beh
+* Michael Toler
+* Richard Higgins
+* Kimberly Chapman
+* Sharon Farnel
+* Ken Burhanna
+* Eleanor I. Cook
+* Denise O'Shea
+* Fletcher Durant
+* Roxanne Shirazi
 
-
-*Additional signatures are welcome. To sign, please open a pull request
+Additional signatures are welcome. To sign, please open a pull request
 or issue at the
 [GitHub repository](https://github.com/code4lib/c4l18-keynote-statement)
 or ask in the Code4Lib Slack or IRC channel.*
