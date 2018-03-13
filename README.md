@@ -305,7 +305,7 @@ unprofessional behavior.
 * Jason Griffey
 * James C. Davis
 * Beth Daniel Lindsay
-* Heather Yager
+* Heather Yager, Associate Director for Digital Library Services, MIT Libraries
 * Kate Simpson
 * Jerry Waller
 * Rogan Hamby
@@ -474,10 +474,10 @@ unprofessional behavior.
 * Artemis Kirk
 * Nicole Johnson
 * Tyler Walters
-* Julia Lanigan
-* Grace Kindeke
-* Eugenia Beh
-* Michael Toler
+* Julia Lanigan, MIT Libraries
+* Grace Kindeke, MIT Libraries
+* Eugenia Beh, MIT Libraries
+* Michael Toler, MIT Libraries
 * Richard Higgins
 * Kimberly Chapman
 * Sharon Farnel
@@ -535,7 +535,7 @@ unprofessional behavior.
 * Jamie Little
 * Mary Beth Lock
 * Molly Keener
-* Georgiana McReynolds
+* Georgiana McReynolds, MIT Libraries
 * Jennifer Bowen
 * Kathleen M. Haley
 * Ashley Brewer
@@ -553,6 +553,13 @@ unprofessional behavior.
 * Bobby Glushko, Western University
 * John Little
 * Ryan Regier
+* Judith Gallagher, MIT Libraries
+* Toby Greenwalt
+* Kendra K. Levine
+* Michael Sholinbeck
+* Tracy Gabridge, Deputy Director, MIT Libraries
+* Kristen Mapes
+* Alan Harnum
 
 
 *Additional signatures are welcome. To sign, please open a pull request
