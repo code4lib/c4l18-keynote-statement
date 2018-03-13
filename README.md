@@ -37,6 +37,7 @@ unprofessional behavior.
 * Council on Library and Information Resources (CLIR)
 * Penn State University Libraries
 * DuraSpace
+* George Washington University Libraries and Academic Innovation
 * Andromeda Yelton
 * Ranti Junus
 * Michael Della Bitta
@@ -575,6 +576,7 @@ unprofessional behavior.
 * Keith Glavash, Associate Director for Administration, MIT Libraries
 * Lea Iadarola
 * Alex R. Hodges
+* Geneva Henry
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
