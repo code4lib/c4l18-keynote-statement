@@ -596,6 +596,9 @@ unprofessional behavior.
 * Sarav Shah
 * Johnathan Martin
 * Naomi Dushay
+* Jennie Rose Halperin
+* Jessica R. Olin
+* Emily Clasper
 * Chealsye Bowley
 * Nancy Y. McGovern
 
