@@ -553,6 +553,9 @@ unprofessional behavior.
 * Bobby Glushko, Western University
 * John Little
 * Kendra K. Levine
+* Michael Sholinbeck
+* Tracy Gabridge, Deputy Director, MIT Libraries
+* Kristen Mapes
 
 
 *Additional signatures are welcome. To sign, please open a pull request
