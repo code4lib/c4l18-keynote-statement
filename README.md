@@ -610,7 +610,9 @@ unprofessional behavior.
 * Joshua Ethan Sanchez
 * Jessica Schomberg
 * Amy Neeser
-
+* Garrett Eastman
+* Scott Warren
+* Keith Webster
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
