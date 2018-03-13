@@ -563,6 +563,7 @@ unprofessional behavior.
 * Ryan Merkley, CEO, Creative Commons
 * Ron Peterson (Code4Lib Journal Editorial Committee)
 * Jill Sodt
+* Keith Glavash, Associate Director for Administration, MIT Libraries
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
