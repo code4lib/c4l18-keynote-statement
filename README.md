@@ -37,6 +37,7 @@ unprofessional behavior.
 * Council on Library and Information Resources (CLIR)
 * Penn State University Libraries
 * DuraSpace
+* George Washington University Libraries and Academic Innovation
 * Andromeda Yelton
 * Ranti Junus
 * Michael Della Bitta
@@ -561,6 +562,8 @@ unprofessional behavior.
 * Kristen Mapes
 * Alan Harnum
 * Ryan Merkley, CEO, Creative Commons
+* SJ Klein
+* Sarah Schwettmann
 * Ron Peterson (Code4Lib Journal Editorial Committee)
 * Chrissy Rissmeyer
 * Benjamin Webb
@@ -571,6 +574,9 @@ unprofessional behavior.
 * Greg Smith
 * Keith Glavash, Associate Director for Administration, MIT Libraries
 * Greg Eow, Associate Director for Collections, MIT Libraries
+* Lea Iadarola
+* Alex R. Hodges
+* Geneva Henry
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
