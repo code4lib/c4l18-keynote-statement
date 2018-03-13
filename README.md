@@ -477,6 +477,7 @@ unprofessional behavior.
 * Grace Kindeke
 * Eugenia Beh
 * Michael Toler
+* Richard Higgins
 
 Additional signatures are welcome. To sign, please open a pull request
 or issue at the
