@@ -482,6 +482,7 @@ unprofessional behavior.
 * Sharon Farnel
 * Ken Burhanna
 * Eleanor I. Cook
+* Denise O'Shea
 
 Additional signatures are welcome. To sign, please open a pull request
 or issue at the
