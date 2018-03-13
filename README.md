@@ -534,8 +534,7 @@ unprofessional behavior.
 * Joshua Neds-Fox
 * Jamie Little
 * Mary Beth Lock
-* Molly Keener
-
+* Kathleen M. Haley
 
 
 *Additional signatures are welcome. To sign, please open a pull request
