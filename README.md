@@ -514,6 +514,7 @@ unprofessional behavior.
 * Chana Kraus-Friedberg
 * Lane Wilkinson
 * Dee Magnoni
+* Yoo Young Lee
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
