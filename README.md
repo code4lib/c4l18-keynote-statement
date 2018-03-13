@@ -511,6 +511,7 @@ unprofessional behavior.
 * Kari Smith
 * Alexandra Chassanoff, Ph.D.
 * Chana Kraus-Friedberg
+* Lane Wilkinson
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
