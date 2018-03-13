@@ -493,6 +493,7 @@ unprofessional behavior.
 * Tod Robbins
 * Mark A. Matney, Jr.
 * Jacob Zaborowski
+* Sarah Lester
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
