@@ -385,7 +385,7 @@ unprofessional behavior.
 * Prudence S. Adler
 * Kaylyn Groves
 * Susan Ivey
-* Anne R. Kenney 
+* Anne R. Kenney
 * Amanda Whitmire
 * Jeff Sabol
 * Jennifer B. Young
@@ -430,7 +430,7 @@ unprofessional behavior.
 * Barbara Laufersweiler
 * Adriene Lim
 * Maggie Dickson
-* Ann Frenkel 
+* Ann Frenkel
 * Scout Calvert, PhD. Data Librarian, Michigan State University
 * Edward Bilodeau
 * Jessica Hilt
@@ -443,7 +443,7 @@ unprofessional behavior.
 * Araceli Hintermeister
 * Elvia Arroyo-Ramirez
 * John Huck
-* Gerald R. Beasley 
+* Gerald R. Beasley
 * Randy Stern
 * Shawn P. Calhoun
 * Derek Merleaux
@@ -498,9 +498,9 @@ unprofessional behavior.
 * Jolie O. Graybill
 * Najko Jahn
 * David Wilcox
-* Scholarly Publishing and Academic Resources Coalition (SPARC)	
-* Heather Joseph	
-* Raym Crow	
+* Scholarly Publishing and Academic Resources Coalition (SPARC)
+* Heather Joseph
+* Raym Crow
 * Lorraine J. Haricombe, ARL Board Member
 * Joseph Koivisto
 * Elizabeth Lorang
