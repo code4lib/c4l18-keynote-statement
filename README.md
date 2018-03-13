@@ -479,6 +479,8 @@ unprofessional behavior.
 * Michael Toler
 * Richard Higgins
 * Kimberly Chapman
+* Ken Burhanna
+* Eleanor I. Cook
 
 Additional signatures are welcome. To sign, please open a pull request
 or issue at the
