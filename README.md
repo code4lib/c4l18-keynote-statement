@@ -487,6 +487,7 @@ unprofessional behavior.
 * Roxanne Shirazi
 * Spencer D. C. Keralis on behalf of Digital Frontiers
 * Amy McLay Paterson
+* Jen Green
 
 Additional signatures are welcome. To sign, please open a pull request
 or issue at the
