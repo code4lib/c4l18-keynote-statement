@@ -544,7 +544,7 @@ unprofessional behavior.
 * Laura Carscaddon
 * Catherine Pellegrino
 * David Kinzer
-
+* Brian Rogers
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
