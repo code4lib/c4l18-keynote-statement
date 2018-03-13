@@ -563,6 +563,13 @@ unprofessional behavior.
 * Ryan Merkley, CEO, Creative Commons
 * Ron Peterson (Code4Lib Journal Editorial Committee)
 * Chrissy Rissmeyer
+* Benjamin Webb
+* Angela Zoss
+* Patricia Flanagan, Associate Director for Academic and Community Engagement, MIT Libraries
+* Matthew Reidsma
+* Jill Sodt
+* Greg Smith
+* Keith Glavash, Associate Director for Administration, MIT Libraries
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
