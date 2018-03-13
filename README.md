@@ -539,6 +539,7 @@ unprofessional behavior.
 * Jennifer Bowen
 * Kathleen M. Haley
 * Ashley Brewer
+* Elizabeth Wickes
 
 
 
