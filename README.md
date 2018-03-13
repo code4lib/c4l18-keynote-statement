@@ -35,8 +35,10 @@ unprofessional behavior.
 * American Library Association (ALA)
 * Association for Computers in the Humanities (ACH)
 * Council on Library and Information Resources (CLIR)
+* Association of College & Research Libraries (ACRL)
 * Penn State University Libraries
 * DuraSpace
+* George Washington University Libraries and Academic Innovation
 * Andromeda Yelton
 * Ranti Junus
 * Michael Della Bitta
@@ -562,7 +564,7 @@ unprofessional behavior.
 * Alan Harnum
 * Ryan Merkley, CEO, Creative Commons
 * Ron Peterson (Code4Lib Journal Editorial Committee)
-* Adam Wead
+* Jill Sodt
 * Chrissy Rissmeyer
 * Benjamin Webb
 * Angela Zoss
@@ -572,6 +574,10 @@ unprofessional behavior.
 * Greg Smith
 * Keith Glavash, Associate Director for Administration, MIT Libraries
 * Teri M. Vogel
+* Greg Eow, Associate Director for Collections, MIT Libraries
+* Lea Iadarola
+* Alex R. Hodges
+* Geneva Henry
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
