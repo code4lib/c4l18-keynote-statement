@@ -564,6 +564,7 @@ unprofessional behavior.
 * Ron Peterson (Code4Lib Journal Editorial Committee)
 * Jill Sodt
 * Greg Smith
+* Keith Glavash, Associate Director for Administration, MIT Libraries
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
