@@ -654,6 +654,7 @@ unprofessional behavior.
 * Rebecca Fraimow
 * Dave Durden
 * Mike Waugh
+* Kristen Hogan, Barnard Library & Academic Information Systems
 * Rachel Leach
 * Library Publishing Coalition
 
