@@ -646,6 +646,7 @@ unprofessional behavior.
 * Lauren Di Monte
 * Amy L. Nurnberger
 * Rochelle Mazar
+* Joe Carrano
 
 
 *Additional signatures are welcome. To sign, please open a pull request
