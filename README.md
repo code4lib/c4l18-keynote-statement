@@ -677,6 +677,7 @@ unprofessional behavior.
 * Ruth Ann Jones, Special Collections Librarian, former Digital Projects Manager, Michigan State University Libraries
 * Michelle Baildon, MIT Libraries
 * Kevin Woolley
+* Sue M. Woodson 
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
