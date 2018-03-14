@@ -636,7 +636,8 @@ unprofessional behavior.
 * M. G. Maloney, MLIS
 * Brett Williams
 * Patrick Murray-John
-
+* Jonathan Kift
+* Boston Library Consortium
 
 
 *Additional signatures are welcome. To sign, please open a pull request
