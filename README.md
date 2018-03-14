@@ -673,6 +673,7 @@ unprofessional behavior.
 * Joanna DiPasquale
 * Lee Konrad
 * Hypothes.is 
+* Ruth Ann Jones, Special Collections Librarian, former Digital Projects Manager, Michigan State University Libraries
 * Michelle Baildon, MIT Libraries
 
 
