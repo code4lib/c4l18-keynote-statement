@@ -679,6 +679,7 @@ unprofessional behavior.
 * Kevin Woolley
 * Katharine Dunn, MIT Libraries
 * Ellen Finnie, MIT Libraries
+* Sue M. Woodson 
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
