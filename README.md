@@ -642,7 +642,7 @@ unprofessional behavior.
 * Association of University Presses
 * Doralyn Rossmann
 * Jennifer Garrett
-
+* Steve Howes
 
 
 *Additional signatures are welcome. To sign, please open a pull request
