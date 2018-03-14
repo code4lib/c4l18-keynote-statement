@@ -648,6 +648,7 @@ unprofessional behavior.
 * Rochelle Mazar
 * Joe Carrano
 * Yamil Suarez
+* Andrew Gearhart
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
