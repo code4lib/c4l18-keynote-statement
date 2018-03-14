@@ -672,6 +672,7 @@ unprofessional behavior.
 * Stephanie Bour
 * Joanna DiPasquale
 * Lee Konrad
+* Hypothes.is 
 
 
 *Additional signatures are welcome. To sign, please open a pull request
