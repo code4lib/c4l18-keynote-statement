@@ -658,6 +658,11 @@ unprofessional behavior.
 * Rachel Leach
 * Library Publishing Coalition
 * Helen Bailey
+* Metropolitan New York Library Council (Metro)
+* Nate Hill, Metro
+* Kerri Willette, Metro
+* Diego Pino Navarro, Metro
+* John Mignault, Metro
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
