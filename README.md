@@ -673,9 +673,9 @@ unprofessional behavior.
 * Joanna DiPasquale
 * Lee Konrad
 * Hypothes.is 
+* Jonah Magar
 * Ruth Ann Jones, Special Collections Librarian, former Digital Projects Manager, Michigan State University Libraries
 * Michelle Baildon, MIT Libraries
-
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
