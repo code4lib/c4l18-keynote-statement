@@ -671,6 +671,7 @@ unprofessional behavior.
 * Marcus Banks
 * Stephanie Bour
 * Joanna DiPasquale
+* Lee Konrad
 
 
 *Additional signatures are welcome. To sign, please open a pull request
