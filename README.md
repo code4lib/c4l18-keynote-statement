@@ -652,6 +652,7 @@ unprofessional behavior.
 * Dominic Mitchell on behalf of the Directory of Open Access Journals
 * Matt Carruthers
 * Rebecca Fraimow
+* Mike Waugh
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
