@@ -671,6 +671,7 @@ unprofessional behavior.
 * Marcus Banks
 * Stephanie Bour
 * Joanna DiPasquale
+* Lee Konrad
 * Hypothes.is 
 
 
