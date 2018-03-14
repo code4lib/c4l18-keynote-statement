@@ -671,9 +671,8 @@ unprofessional behavior.
 * Marcus Banks
 * Stephanie Bour
 * Joanna DiPasquale
-* Lee Konrad
 * Hypothes.is 
-* Michelle Baildon, MIT Libraries
+* Gwen Bird
 
 
 *Additional signatures are welcome. To sign, please open a pull request
