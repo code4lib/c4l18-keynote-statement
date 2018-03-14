@@ -644,6 +644,7 @@ unprofessional behavior.
 * Jennifer Garrett
 * Steve Howes
 * Lauren Di Monte
+* Amy L. Nurnberger
 
 
 *Additional signatures are welcome. To sign, please open a pull request
