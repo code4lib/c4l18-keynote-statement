@@ -673,6 +673,7 @@ unprofessional behavior.
 * Joanna DiPasquale
 * Lee Konrad
 * Hypothes.is 
+* Michelle Baildon, MIT Libraries
 
 
 *Additional signatures are welcome. To sign, please open a pull request
