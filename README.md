@@ -670,6 +670,7 @@ unprofessional behavior.
 * Brandy Karl
 * Marcus Banks
 * Stephanie Bour
+* Joanna DiPasquale
 
 
 *Additional signatures are welcome. To sign, please open a pull request
