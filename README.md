@@ -643,6 +643,7 @@ unprofessional behavior.
 * Doralyn Rossmann
 * Jennifer Garrett
 * Steve Howes
+* Lauren Di Monte
 
 
 *Additional signatures are welcome. To sign, please open a pull request
