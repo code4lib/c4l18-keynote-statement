@@ -30,7 +30,6 @@ unprofessional behavior.
 
 ## Additional Signatories (Individuals and Organizations Welcome)
 
-* Roy Tennant
 * Digital Library Federation (DLF)
 * Library and Information Technology Association (LITA)
 * American Library Association (ALA)
@@ -41,6 +40,17 @@ unprofessional behavior.
 * DuraSpace
 * George Washington University Libraries and Academic Innovation
 * University of Delaware Library
+* University of Virginia Scholars' Lab
+* Data Curation Experts (DCE), LLC
+* Association of Research Libraries
+* Scholarly Publishing and Academic Resources Coalition (SPARC)
+* Black Caucus of the American Library Association (BCALA)
+* Boston Library Consortium
+* Association of University Presses
+* Library Publishing Coalition
+* Metropolitan New York Library Council (Metro)
+* Hypothes.is 
+* Roy Tennant
 * Andromeda Yelton
 * Ranti Junus
 * Michael Della Bitta
@@ -318,7 +328,6 @@ unprofessional behavior.
 * Maura Smale
 * Steve Casburn
 * Rebecca Larocque
-* University of Virginia Scholars' Lab
 * Martin Paul Eve
 * Philip N. Cohen
 * Dale Askey
@@ -377,14 +386,12 @@ unprofessional behavior.
 * Jeremy Nelson
 * Alexis Logsdon
 * Courtney C. Mumma
-* Data Curation Experts (DCE), LLC
 * Bess Sadler
 * Mark Bussey
 * Norda Bell
 * Genny Jon
 * F. Tim Knight
 * Logan Cox
-* Association of Research Libraries
 * Monica McCormick
 * Prudence S. Adler
 * Kaylyn Groves
@@ -501,7 +508,6 @@ unprofessional behavior.
 * Jolie O. Graybill
 * Najko Jahn
 * David Wilcox
-* Scholarly Publishing and Academic Resources Coalition (SPARC)
 * Heather Joseph
 * Raym Crow
 * Lorraine J. Haricombe, ARL Board Member
@@ -623,7 +629,6 @@ unprofessional behavior.
 * Susan Wells Parham
 * Susan Skomal
 * Wesley Teal
-* Black Caucus of the American Library Association (BCALA)
 * Ryan Clement
 * Matt Upson
 * Keith Engwall
@@ -638,8 +643,6 @@ unprofessional behavior.
 * Matt Calsada
 * Patrick Murray-John
 * Jonathan Kift
-* Boston Library Consortium
-* Association of University Presses
 * Doralyn Rossmann
 * Jennifer Garrett
 * Steve Howes
@@ -656,9 +659,7 @@ unprofessional behavior.
 * Mike Waugh
 * Kristen Hogan, Barnard Library & Academic Information Systems
 * Rachel Leach
-* Library Publishing Coalition
 * Helen Bailey
-* Metropolitan New York Library Council (Metro)
 * Nate Hill, Metro
 * Kerri Willette, Metro
 * Diego Pino Navarro, Metro
@@ -672,7 +673,6 @@ unprofessional behavior.
 * Stephanie Bour
 * Joanna DiPasquale
 * Lee Konrad
-* Hypothes.is 
 * Jonah Magar
 * Ruth Ann Jones, Special Collections Librarian, former Digital Projects Manager, Michigan State University Libraries
 * Michelle Baildon, MIT Libraries
