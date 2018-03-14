@@ -672,7 +672,7 @@ unprofessional behavior.
 * Stephanie Bour
 * Joanna DiPasquale
 * Hypothes.is 
-
+* Jonah Magar
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
