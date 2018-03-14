@@ -669,6 +669,7 @@ unprofessional behavior.
 * Sian Meikle
 * Brandy Karl
 * Marcus Banks
+* Stephanie Bour
 
 
 *Additional signatures are welcome. To sign, please open a pull request
