@@ -639,6 +639,7 @@ unprofessional behavior.
 * Patrick Murray-John
 * Jonathan Kift
 * Boston Library Consortium
+* Association of University Presses
 
 
 *Additional signatures are welcome. To sign, please open a pull request
