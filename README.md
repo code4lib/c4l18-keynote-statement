@@ -653,6 +653,7 @@ unprofessional behavior.
 * Matt Carruthers
 * Rebecca Fraimow
 * Dave Durden
+* Mike Waugh
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
