@@ -676,6 +676,7 @@ unprofessional behavior.
 * Jonah Magar
 * Ruth Ann Jones, Special Collections Librarian, former Digital Projects Manager, Michigan State University Libraries
 * Michelle Baildon, MIT Libraries
+* Kevin Woolley
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
