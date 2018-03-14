@@ -672,6 +672,7 @@ unprofessional behavior.
 * Stephanie Bour
 * Joanna DiPasquale
 * Hypothes.is 
+* Ruth Ann Jones, Special Collections Librarian, former Digital Projects Manager, Michigan State University Libraries
 
 
 *Additional signatures are welcome. To sign, please open a pull request
