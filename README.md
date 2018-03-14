@@ -640,6 +640,9 @@ unprofessional behavior.
 * Jonathan Kift
 * Boston Library Consortium
 * Association of University Presses
+* Doralyn Rossmann
+* Jennifer Garrett
+
 
 
 *Additional signatures are welcome. To sign, please open a pull request
