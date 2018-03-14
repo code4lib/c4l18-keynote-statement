@@ -649,6 +649,7 @@ unprofessional behavior.
 * Joe Carrano
 * Yamil Suarez
 * Andrew Gearhart
+* Dominic Mitchell on behalf of the Directory of Open Access Journals
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
