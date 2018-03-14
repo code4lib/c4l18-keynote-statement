@@ -17,6 +17,7 @@ unprofessional behavior.
 ## 2018 Code4Lib Conference Organizers
 
 * Galen Charlton
+* Kate Dohe
 * Ben Florin
 * Peggy Griesinger
 * Bohyun Kim
@@ -337,7 +338,6 @@ unprofessional behavior.
 * jean amaral
 * debra hanken kurtz
 * Anna Filippova
-* Kate Dohe
 * Nicholas Schiller
 * Donna M. Lanclos
 * Christy Tomecek
@@ -652,6 +652,7 @@ unprofessional behavior.
 * Dominic Mitchell on behalf of the Directory of Open Access Journals
 * Matt Carruthers
 * Rebecca Fraimow
+* Dave Durden
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
