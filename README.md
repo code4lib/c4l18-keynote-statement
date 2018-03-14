@@ -645,6 +645,7 @@ unprofessional behavior.
 * Steve Howes
 * Lauren Di Monte
 * Amy L. Nurnberger
+* Joe Carrano
 
 
 *Additional signatures are welcome. To sign, please open a pull request
