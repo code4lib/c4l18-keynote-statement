@@ -635,7 +635,7 @@ unprofessional behavior.
 * Wendy Mann
 * M. G. Maloney, MLIS
 * Brett Williams
-
+* Boston Library Consortium
 
 
 *Additional signatures are welcome. To sign, please open a pull request
