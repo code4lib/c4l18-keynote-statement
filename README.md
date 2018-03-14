@@ -639,6 +639,8 @@ unprofessional behavior.
 * Patrick Murray-John
 * Jonathan Kift
 * Boston Library Consortium
+* Doralyn Rossmann
+* Jennifer Garrett
 
 
 *Additional signatures are welcome. To sign, please open a pull request
