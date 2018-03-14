@@ -647,7 +647,7 @@ unprofessional behavior.
 * Amy L. Nurnberger
 * Rochelle Mazar
 * Joe Carrano
-
+* Yamil Suarez
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
