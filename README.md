@@ -149,6 +149,7 @@ unprofessional behavior.
 * Caitlin Pollock
 * Carmen Mitchell
 * Carol Bean
+* Carolyn Caizzi
 * Carolyn Ciesla
 * Carrie Wade
 * Catherine Pellegrino
