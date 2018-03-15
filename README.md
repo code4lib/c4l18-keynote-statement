@@ -399,6 +399,7 @@ unprofessional behavior.
 * Karen Estlund
 * Kari Smith
 * Karl-Rainer Blumenthal
+* Karla Strieb
 * Kat Hagedorn
 * Kate Flynn
 * Kate Joranson
@@ -710,7 +711,6 @@ unprofessional behavior.
 * Yamil Suarez
 * Yasmeen Shorish
 * Yoo Young Lee
-* Karla Strieb
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
