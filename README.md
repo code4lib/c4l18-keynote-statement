@@ -687,6 +687,7 @@ unprofessional behavior.
 * Tom Boone
 * David Drexler
 * Kate Joranson
+* Shana L. McDanold
 
 
 *Additional signatures are welcome. To sign, please open a pull request
