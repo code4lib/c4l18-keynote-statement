@@ -142,6 +142,7 @@ unprofessional behavior.
 * Brian Harrington
 * Brian Rogers
 * Brian Rosenblum
+* Bruce Barton
 * Bruce Hulse
 * Bruce Orcutt
 * Caitlin Pollock
