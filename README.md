@@ -72,6 +72,7 @@ unprofessional behavior.
 * Alex Gil
 * Alex Golub-Sass
 * Alex R. Hodges
+* Alex Willett
 * Alexandra Chassanoff
 * Alexandra Dolan-Mescal
 * Alexis Logsdon
