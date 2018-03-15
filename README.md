@@ -28,671 +28,677 @@ unprofessional behavior.
 * Becky Yoose
 
 
-## Additional Signatories (Individuals and Organizations Welcome)
+## Additional Signatories
 
-* Digital Library Federation (DLF)
-* Library and Information Technology Association (LITA)
+### Organizations
+
 * American Library Association (ALA)
 * Association for Computers in the Humanities (ACH)
-* Council on Library and Information Resources (CLIR)
 * Association of College & Research Libraries (ACRL)
-* Penn State University Libraries
-* DuraSpace
-* George Washington University Libraries and Academic Innovation
-* University of Delaware Library
-* University of Virginia Scholars' Lab
-* Data Curation Experts (DCE), LLC
 * Association of Research Libraries
-* Scholarly Publishing and Academic Resources Coalition (SPARC)
+* Association of University Presses
 * Black Caucus of the American Library Association (BCALA)
 * Boston Library Consortium
-* Association of University Presses
+* Council on Library and Information Resources (CLIR)
+* Data Curation Experts, LLC (DCE)
+* Digital Frontiers
+* Digital Library Federation (DLF)
+* Directory of Open Access Journals
+* DuraSpace
+* George Washington University Libraries and Academic Innovation
+* Hypothes.is
 * Library Publishing Coalition
+* Library and Information Technology Association (LITA)
 * Metropolitan New York Library Council (Metro)
-* Hypothes.is 
-* Roy Tennant
-* Andromeda Yelton
-* Ranti Junus
-* Michael Della Bitta
-* Michael J. Giarlo
-* Jessamyn West
-* Peter E. Murray
-* Mark A. Matienzo
-* Karl-Rainer Blumenthal
-* Shira Peltzman
-* David Moles
-* Nicky Andrews
-* Anne Slaughter
-* Violeta Ilik
-* Esmé Cowles
-* Mary Jinglewski
-* Kevin S. Hawkins
-* Bria Parker
-* Kaitlin Newson
-* Mike Rylander
-* Sarah Stang
-* Scott Carlson
-* Francis Kayiwa
-* Bill Erickson
-* Nick Ruest
-* Samuel Hansen
-* Shaun Ellis
-* Katherine Kim
-* Peter Binkley
-* Tisha Mentnech
-* Mike Simpson
-* Jenn Colt
-* Tim Donohue
-* Alyssa Loera
-* Benjamin Armintor
-* Vicky Steeves
-* Tom Johnson
-* Ashley Blewer
-* Ryan Wick
-* Andreas "Dre" Orphanides
-* Aaron Collier
-* Andrew Weaver
-* Christie Peterson
-* Michael Berkowski
-* Dave Mayo
-* Lisa Janicke Hinchliffe
-* Dorothea Salo
-* Christina Harlow
-* Ruth Kitchin Tillman (Code4Lib Journal Editorial Committee)
-* Sara Allain
-* Corey A Harper
-* Charles Ed Hill
-* Kim Pham
-* Netanel Ganin
-* Cecily Walker
-* Kelly Kietur
-* K. G. Schneider, Ph.D.
-* Jaime Taylor
-* Brandon Dudley
-* Shannon Hunt
-* Melissa Wisner
-* Kevin Cloud
-* Valerie Hawkins
-* Ian Knabe
-* Rebekah Kati
-* Kelly Bolding
-* Tim Wentz
-* Brendan Quinn
-* Kevin Butterfield
-* Deb DeGeorge
-* Kyle Shockey
-* Jesse Martinez
-* Patricia Hswe
-* Violet Fox
-* Hardy Joseph Pottinger IV
-* Paige Morgan
-* Joanne Paterson
-* Keith Gilbertson
-* Wally Grotophorst
-* Galadriel Chilton
-* Eve Ross
-* Dave S. Ghamandi
-* Jacob Berg
-* Tom Scheinfeldt
-* Hillel Arnold
-* Trevor Owens
-* Wendy Robertson
-* Mairéad Martin
-* Whitni Watkins
-* Brian Rosenblum
-* Ryan Claringbole
-* Ellen Keith
-* Mike Furlough
+* Penn State University Libraries
+* Public Knowledge Project (PKP)
+* Scholarly Publishing and Academic Resources Coalition (SPARC)
+* University of Delaware Library
+* University of Virginia Scholars' Lab
+
+### Individuals
+
 * A.S. Galvan
-* Stacie Traill
-* Adrienne Lai
-* Kimberly M. Hoffman
-* Patrick Galligan
-* Jeanine Finn
-* Heather Joseph
-* Carmen Mitchell
-* Greg Wiedeman
-* Chad Nelson
-* R. David Lankes
-* Terry Reese
-* Declan Fleming
-* Brian E. C. Schottlaender
-* Carol Bean
-* Ryan P. Randall
-* Sarah Simpkin
-* Lauren Klein
-* Kevin Clair
-* Hugh Cayless
-* Sherry Lake
-* Mark Phillips
-* Michael B. Klein
-* John Jung
-* Kevin Reiss
-* Rachel Mattson
-* Lora J. Woodford
-* Helene Williams
-* Cathy Aster
-* Kyle R. Rimkus
-* Nicholas Taylor
-* Dolly Knight
-* Kelcy Shepherd
-* Megan A. Brooks
-* John Quentin Heywood
-* Amy Buckland
-* Kristina Spurgin
-* Jenn Riley
+* Aaron Collie
+* Aaron Collier
 * Abigail Goben
-* Jason Heppler
-* Corey Davis
-* Miriam Posner
-* Hannah Frost
-* Misty De Meo
-* Rob Sanderson
-* Scott W. H. Young
-* Jonathan Rochkind
-* Kurt Nordstrom
-* Graham Hukill
-* Mattie Schraeder
-* Gail Steinhart
-* Kristin Lee
-* Anna Creech
-* Mary Molinaro
-* Sharon E. Farb
-* Pat Tully
-* Chad Haefele
-* Valerie Forrestal
-* Naomi House
-* Fobazi M Ettarh
-* Jim DelRosso
-* Erik Radio
-* Lauren E. Fox
-* Gary Thompson
-* Michelle Bass
-* Dominique Luster
+* Adam Wead
+* Adam Ziegler
+* Adriene Lim
+* Adrienne Lai
+* Alan Harnum
+* Alex Gil
+* Alex Golub-Sass
+* Alex R. Hodges
+* Alexandra Chassanoff
+* Alexandra Dolan-Mescal
+* Alexis Logsdon
+* Alison Blaine
+* Aliya Reich
+* Allison Langham
+* Alyssa Loera
+* Amanda Curnow
+* Amanda Rinehart
+* Amanda Visconti
+* Amanda Watson
+* Amanda Whitmire
 * Amelia Gibson
-* Jason Casden
-* Julie Hardesty
-* Jason Ronallo
-* Justin Coyne
-* Scott Ziegler
-* Matt Zumwalt
-* Rebecca Cremona
-* Kim Martin
+* Amy Buckland
+* Amy Filiatreau
+* Amy Gay
+* Amy L. Nurnberger
+* Amy McLay Paterson
+* Amy Neeser
+* Amy Riegelman
+* Andreas "Dre" Orphanides
+* Andrew Darby
+* Andrew Gearhart
+* Andrew Preater
+* Andrew Weaver
+* Andromeda Yelton
+* Andy Ashton
+* Angela Boyd
+* Angela Zoss
+* Ann Frenkel
+* Ann Thornton
+* Anna Creech
+* Anna Filippova
+* Anna St.Onge
+* Anne R. Kenney
+* Anne Slaughter
+* Anneliese Dehner
+* Araceli Hintermeister
+* Artemis Kirk
+* Ashley Blewer
+* Ashley Brewer
+* Athena Jackson
+* Austin Booth
+* Autumn Faulkner
+* Ayla Stein
+* Barbara Dewey
+* Barbara Hui
+* Barbara Laufersweiler
+* Barbara Williams
+* Becca Quon
+* Ben Rearick
+* Benjamin Albritton
+* Benjamin Armintor
+* Benjamin Webb
+* Bess Sadler
+* Beth Daniel Lindsay
+* Bill Erickson
+* Bobbi Fox
+* Bobby Glushko
+* Brad Houston
+* Brandon Butler
+* Brandon Dudley
+* Brandy Karl
+* Brendan Quinn
+* Brett Williams
+* Bria Parker
+* Brian E. C. Schottlaender
+* Brian Harrington
+* Brian Rogers
+* Brian Rosenblum
+* Bruce Hulse
+* Bruce Orcutt
+* Caitlin Pollock
+* Carmen Mitchell
+* Carol Bean
+* Carolyn Ciesla
+* Carrie Wade
+* Catherine Pellegrino
+* Cathy Aster
+* Cecily Marcus
+* Cecily Walker
+* Chad Haefele
+* Chad Nelson
+* Chana Kraus-Friedberg
+* Charles Ed Hill
+* Charlotte Rock
+* Chealsye Bowley
+* Chelcie Juliet Rowell
+* Chris Diaz
+* Chris Stanton
+* Chrissy Rissmeyer
+* Christie Peterson
+* Christina Harlow
+* Christina K. Pikas, PhD
+* Christopher Cronin
+* Christy Hyman
+* Christy Tomecek
+* Claire Stewart
+* Claudia Hill
+* Cody Hanson
+* Colin Nickels
+* Corey A Harper
+* Corey Davis
+* Courtney C. Mumma
+* Craig Boman
+* Cynthia Mari Orozco
+* Cynthia Ng
+* D.R. Tyler Magill
+* Dale Askey
+* Damon Jaggars
+* Dan Cohen
+* Dan Coughlin
+* Dan Scott
+* Daniel Sanford
+* Dave Durden
+* Dave Mayo
+* Dave S. Ghamandi
+* David Drexler
+* David Kinzer
+* David McCallum
+* David Moles
+* David Pcolar
+* David Wilcox
+* Deb DeGeorge
+* Deborah A. Torres
+* Deborah Babb
+* Deborah Caldwell
+* debra hanken kurtz
+* Declan Fleming
+* Dee Magnoni
+* Denise O'Shea
+* Derek Merleaux
 * Derek Zoladz
 * Desmond Wong
-* Claire Stewart
-* D.R. Tyler Magill
-* Vika Zafrin
-* Erin Stalberg
-* Alex Gil
-* Sarah Shreeves
-* Ann Thornton
-* Erin O'Meara
-* Carolyn Ciesla
-* Samantha Abrams
-* Helen Szigeti
-* Shannon K. Supple
-* Sarah Glassmeyer
-* Jason Rhody
-* Justin Schell
-* Athena Jackson
-* John Mark Ockerbloom
-* Teresa Schultz
-* Anna St.Onge
-* Timothy A. Thompson
-* Damon Jaggars
-* Katherine Deibel
-* Christopher Cronin
-* Linda Ballinger
-* Natalie DeJonghe
+* Diane Goldenberg-Hart
+* Diego Pino Navarro
+* Dolly Knight
 * Dominic Bordelon
-* Steven R. Harris
-* Faith Charlton
-* Cynthia Ng
-* Nancy E. Adams
-* Kate Flynn
-* Laura Miller
-* Joe Montibello
-* Pam Ryan
-* Alison Blaine
-* Becca Quon
-* Mark Baggett
-* Robert Cartolano
-* Amanda Watson
-* Lisa Marie Rhody
-* Nicky Agate
-* Erica Hayes
-* Ethan Fenichel
-* Walt Gurley
-* Eric Hanson (Code4Lib Journal Editorial Committee)
-* Mark A. Puente
-* Kathleen Fitzpatrick
-* Erin Templeton
-* Julie Sweetkind-Singer
-* Jen Waller
-* Laura Smart
-* Cody Hanson
-* Dan Cohen
-* Ed Summers
-* Julien A. Raemy
-* Christy Hyman
-* Jill Cirasella
-* Elizabeth England
-* Jere Odell
-* Chris Diaz
-* Greer Martin
-* Heather Soyka
-* Dot Porter
-* Austin Booth
-* Hector Correa
-* Cynthia Mari Orozco
-* David Pcolar
-* Andrew Darby
-* Bruce Hulse
-* Sandy Rodriguez
-* Matt Gold
-* Kathleen Reed
-* M. Taormina
-* Deborah Babb
-* Jer Thorp
-* Emily Gore
-* Jeffrey Spies
-* Rachel Frick
-* Amanda Visconti
-* William Denton
-* Jon Stroop
-* Dorothy Kim
-* Chris Stanton
-* Judy Ruttenberg
-* Deborah Caldwell
-* Tim McGeary
-* Craig Boman
-* Katina Rogers
-* Eric Johnson
-* Siobhan Senier
-* Laura Wrubel
-* Matt Bernhardt
-* Dan Scott
-* Tom Bruno
-* Roopika Risam
-* Jamie Folsom
-* Jason Griffey
-* James C. Davis
-* Beth Daniel Lindsay
-* Heather Yager, Associate Director for Digital Library Services, MIT Libraries
-* Kate Simpson
-* Jerry Waller
-* Rogan Hamby
-* Esther M. Jackson
-* Matthew Noe
-* Maura Smale
-* Steve Casburn
-* Rebecca Larocque
-* Martin Paul Eve
-* Philip N. Cohen
-* Dale Askey
-* Alexandra Dolan-Mescal
-* Sarah Melton
-* Laura Koltutsky
-* Ian Hardy
-* Sam Popowich
-* John Fink
-* Nicole Radziwill
-* Jack Reed
-* Ryan Cordell
-* Ian Milligan
-* Shirley Zhao
-* Michèle Spieler
-* Juan Pablo Alperin on behalf of the Public Knowledge Project (PKP)
-* jean amaral
-* debra hanken kurtz
-* Anna Filippova
-* Nicholas Schiller
+* Dominic Mitchell
+* Dominique Luster
 * Donna M. Lanclos
-* Christy Tomecek
-* Colin Nickels
-* Moira Downey
-* Rebecca Kennison
-* Dan Coughlin
-* Kristen Ratan
-* John Daniel
-* Heather Coates
-* Josh Hall
-* Laura C. Wood
-* Adam Ziegler
-* Amanda Rinehart
-* Kevin Sanders
-* Andrew Preater
-* Laurie Taylor
-* Bobbi Fox
-* Justin Littman
-* Christina K. Pikas, PhD
-* Julie C. Swierczek
-* Suzanne Wones
-* Emma C Moore
-* Amy Gay
-* Alex Golub-Sass
-* Scott Martin
-* Yasmeen Shorish
-* Daniel Sanford
-* Tyler Dzuba
-* Rebecca Hirsch (Code4Lib Journal Editorial Committee)
-* Jay Luker
-* Sandra Sawchuk
-* Thomas Padilla
-* Jonathan Zittrain
-* Ian Clark
-* Jessica Moran
-* Jeremy Nelson
-* Alexis Logsdon
-* Courtney C. Mumma
-* Bess Sadler
-* Mark Bussey
-* Norda Bell
-* Genny Jon
-* F. Tim Knight
-* Logan Cox
-* Monica McCormick
-* Prudence S. Adler
-* Kaylyn Groves
-* Susan Ivey
-* Anne R. Kenney
-* Amanda Whitmire
-* Jeff Sabol
-* Jennifer B. Young
-* Trip Kirkpatrick
-* Sarah Park
-* Sue Baughman
-* Mary Case
-* Charlotte Rock
-* Scott Prater
-* Steve Meyer
-* Julie Goldman
-* Kevin S. Clarke
-* Will Skora
-* Steve Van Tuyl
-* Frances Botsford
-* Vivian Lewis
-* Sarah Romkey
-* Graeme Slaght
-* Carrie Wade
-* Jennifer Vinopal
-* John T. Butler
-* Ursula Pieper
-* Paul Wester
-* Joe Lucia
-* Amy Riegelman
-* Robert H. McDonald
-* Samuel R. Putnam
-* Emily Morton-Owens
-* Sean Luyk
-* Leah Vanderjagt
-* Matthew Barnett
-* Erin Nettifee
-* Brandon Butler
-* Melissa Cardenas-Dow
-* Liz C. Phillips, Manuscript Archivist, UC Davis
-* Angela Boyd
-* Amanda Curnow
-* Ayla Stein
-* Ben Rearick
-* Caitlin Pollock
-* Barbara Laufersweiler
-* Adriene Lim
-* Maggie Dickson
-* Ann Frenkel
-* Scout Calvert, PhD. Data Librarian, Michigan State University
-* Edward Bilodeau
-* Jessica Hilt
-* Thomas Keays
-* Barbara Hui
-* Victoria Pilato
-* Tom Habing
-* Ginny Steel
-* Janet Carleton
-* Araceli Hintermeister
-* Elvia Arroyo-Ramirez
-* John Huck
-* Gerald R. Beasley
-* Randy Stern
-* Shawn P. Calhoun
-* Derek Merleaux
-* Tammy Dearie
-* Peter Herdrich
-* Grace Barth
-* Cecily Marcus
-* Emily Knox
-* Katherine Skinner
-* Bruce Orcutt
-* Shari Laster
-* Tierney Steelberg
-* James Neal
-* Saskia Scheltjens
-* Sarah Thomas
-* Gary Price
-* Geoff Harder
-* Lisa Schiff
-* Elliott Shore
-* J. Matthew Huculak
-* Mike Osterman
-* Barbara Dewey
-* Joseph Salem
-* Karen Estlund
-* Elena Colón-Marrero
-* Tom Brittnacher
-* Artemis Kirk
-* Nicole Johnson
-* Tyler Walters
-* Julia Lanigan, MIT Libraries
-* Grace Kindeke, MIT Libraries
-* Eugenia Beh, MIT Libraries
-* Michael Toler, MIT Libraries
-* Richard Higgins
-* Kimberly Chapman
-* Sharon Farnel
-* Ken Burhanna
-* Eleanor I. Cook
-* Denise O'Shea
-* Fletcher Durant
-* Roxanne Shirazi
-* Spencer D. C. Keralis on behalf of Digital Frontiers
-* Amy McLay Paterson
-* Jen Green
-* Will Sexton
-* Susan Brown
-* Tod Robbins
-* Mark A. Matney, Jr.
-* Jacob Zaborowski
-* Sarah Lester
-* Eric Celeste
-* Jolie O. Graybill
-* Najko Jahn
-* David Wilcox
-* Heather Joseph
-* Raym Crow
-* Lorraine J. Haricombe, ARL Board Member
-* Joseph Koivisto
-* Elizabeth Lorang
-* Krista L. Cox
-* Suchi Mohanty
-* Aaron Collie
-* Mara Sedlins
-* Kari Smith
-* Alexandra Chassanoff
-* Chana Kraus-Friedberg
-* Lane Wilkinson
-* Dee Magnoni
-* Yoo Young Lee
-* Megan Kudzia
-* Stephanie Willen Brown
-* Maggie Schreiner
-* Greg Murray
-* Erin White
-* Nick Shockey
-* Joseph McArthur
-* Jenifer Smith Holman
-* John Dupuis
-* Melanie Schlosser
-* Amy Filiatreau, Library Director at Lynn University
-* Ted Polley
-* Allison Langham
-* Kat Hagedorn, Head, Digital Content & Collections, University of Michigan Library
-* Autumn Faulkner
-* Lauren B. Collister
-* Joshua Neds-Fox
-* Jamie Little
-* Mary Beth Lock
-* Molly Keener
-* Georgiana McReynolds, MIT Libraries
-* Jennifer Bowen
-* Kathleen M. Haley
-* Ashley Brewer
-* Elizabeth Wickes
-* Elisa Landaverde
-* Laura Carscaddon
-* Catherine Pellegrino
-* David Kinzer
-* Brian Rogers
-* Heather Greer Klein
-* Jordan Hale
-* Sarah Polkinghorne
-* Kimberly Silk
-* Krista Godfrey
-* Bobby Glushko, Western University
-* John Little
-* Ryan Regier
-* Judith Gallagher, MIT Libraries
-* Toby Greenwalt
-* Kendra K. Levine
-* Michael Sholinbeck
-* Tracy Gabridge, Deputy Director, MIT Libraries
-* Kristen Mapes
-* Alan Harnum
-* Ryan Merkley, CEO, Creative Commons
-* Ron Peterson (Code4Lib Journal Editorial Committee)
-* Jill Sodt
-* Wilhelmina Randtke
-* Chrissy Rissmeyer
-* Benjamin Webb
-* Angela Zoss
-* Patricia Flanagan, Associate Director for Academic and Community Engagement, MIT Libraries
-* Matthew Reidsma
-* Greg Smith
-* Keith Glavash, Associate Director for Administration, MIT Libraries
-* Teri M. Vogel
-* Greg Eow, Associate Director for Collections, MIT Libraries
-* Lea Iadarola
-* Alex R. Hodges
-* Geneva Henry
-* SJ Klein
-* Sarah Schwettmann
-* Adam Wead
-* Barbara Williams
+* Doralyn Rossmann
+* Dorothea Salo
+* Dorothy Kim
 * Dorothy Meaney
+* Dot Porter
+* Eben English
+* Ed Summers
+* Edward Bilodeau
+* Eleanor I. Cook
+* Elena Colón-Marrero
+* Elisa Landaverde
+* Elizabeth England
+* Elizabeth Lorang
+* Elizabeth Wickes
+* Ellen Finnie
+* Ellen Keith
+* Elliott Shore
+* Elvia Arroyo-Ramirez
+* Emily Clasper
+* Emily Gore
+* Emily Knox
+* Emily Morton-Owens
+* Emma C Moore
+* Eric Celeste
+* Eric Hanson (Code4Lib Journal Editorial Committee)
+* Eric Hellman
+* Eric Johnson
+* Eric Olson
+* Erica Hayes
+* Erik Radio
+* Erin Nettifee
+* Erin O'Meara
+* Erin Stalberg
+* Erin Templeton
+* Erin White
+* Esmé Cowles
+* Esther M. Jackson
+* Ethan Fenichel
+* Eugenia Beh
+* Eve Ross
+* F. Tim Knight
+* Faith Charlton
+* Fletcher Durant
+* Fobazi M Ettarh
+* Frances Botsford
+* Francesca Livermore
+* Francis Kayiwa
+* Gabrielle V. Michalek
+* Gail Steinhart
+* Galadriel Chilton
+* Garrett Eastman
+* Gary Price
+* Gary Thompson
+* Gayle Schechter
+* Geneva Henry
+* Genny Jon
+* Geoff Harder
+* Georgiana McReynolds
+* Gerald R. Beasley
+* Ginny Steel
+* Grace Barth
+* Grace Kindeke
+* Graeme Slaght
+* Graham Hukill
+* Greer Martin
+* Greg Eow
+* Greg Murray
+* Greg Smith
+* Greg Wiedeman
+* Gwen Bird
+* Hannah Frost
+* Hardy Joseph Pottinger IV
+* Heather Coates
+* Heather Greer Klein
+* Heather Joseph
+* Heather Joseph
+* Heather Soyka
+* Heather Yager
+* Hector Correa
+* Heidy Berthoud
+* Helen Bailey
+* Helen Szigeti
+* Helene Williams
+* Hillel Arnold
+* Hugh Cayless
+* Ian Clark
+* Ian Hardy
+* Ian Knabe
+* Ian Milligan
+* J. Matthew Huculak
+* Jack Reed
+* Jacob Berg
+* Jacob Zaborowski
+* Jaime Taylor
+* James C. Davis
+* James Neal
+* Jamie Folsom
+* Jamie Little
+* Janet Carleton
+* Jason Casden
+* Jason Griffey
+* Jason Heppler
+* Jason Rhody
+* Jason Ronallo
+* Jay Luker
+* jean amaral
+* Jeanine Finn
+* Jeff Sabol
+* Jeffrey Spies
+* Jen Green
+* Jen Waller
+* Jenifer Smith Holman
+* Jenn Colt
+* Jenn Riley
+* Jennie Rose Halperin
+* Jennifer B. Young
+* Jennifer Bowen
+* Jennifer Garrett
+* Jennifer Hendzlik
+* Jennifer Vinopal
+* Jer Thorp
+* Jere Odell
+* Jeremy Nelson
+* Jerry Waller
+* Jessamyn West
+* Jesse Martinez
+* Jessica Hilt
+* Jessica Moran
+* Jessica R. Olin
+* Jessica Schomberg
+* Jill Cirasella
+* Jill Sodt
+* Jim DelRosso
 * Joachim Neubert
 * Joan K. Lippincott
-* Diane Goldenberg-Hart
-* Eben English
-* Tanya Zanish-Belcher
-* Trevor A. Dawes
-* Eric Olson
-* Rachelle Nelson
-* Wendy Hagenmaier
-* Anneliese Dehner
-* Sarav Shah
-* Johnathan Martin
-* Naomi Dushay
-* Marc d'Avernas
-* Jennie Rose Halperin
-* Jessica R. Olin
-* Emily Clasper
-* Chealsye Bowley
-* Nancy Y. McGovern
-* Benjamin Albritton
-* Andy Ashton
-* Stacey Erdman
-* Gabrielle V. Michalek
-* Gayle Schechter
-* Joshua Ethan Sanchez
-* Jessica Schomberg
-* Amy Neeser
-* Garrett Eastman
-* Scott Warren
-* Keith Webster
-* William Conlin
-* Matthew Sheehy
-* Brad Houston 
-* Eric Hellman
-* May Yan
-* Lisa Martincik
-* Deborah A. Torres
-* Susan Wells Parham
-* Susan Skomal
-* Wesley Teal
-* Ryan Clement
-* Matt Upson
-* Keith Engwall
-* Chelcie Juliet Rowell
-* Jennifer Hendzlik
-* Claudia Hill
-* Heidy Berthoud
-* Sofía Becerra-Licha
-* Wendy Mann
-* M. G. Maloney, MLIS
-* Brett Williams
-* Matt Calsada
-* Patrick Murray-John
-* Jonathan Kift
-* Doralyn Rossmann
-* Jennifer Garrett
-* Steve Howes
-* Lauren Di Monte
-* Amy L. Nurnberger
-* Rochelle Mazar
-* Joe Carrano
-* Yamil Suarez
-* Andrew Gearhart
-* Dominic Mitchell on behalf of the Directory of Open Access Journals
-* Matt Carruthers
-* Rebecca Fraimow
-* Dave Durden
-* Mike Waugh
-* Kristen Hogan, Barnard Library & Academic Information Systems
-* Rachel Leach
-* Helen Bailey
-* Nate Hill, Metro
-* Kerri Willette, Metro
-* Diego Pino Navarro, Metro
-* John Mignault, Metro
-* Owen Stephens
-* Aliya Reich
-* Larry Alford, University of Toronto Libraries
-* Sian Meikle
-* Brandy Karl
-* Marcus Banks
-* Stephanie Bour
 * Joanna DiPasquale
-* Lee Konrad
+* Joanne Paterson
+* Joe Carrano
+* Joe Lucia
+* Joe Montibello
+* John Daniel
+* John Dupuis
+* John Fink
+* John Huck
+* John Jung
+* John Little
+* John Mark Ockerbloom
+* John Mignault
+* John Quentin Heywood
+* John T. Butler
+* Johnathan Martin
+* Jolie O. Graybill
+* Jon Stroop
 * Jonah Magar
-* Ruth Ann Jones, Special Collections Librarian, former Digital Projects Manager, Michigan State University Libraries
-* Michelle Baildon, MIT Libraries
-* Kevin Woolley
-* Katharine Dunn, MIT Libraries
-* Ellen Finnie, MIT Libraries
-* Sue M. Woodson
-* Steven Mandeville-Gamble, University Librarian, University of California, Riverside
-* David McCallum
-* Brian Harrington
-* Julie Hannaford 
-* Tom Boone
-* David Drexler
+* Jonathan Kift
+* Jonathan Rochkind
+* Jonathan Zittrain
+* Jordan Hale
+* Joseph Koivisto
+* Joseph McArthur
+* Joseph Salem
+* Josh Hall
+* Joshua Ethan Sanchez
+* Joshua Neds-Fox
+* Juan Pablo Alperin
+* Judith Gallagher
+* Judy Ruttenberg
+* Julia Lanigan
+* Julie C. Swierczek
+* Julie Goldman
+* Julie Hannaford
+* Julie Hardesty
+* Julie Sweetkind-Singer
+* Julien A. Raemy
+* Justin Coyne
+* Justin Littman
+* Justin Schell
+* K. G. Schneider, Ph.D.
+* Kaitlin Newson
+* Karen Estlund
+* Kari Smith
+* Karl-Rainer Blumenthal
+* Kat Hagedorn
+* Kate Flynn
 * Kate Joranson
-* Gwen Bird
+* Kate Simpson
+* Katharine Dunn
+* Katherine Deibel
+* Katherine Kim
+* Katherine Skinner
+* Kathleen Fitzpatrick
+* Kathleen M. Haley
+* Kathleen Reed
+* Katina Rogers
+* Kaylyn Groves
+* Keith Engwall
+* Keith Gilbertson
+* Keith Glavash
+* Keith Webster
+* Kelcy Shepherd
+* Kelly Bolding
+* Kelly Kietur
+* Ken Burhanna
+* Kendra K. Levine
+* Kerri Willette
+* Kevin Butterfield
+* Kevin Clair
+* Kevin Cloud
+* Kevin Reiss
+* Kevin S. Clarke
+* Kevin S. Hawkins
+* Kevin Sanders
+* Kevin Woolley
+* Kim Martin
+* Kim Pham
+* Kimberly Chapman
+* Kimberly M. Hoffman
+* Kimberly Silk
+* Krista Godfrey
+* Krista L. Cox
+* Kristen Hogan
+* Kristen Mapes
+* Kristen Ratan
+* Kristin Lee
+* Kristina Spurgin
+* Kurt Nordstrom
+* Kyle R. Rimkus
+* Kyle Shockey
+* Lane Wilkinson
+* Larry Alford
+* Laura C. Wood
+* Laura Carscaddon
+* Laura Koltutsky
+* Laura Miller
+* Laura Smart
+* Laura Wrubel
+* Lauren B. Collister
+* Lauren Di Monte
+* Lauren E. Fox
+* Lauren Klein
+* Laurie Taylor
+* Lea Iadarola
+* Leah Vanderjagt
+* Lee Konrad
+* Linda Ballinger
+* Lisa Janicke Hinchliffe
+* Lisa Marie Rhody
+* Lisa Martincik
+* Lisa Schiff
+* Liz C. Phillips
+* Logan Cox
+* Lora J. Woodford
+* Lorraine J. Haricombe
+* M. G. Maloney, MLIS
+* M. Taormina
+* Maggie Dickson
+* Maggie Schreiner
+* Mairéad Martin
+* Mara Sedlins
+* Marc d'Avernas
+* Marcus Banks
+* Mark A. Matienzo
+* Mark A. Matney, Jr.
+* Mark A. Puente
+* Mark Baggett
+* Mark Bussey
 * Mark Jordan
+* Mark Phillips
+* Martin Paul Eve
+* Mary Beth Lock
+* Mary Case
+* Mary Jinglewski
+* Mary Molinaro
+* Matt Bernhardt
+* Matt Calsada
+* Matt Carruthers
+* Matt Gold
+* Matt Upson
+* Matt Zumwalt
+* Matthew Barnett
+* Matthew Noe
+* Matthew Reidsma
+* Matthew Sheehy
+* Mattie Schraeder
+* Maura Smale
+* May Yan
+* Megan A. Brooks
+* Megan Kudzia
+* Melanie Schlosser
+* Melissa Cardenas-Dow
+* Melissa Wisner
+* Michael B. Klein
+* Michael Berkowski
+* Michael Della Bitta
+* Michael J. Giarlo
+* Michael Sholinbeck
+* Michael Toler
+* Michelle Baildon
+* Michelle Bass
+* Michèle Spieler
+* Mike Furlough
+* Mike Osterman
+* Mike Rylander
+* Mike Simpson
+* Mike Waugh
+* Miriam Posner
+* Misty De Meo
+* Moira Downey
+* Molly Keener
+* Monica McCormick
+* Najko Jahn
+* Nancy E. Adams
+* Nancy Y. McGovern
+* Naomi Dushay
+* Naomi House
+* Natalie DeJonghe
+* Nate Hill
+* Netanel Ganin
+* Nicholas Schiller
+* Nicholas Taylor
+* Nick Ruest
+* Nick Shockey
+* Nicky Agate
+* Nicky Andrews
+* Nicole Johnson
+* Nicole Radziwill
+* Norda Bell
+* Owen Stephens
+* Paige Morgan
+* Pam Ryan
+* Pat Tully
+* Patricia Flanagan
+* Patricia Hswe
+* Patrick Galligan
+* Patrick Murray-John
+* Paul Wester
+* Peter Binkley
+* Peter E. Murray
+* Peter Herdrich
+* Philip N. Cohen
+* Prudence S. Adler
+* R. David Lankes
+* Rachel Frick
+* Rachel Leach
+* Rachel Mattson
+* Rachelle Nelson
+* Randy Stern
+* Ranti Junus
+* Raym Crow
+* Rebecca Cremona
+* Rebecca Fraimow
+* Rebecca Hirsch (Code4Lib Journal Editorial Committee)
+* Rebecca Kennison
+* Rebecca Larocque
+* Rebekah Kati
+* Richard Higgins
+* Rob Sanderson
+* Robert Cartolano
+* Robert H. McDonald
+* Rochelle Mazar
+* Rogan Hamby
+* Ron Peterson (Code4Lib Journal Editorial Committee)
+* Roopika Risam
+* Roxanne Shirazi
+* Roy Tennant
+* Ruth Ann Jones
+* Ruth Kitchin Tillman (Code4Lib Journal Editorial Committee)
+* Ryan Claringbole
+* Ryan Clement
+* Ryan Cordell
+* Ryan Merkley
+* Ryan P. Randall
+* Ryan Regier
+* Ryan Wick
+* SJ Klein
+* Sam Popowich
+* Samantha Abrams
+* Samuel Hansen
+* Samuel R. Putnam
+* Sandra Sawchuk
+* Sandy Rodriguez
+* Sara Allain
+* Sarah Glassmeyer
+* Sarah Lester
+* Sarah Melton
+* Sarah Park
+* Sarah Polkinghorne
+* Sarah Romkey
+* Sarah Schwettmann
+* Sarah Shreeves
+* Sarah Simpkin
+* Sarah Stang
+* Sarah Thomas
+* Sarav Shah
+* Saskia Scheltjens
+* Scott Carlson
+* Scott Martin
+* Scott Prater
+* Scott W. H. Young
+* Scott Warren
+* Scott Ziegler
+* Scout Calvert, PhD.
+* Sean Luyk
 * Shana L. McDanold
-* Francesca Livermore
-
-
+* Shannon Hunt
+* Shannon K. Supple
+* Shari Laster
+* Sharon E. Farb
+* Sharon Farnel
+* Shaun Ellis
+* Shawn P. Calhoun
+* Sherry Lake
+* Shira Peltzman
+* Shirley Zhao
+* Sian Meikle
+* Siobhan Senier
+* Sofía Becerra-Licha
+* Spencer D. C. Keralis
+* Stacey Erdman
+* Stacie Traill
+* Stephanie Bour
+* Stephanie Willen Brown
+* Steve Casburn
+* Steve Howes
+* Steve Meyer
+* Steve Van Tuyl
+* Steven Mandeville-Gamble
+* Steven R. Harris
+* Suchi Mohanty
+* Sue Baughman
+* Sue M. Woodson
+* Susan Brown
+* Susan Ivey
+* Susan Skomal
+* Susan Wells Parham
+* Suzanne Wones
+* Tammy Dearie
+* Tanya Zanish-Belcher
+* Ted Polley
+* Teresa Schultz
+* Teri M. Vogel
+* Terry Reese
+* Thomas Keays
+* Thomas Padilla
+* Tierney Steelberg
+* Tim Donohue
+* Tim McGeary
+* Tim Wentz
+* Timothy A. Thompson
+* Tisha Mentnech
+* Toby Greenwalt
+* Tod Robbins
+* Tom Boone
+* Tom Brittnacher
+* Tom Bruno
+* Tom Habing
+* Tom Johnson
+* Tom Scheinfeldt
+* Tracy Gabridge
+* Trevor A. Dawes
+* Trevor Owens
+* Trip Kirkpatrick
+* Tyler Dzuba
+* Tyler Walters
+* Ursula Pieper
+* Valerie Forrestal
+* Valerie Hawkins
+* Vicky Steeves
+* Victoria Pilato
+* Vika Zafrin
+* Violet Fox
+* Violeta Ilik
+* Vivian Lewis
+* Wally Grotophorst
+* Walt Gurley
+* Wendy Hagenmaier
+* Wendy Mann
+* Wendy Robertson
+* Wesley Teal
+* Whitni Watkins
+* Wilhelmina Randtke
+* Will Sexton
+* Will Skora
+* William Conlin
+* William Denton
+* Yamil Suarez
+* Yasmeen Shorish
+* Yoo Young Lee
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
