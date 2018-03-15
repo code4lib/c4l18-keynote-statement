@@ -212,6 +212,7 @@ unprofessional behavior.
 * Derek Merleaux
 * Derek Zoladz
 * Desmond Wong
+* Devin Higgins
 * Diane Goldenberg-Hart
 * Diego Pino Navarro
 * Dolly Knight
