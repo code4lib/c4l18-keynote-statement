@@ -45,6 +45,7 @@ unprofessional behavior.
 * Digital Library Federation (DLF)
 * Directory of Open Access Journals
 * DuraSpace
+* Executive Committee of Penn Libraries' Group on Library Diversity (GOLD)
 * George Washington University Libraries and Academic Innovation
 * Hypothes.is
 * Library Publishing Coalition
@@ -53,6 +54,7 @@ unprofessional behavior.
 * Penn State University Libraries
 * Public Knowledge Project (PKP)
 * Scholarly Publishing and Academic Resources Coalition (SPARC)
+* Triangle Research Libraries Network (TRLN)
 * University of Delaware Library
 * University of Virginia Scholars' Lab
 
@@ -154,6 +156,7 @@ unprofessional behavior.
 * Chad Haefele
 * Chad Nelson
 * Chana Kraus-Friedberg
+* Char Booth
 * Charles Ed Hill
 * Charlotte Rock
 * Chealsye Bowley
@@ -167,6 +170,7 @@ unprofessional behavior.
 * Christopher Cronin
 * Christy Hyman
 * Christy Tomecek
+* Claire S.
 * Claire Stewart
 * Claudia Hill
 * Cody Hanson
@@ -404,6 +408,7 @@ unprofessional behavior.
 * Kathleen Fitzpatrick
 * Kathleen M. Haley
 * Kathleen Reed
+* Katie Gillespie
 * Katina Rogers
 * Kaylyn Groves
 * Keith Engwall
@@ -502,6 +507,7 @@ unprofessional behavior.
 * Melanie Schlosser
 * Melissa Cardenas-Dow
 * Melissa Wisner
+* Meredith Broadway
 * Michael B. Klein
 * Michael Berkowski
 * Michael Della Bitta
@@ -689,6 +695,7 @@ unprofessional behavior.
 * Wendy Hagenmaier
 * Wendy Mann
 * Wendy Robertson
+* Wendy Scott
 * Wesley Teal
 * Whitni Watkins
 * Wilhelmina Randtke
