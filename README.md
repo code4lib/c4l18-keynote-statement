@@ -686,6 +686,8 @@ unprofessional behavior.
 * Julie Hannaford 
 * Tom Boone
 * David Drexler
+* Gwen Bird
+* Mark Jordan
 
 
 
