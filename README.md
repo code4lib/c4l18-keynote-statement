@@ -682,6 +682,7 @@ unprofessional behavior.
 * Sue M. Woodson
 * Steven Mandeville-Gamble, University Librarian, University of California, Riverside
 * David McCallum
+* Brian Harrington
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
