@@ -684,6 +684,7 @@ unprofessional behavior.
 * David McCallum
 * Brian Harrington
 * Julie Hannaford 
+* Tom Boone
 
 
 *Additional signatures are welcome. To sign, please open a pull request
