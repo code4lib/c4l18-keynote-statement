@@ -279,6 +279,7 @@ unprofessional behavior.
 * Georgiana McReynolds
 * Gerald R. Beasley
 * Ginny Steel
+* Glen Worthey
 * Grace Barth
 * Grace Kindeke
 * Graeme Slaght
@@ -588,6 +589,7 @@ unprofessional behavior.
 * Robert H. McDonald
 * Rochelle Mazar
 * Rogan Hamby
+* Ron Nakao
 * Ron Peterson (Code4Lib Journal Editorial Committee)
 * Roopika Risam
 * Roxanne Shirazi
@@ -623,6 +625,7 @@ unprofessional behavior.
 * Sarah Walden McGowan
 * Sarav Shah
 * Saskia Scheltjens
+* Scott Bailey
 * Scott Carlson
 * Scott Martin
 * Scott Prater
