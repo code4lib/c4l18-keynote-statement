@@ -441,7 +441,6 @@ unprofessional behavior.
 * Kristen Hogan
 * Kristen Mapes
 * Kristen Ratan
-* Kristi Park
 * Kristin Lee
 * Kristina Spurgin
 * Kurt Nordstrom
@@ -710,6 +709,8 @@ unprofessional behavior.
 * Yamil Suarez
 * Yasmeen Shorish
 * Yoo Young Lee
+* Kristi Park
+* Maureen Walsh
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
