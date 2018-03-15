@@ -279,6 +279,7 @@ unprofessional behavior.
 * Greg Murray
 * Greg Smith
 * Greg Wiedeman
+* Gwen Bird
 * Hannah Frost
 * Hardy Joseph Pottinger IV
 * Heather Coates
@@ -475,6 +476,7 @@ unprofessional behavior.
 * Mark A. Puente
 * Mark Baggett
 * Mark Bussey
+* Mark Jordan
 * Mark Phillips
 * Martin Paul Eve
 * Mary Beth Lock
@@ -611,6 +613,7 @@ unprofessional behavior.
 * Scott Ziegler
 * Scout Calvert, PhD.
 * Sean Luyk
+* Shana L. McDanold
 * Shannon Hunt
 * Shannon K. Supple
 * Shari Laster
