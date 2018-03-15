@@ -343,7 +343,8 @@ unprofessional behavior.
 * Ian Milligan
 * Shirley Zhao
 * Michèle Spieler
-* Juan Pablo Alperin on behalf of the Public Knowledge Project (PKP)
+* Juan Pablo Alperin
+* Public Knowledge Project (PKP)
 * jean amaral
 * debra hanken kurtz
 * Anna Filippova
