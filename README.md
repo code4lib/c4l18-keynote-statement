@@ -399,7 +399,6 @@ unprofessional behavior.
 * Karen Estlund
 * Kari Smith
 * Karl-Rainer Blumenthal
-* Karla Strieb
 * Kat Hagedorn
 * Kate Flynn
 * Kate Joranson
@@ -565,6 +564,7 @@ unprofessional behavior.
 * Philip N. Cohen
 * Prudence S. Adler
 * R. David Lankes
+* Rachel Donahue
 * Rachel Frick
 * Rachel Leach
 * Rachel Mattson
@@ -669,7 +669,6 @@ unprofessional behavior.
 * Thomas Keays
 * Thomas Padilla
 * Tierney Steelberg
-* Tim DiLauro
 * Tim Donohue
 * Tim McGeary
 * Tim Wentz
