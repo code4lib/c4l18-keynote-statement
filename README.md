@@ -687,6 +687,9 @@ unprofessional behavior.
 * Tom Boone
 * David Drexler
 * Kate Joranson
+* Gwen Bird
+* Mark Jordan
+
 
 
 *Additional signatures are welcome. To sign, please open a pull request
