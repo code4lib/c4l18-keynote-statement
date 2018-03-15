@@ -686,7 +686,7 @@ unprofessional behavior.
 * Julie Hannaford 
 * Tom Boone
 * David Drexler
-
+* Kate Joranson
 
 
 *Additional signatures are welcome. To sign, please open a pull request
