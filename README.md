@@ -580,6 +580,7 @@ unprofessional behavior.
 * Rebecca Larocque
 * Rebekah Kati
 * Richard Higgins
+* Richard Rodgers
 * Rob Sanderson
 * Robert Cartolano
 * Robert H. McDonald
