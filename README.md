@@ -220,6 +220,7 @@ unprofessional behavior.
 * Dominic Bordelon
 * Dominic Mitchell
 * Dominique Luster
+* Donna Bourne-Tyson
 * Donna M. Lanclos
 * Doralyn Rossmann
 * Dorothea Salo
@@ -488,6 +489,7 @@ unprofessional behavior.
 * Mara Sedlins
 * Marc d'Avernas
 * Marcus Banks
+* Margaret Vail
 * Mark A. Matienzo
 * Mark A. Matney, Jr.
 * Mark A. Puente
