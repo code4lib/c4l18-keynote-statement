@@ -139,6 +139,7 @@ unprofessional behavior.
 * Brandon Butler
 * Brandon Dudley
 * Brandy Karl
+* Brenda Wallace
 * Brendan Quinn
 * Brett Williams
 * Bria Parker
