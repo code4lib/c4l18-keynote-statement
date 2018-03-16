@@ -575,6 +575,7 @@ unprofessional behavior.
 * Rachel Frick
 * Rachel Leach
 * Rachel Mattson
+* Rachel Vacek
 * Rachelle Nelson
 * Randy Stern
 * Ranti Junus
