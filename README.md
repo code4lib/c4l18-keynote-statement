@@ -319,6 +319,7 @@ unprofessional behavior.
 * James Neal
 * Jamie Folsom
 * Jamie Little
+* Jane Nichols
 * Janet Carleton
 * Jason Casden
 * Jason Griffey
