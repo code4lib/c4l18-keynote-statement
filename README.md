@@ -157,6 +157,7 @@ unprofessional behavior.
 * Cathy Aster
 * Cecily Marcus
 * Cecily Walker
+* Celeste Â-Re, Ph.D
 * Chad Haefele
 * Chad Nelson
 * Chana Kraus-Friedberg
