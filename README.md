@@ -78,6 +78,7 @@ unprofessional behavior.
 * Alexandra Dolan-Mescal
 * Alexis Logsdon
 * Alison Blaine
+* Alison Hitchens
 * Aliya Reich
 * Allison Langham
 * Alyssa Loera
