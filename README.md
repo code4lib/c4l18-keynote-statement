@@ -112,6 +112,7 @@ unprofessional behavior.
 * Anne Slaughter
 * Anneliese Dehner
 * Araceli Hintermeister
+* Arianna Schlegel
 * Artemis Kirk
 * Ashley Blewer
 * Ashley Brewer
