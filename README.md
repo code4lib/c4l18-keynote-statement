@@ -197,6 +197,7 @@ unprofessional behavior.
 * Dan Cohen
 * Dan Coughlin
 * Dan Scott
+* Daniel Chamberlain
 * Daniel Sanford
 * Dave Durden
 * Dave Mayo
