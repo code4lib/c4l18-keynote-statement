@@ -192,6 +192,7 @@ unprofessional behavior.
 * Cynthia Mari Orozco
 * Cynthia Ng
 * D.R. Tyler Magill
+* Daina Bouquin
 * Dale Askey
 * Damon Jaggars
 * Dan Cohen
