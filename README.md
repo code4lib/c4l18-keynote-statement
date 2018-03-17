@@ -185,6 +185,7 @@ unprofessional behavior.
 * Clifford Lynch
 * Cody Hanson
 * Colin Nickels
+* Coral Sheldon-Hess
 * Corey A Harper
 * Corey Davis
 * Courtney C. Mumma
