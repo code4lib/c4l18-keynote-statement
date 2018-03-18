@@ -670,6 +670,7 @@ unprofessional behavior.
 * Spencer D. C. Keralis
 * Stacey Erdman
 * Stacie Traill
+* Stacy Torian
 * Stephanie Bour
 * Stephanie Willen Brown
 * Steve Casburn
