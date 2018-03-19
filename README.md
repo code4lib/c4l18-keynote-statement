@@ -687,6 +687,7 @@ unprofessional behavior.
 * Sue Baughman
 * Sue M. Woodson
 * Susan Brown
+* Susan Gibbons
 * Susan Ivey
 * Susan Skomal
 * Susan Wells Parham
