@@ -174,6 +174,7 @@ unprofessional behavior.
 * Chris Stanton
 * Chrissy Rissmeyer
 * Christie Peterson
+* Christian Knudsen
 * Christina Harlow
 * Christina K. Pikas, PhD
 * Christopher Cronin
