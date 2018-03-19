@@ -50,6 +50,7 @@ unprofessional behavior.
 * Hypothes.is
 * Library Publishing Coalition
 * Library and Information Technology Association (LITA)
+* LibTechWomen
 * Lost in the Stacks on WREK
 * Metropolitan New York Library Council (Metro)
 * Penn State University Libraries
