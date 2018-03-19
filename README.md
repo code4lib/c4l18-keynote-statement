@@ -690,6 +690,7 @@ unprofessional behavior.
 * Susan Ivey
 * Susan Skomal
 * Susan Wells Parham
+* Suzanne Bartels
 * Suzanne Wones
 * Tammy Dearie
 * Tanya Zanish-Belcher
@@ -745,7 +746,7 @@ unprofessional behavior.
 * Yamil Suarez
 * Yasmeen Shorish
 * Yoo Young Lee
-* Suzanne Bartels
+
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
 [GitHub repository](https://github.com/code4lib/c4l18-keynote-statement)
