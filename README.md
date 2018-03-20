@@ -592,6 +592,7 @@ unprofessional behavior.
 * Peter Binkley
 * Peter E. Murray
 * Peter Herdrich
+* Péter Király (Code4Lib Journal Editorial Committee)
 * Philip N. Cohen
 * Prudence S. Adler
 * R. David Lankes
