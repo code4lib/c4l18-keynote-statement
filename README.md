@@ -77,6 +77,7 @@ unprofessional behavior.
 * Alex Willett
 * Alexandra Chassanoff
 * Alexandra Dolan-Mescal
+* Alexandra Marraccini
 * Alexis Logsdon
 * Alison Blaine
 * Alison Hitchens
@@ -271,6 +272,7 @@ unprofessional behavior.
 * Esmé Cowles
 * Esther M. Jackson
 * Ethan Fenichel
+* Etienne Posthumus
 * Eugenia Beh
 * Eve Ross
 * F. Tim Knight
@@ -306,6 +308,7 @@ unprofessional behavior.
 * Greg Wiedeman
 * Gwen Bird
 * Hannah Frost
+* Hans Brandhorst
 * Hardy Joseph Pottinger IV
 * Heather Coates
 * Heather Greer Klein
