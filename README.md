@@ -184,6 +184,7 @@ unprofessional behavior.
 * Corey Davis
 * Courtney C. Mumma
 * Craig Boman
+* Creighton Barett
 * Cynthia Mari Orozco
 * Cynthia Ng
 * D.R. Tyler Magill
