@@ -50,6 +50,7 @@ unprofessional behavior.
 * Hypothes.is
 * Library Publishing Coalition
 * Library and Information Technology Association (LITA)
+* LibTechWomen
 * Lost in the Stacks on WREK
 * Metropolitan New York Library Council (Metro)
 * Penn State University Libraries
@@ -76,8 +77,10 @@ unprofessional behavior.
 * Alex Willett
 * Alexandra Chassanoff
 * Alexandra Dolan-Mescal
+* Alexandra Marraccini
 * Alexis Logsdon
 * Alison Blaine
+* Alison Hitchens
 * Aliya Reich
 * Allison Langham
 * Alyssa Loera
@@ -112,6 +115,7 @@ unprofessional behavior.
 * Anne Slaughter
 * Anneliese Dehner
 * Araceli Hintermeister
+* Arianna Schlegel
 * Artemis Kirk
 * Ashley Blewer
 * Ashley Brewer
@@ -137,6 +141,7 @@ unprofessional behavior.
 * Brandon Butler
 * Brandon Dudley
 * Brandy Karl
+* Brenda Wallace
 * Brendan Quinn
 * Brett Williams
 * Bria Parker
@@ -152,6 +157,7 @@ unprofessional behavior.
 * Carol Bean
 * Carolyn Caizzi
 * Carolyn Ciesla
+* Carolyn Moritz
 * Carrie Wade
 * Catherine Pellegrino
 * Cathy Aster
@@ -170,6 +176,7 @@ unprofessional behavior.
 * Chris Stanton
 * Chrissy Rissmeyer
 * Christie Peterson
+* Christian Knudsen
 * Christina Harlow
 * Christina K. Pikas, PhD
 * Christopher Cronin
@@ -178,21 +185,26 @@ unprofessional behavior.
 * Claire S.
 * Claire Stewart
 * Claudia Hill
+* Clifford Lynch
 * Cody Hanson
 * Colin Nickels
+* Coral Sheldon-Hess
 * Corey A Harper
 * Corey Davis
+* Corinne Miller
 * Courtney C. Mumma
 * Craig Boman
 * Creighton Barett
 * Cynthia Mari Orozco
 * Cynthia Ng
 * D.R. Tyler Magill
+* Daina Bouquin
 * Dale Askey
 * Damon Jaggars
 * Dan Cohen
 * Dan Coughlin
 * Dan Scott
+* Daniel Chamberlain
 * Daniel Sanford
 * Dave Durden
 * Dave Mayo
@@ -261,6 +273,7 @@ unprofessional behavior.
 * Esmé Cowles
 * Esther M. Jackson
 * Ethan Fenichel
+* Etienne Posthumus
 * Eugenia Beh
 * Eve Ross
 * F. Tim Knight
@@ -290,11 +303,13 @@ unprofessional behavior.
 * Graham Hukill
 * Greer Martin
 * Greg Eow
+* Greg Kostin
 * Greg Murray
 * Greg Smith
 * Greg Wiedeman
 * Gwen Bird
 * Hannah Frost
+* Hans Brandhorst
 * Hardy Joseph Pottinger IV
 * Heather Coates
 * Heather Greer Klein
@@ -322,6 +337,7 @@ unprofessional behavior.
 * James Neal
 * Jamie Folsom
 * Jamie Little
+* Jamie MacKenzie
 * Jane Nichols
 * Janet Carleton
 * Jason Casden
@@ -344,6 +360,7 @@ unprofessional behavior.
 * Jennifer Bowen
 * Jennifer Garrett
 * Jennifer Hendzlik
+* Jennifer Paustenbaugh
 * Jennifer Vinopal
 * Jer Thorp
 * Jere Odell
@@ -406,6 +423,7 @@ unprofessional behavior.
 * K. G. Schneider, Ph.D.
 * Kaitlin Newson
 * Karen Estlund
+* Karen Williams
 * Kari Smith
 * Karl-Rainer Blumenthal
 * Karla Strieb
@@ -473,11 +491,13 @@ unprofessional behavior.
 * Lea Iadarola
 * Leah Vanderjagt
 * Lee Konrad
+* Liam Whalen
 * Linda Ballinger
 * Lisa Janicke Hinchliffe
 * Lisa Marie Rhody
 * Lisa Martincik
 * Lisa Schiff
+* Liz Hamilton
 * Liz C. Phillips
 * Logan Cox
 * Lora J. Woodford
@@ -511,6 +531,7 @@ unprofessional behavior.
 * Matt Upson
 * Matt Zumwalt
 * Matthew Barnett
+* Matthew Harp
 * Matthew Noe
 * Matthew Reidsma
 * Matthew Sheehy
@@ -572,6 +593,7 @@ unprofessional behavior.
 * Peter Binkley
 * Peter E. Murray
 * Peter Herdrich
+* Péter Király (Code4Lib Journal Editorial Committee)
 * Philip N. Cohen
 * Prudence S. Adler
 * R. David Lankes
@@ -592,6 +614,7 @@ unprofessional behavior.
 * Rebekah Kati
 * Richard Higgins
 * Richard Rodgers
+* Rick Luce
 * Rob Sanderson
 * Robert Cartolano
 * Robert H. McDonald
@@ -659,6 +682,7 @@ unprofessional behavior.
 * Spencer D. C. Keralis
 * Stacey Erdman
 * Stacie Traill
+* Stacy Torian
 * Stephanie Bour
 * Stephanie Willen Brown
 * Steve Casburn
@@ -669,11 +693,14 @@ unprofessional behavior.
 * Steven R. Harris
 * Suchi Mohanty
 * Sue Baughman
+* Sue Mehrer
 * Sue M. Woodson
 * Susan Brown
+* Susan Gibbons
 * Susan Ivey
 * Susan Skomal
 * Susan Wells Parham
+* Suzanne Bartels
 * Suzanne Wones
 * Tammy Dearie
 * Tanya Zanish-Belcher
@@ -729,6 +756,7 @@ unprofessional behavior.
 * Yamil Suarez
 * Yasmeen Shorish
 * Yoo Young Lee
+
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
