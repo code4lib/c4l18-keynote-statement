@@ -39,6 +39,7 @@ unprofessional behavior.
 * Association of University Presses
 * Black Caucus of the American Library Association (BCALA)
 * Boston Library Consortium
+* Canadian Association of Research Libraries – Association des bibliothèques de recherche du Canada
 * Council on Library and Information Resources (CLIR)
 * Data Curation Experts, LLC (DCE)
 * Digital Frontiers
