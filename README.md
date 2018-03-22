@@ -640,6 +640,7 @@ unprofessional behavior.
 * Samuel Hansen
 * Samuel R. Putnam
 * Sandra Sawchuk
+* Sandy Payette
 * Sandy Rodriguez
 * Sara Allain
 * Sarah Glassmeyer
