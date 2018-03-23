@@ -350,6 +350,7 @@ unprofessional behavior.
 * Jay Luker
 * jean amaral
 * Jeanine Finn
+* Jeff Kosokoff
 * Jeff Sabol
 * Jeffrey Spies
 * Jen Green
