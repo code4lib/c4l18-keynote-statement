@@ -36,6 +36,7 @@ unprofessional behavior.
 * Association for Computers in the Humanities (ACH)
 * Association of College & Research Libraries (ACRL)
 * Association of Research Libraries
+* Association of Southeastern Research Libraries (ASERL)
 * Association of University Presses
 * Black Caucus of the American Library Association (BCALA)
 * Boston Library Consortium
