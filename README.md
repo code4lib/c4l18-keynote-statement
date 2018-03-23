@@ -739,6 +739,7 @@ unprofessional behavior.
 * Tyler Walters
 * Ursula Pieper
 * Valerie Forrestal
+* Valerie Gillispie
 * Valerie Hawkins
 * Vicky Steeves
 * Victoria Pilato
