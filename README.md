@@ -296,6 +296,7 @@ unprofessional behavior.
 * Genny Jon
 * Geoff Harder
 * Georgiana McReynolds
+* Georgie Donovan
 * Gerald R. Beasley
 * Ginny Steel
 * Glen Worthey
@@ -482,6 +483,7 @@ unprofessional behavior.
 * Larry Alford
 * Laura C. Wood
 * Laura Carscaddon
+* Laura I. Spears
 * Laura Koltutsky
 * Laura Miller
 * Laura Smart
