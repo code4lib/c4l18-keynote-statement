@@ -59,6 +59,7 @@ unprofessional behavior.
 * Penn State University Libraries
 * Public Knowledge Project (PKP)
 * Scholarly Publishing and Academic Resources Coalition (SPARC)
+* Special Libraries Association (SLA)
 * Triangle Research Libraries Network (TRLN)
 * University of Delaware Library
 * University of Virginia Scholars' Lab
