@@ -42,6 +42,7 @@ unprofessional behavior.
 * Boston Library Consortium
 * Canadian Association of Research Libraries – Association des bibliothèques de recherche du Canada
 * Council on Library and Information Resources (CLIR)
+* Council of Prairie and Pacific University Libraries (COPPUL)
 * Data Curation Experts, LLC (DCE)
 * Digital Frontiers
 * Digital Library Federation (DLF)
