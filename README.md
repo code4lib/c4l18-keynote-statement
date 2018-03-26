@@ -438,6 +438,7 @@ unprofessional behavior.
 * Katharine Dunn
 * Katherine Deibel
 * Katherine Kim
+* Katherine Lynch
 * Katherine Skinner
 * Kathleen Fitzpatrick
 * Kathleen M. Haley
