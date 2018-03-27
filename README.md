@@ -95,6 +95,7 @@ unprofessional behavior.
 * Amanda Whitmire
 * Amelia Gibson
 * Amy Buckland
+* Amy Lestition Burke
 * Amy Filiatreau
 * Amy Gay
 * Amy L. Nurnberger
@@ -313,6 +314,7 @@ unprofessional behavior.
 * Greg Smith
 * Greg Wiedeman
 * Gwen Bird
+* Hal Kirkwood
 * Hannah Frost
 * Hans Brandhorst
 * Hardy Joseph Pottinger IV
@@ -534,6 +536,7 @@ unprofessional behavior.
 * Mary Case
 * Mary Jinglewski
 * Mary Molinaro
+* Mary Talley
 * Matt Bernhardt
 * Matt Calsada
 * Matt Carruthers
@@ -584,6 +587,7 @@ unprofessional behavior.
 * Netanel Ganin
 * Nicholas Schiller
 * Nicholas Taylor
+* Nick Collison
 * Nick Ruest
 * Nick Shockey
 * Nicky Agate
@@ -628,6 +632,7 @@ unprofessional behavior.
 * Rob Sanderson
 * Robert Cartolano
 * Robert H. McDonald
+* Roberto Sarmiento
 * Rochelle Mazar
 * Rogan Hamby
 * Ron Nakao
