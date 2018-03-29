@@ -405,6 +405,7 @@ unprofessional behavior.
 * Jon Stroop
 * Jonah Magar
 * Jonathan Kift
+* Jonathan Manton
 * Jonathan Rochkind
 * Jonathan Zittrain
 * Jordan Hale
