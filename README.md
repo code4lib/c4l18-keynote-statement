@@ -59,6 +59,7 @@ unprofessional behavior.
 * Penn State University Libraries
 * Public Knowledge Project (PKP)
 * Scholarly Publishing and Academic Resources Coalition (SPARC)
+* Society of Southwest Archivists
 * Special Libraries Association (SLA)
 * Triangle Research Libraries Network (TRLN)
 * University of Delaware Library
@@ -372,6 +373,7 @@ unprofessional behavior.
 * Jennifer Vinopal
 * Jer Thorp
 * Jere Odell
+* Jeremy Brett
 * Jeremy Nelson
 * Jerry Waller
 * Jessamyn West
