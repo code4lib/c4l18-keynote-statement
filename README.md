@@ -40,6 +40,7 @@ unprofessional behavior.
 * Association of University Presses
 * Black Caucus of the American Library Association (BCALA)
 * Boston Library Consortium
+* British Columbia Library Association (BCLA) 
 * Canadian Association of Research Libraries – Association des bibliothèques de recherche du Canada
 * Council of Prairie and Pacific University Libraries (COPPUL)
 * Council on Library and Information Resources (CLIR)
