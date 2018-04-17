@@ -384,6 +384,7 @@ unprofessional behavior.
 * Jessica Moran
 * Jessica R. Olin
 * Jessica Schomberg
+* Jessica Whu
 * Jill Cirasella
 * Jill Sodt
 * Jim DelRosso
