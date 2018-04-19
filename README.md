@@ -667,6 +667,7 @@ unprofessional behavior.
 * Sandy Rodriguez
 * Sanjeet Mann
 * Sara Allain
+* Sara Amato
 * Sarah Glassmeyer
 * Sarah Lester
 * Sarah Melton
