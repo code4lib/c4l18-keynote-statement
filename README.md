@@ -600,6 +600,7 @@ unprofessional behavior.
 * Nick Shockey
 * Nicky Agate
 * Nicky Andrews
+* Nicole E. Brown
 * Nicole Johnson
 * Nicole Radziwill
 * Noah Geraci
